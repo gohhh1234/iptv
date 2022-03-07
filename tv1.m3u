@@ -1,0 +1,3146 @@
+#EXTM3U
+#EXTINF:-1 group-title="新马频道",TV1
+http://iptv8080iptv.000webhostapp.com/php/rtm.php?tp=1&id=1&qu=480
+#EXTINF:-1 group-title="新马频道",TV1
+http://iptv8080iptv.000webhostapp.com/php/TV1.php?qu=480
+#EXTINF:-1 group-title="新马频道",TV1
+http://iptv8080iptv.000webhostapp.com/php/rtm.php?tp=1&id=1&qu=720
+#EXTINF:-1 group-title="新马频道",TV1
+http://iptv8080iptv.000webhostapp.com/php/TV1.php?qu=720
+#EXTINF:-1 group-title="新马频道",TV1
+http://iptv8080iptv.000webhostapp.com/php/rtm.php?tp=1&id=1&qu=1080
+#EXTINF:-1 group-title="新马频道",TV1
+http://iptv8080iptv.000webhostapp.com/php/TV1.php?qu=1080
+#EXTINF:-1 group-title="新马频道",TV2
+http://iptv8080iptv.000webhostapp.com/php/rtm.php?tp=2&id=1&qu=480
+#EXTINF:-1 group-title="新马频道",TV2
+http://iptv8080iptv.000webhostapp.com/php/TV2.php?qu=480
+#EXTINF:-1 group-title="新马频道",TV2
+http://iptv8080iptv.000webhostapp.com/php/rtm.php?tp=2&id=1&qu=720
+#EXTINF:-1 group-title="新马频道",TV2
+http://iptv8080iptv.000webhostapp.com/php/TV2.php?qu=720
+#EXTINF:-1 group-title="新马频道",TV2
+http://iptv8080iptv.000webhostapp.com/php/rtm.php?tp=2&id=1&qu=1080
+#EXTINF:-1 group-title="新马频道",TV2
+http://iptv8080iptv.000webhostapp.com/php/TV2.php?qu=1080
+#EXTINF:-1 group-title="新马频道",TV3
+http://iptv8080iptv.000webhostapp.com/php/TV3,1.php?id=1
+#EXTINF:-1 group-title="新马频道",Berita RTM
+http://iptv8080iptv.000webhostapp.com/php/BeritaRTM.php?qu=480
+#EXTINF:-1 group-title="新马频道",Berita RTM
+http://iptv8080iptv.000webhostapp.com/php/rtm.php?tp=3&id=2&qu=480
+#EXTINF:-1 group-title="新马频道",Berita RTM
+http://iptv8080iptv.000webhostapp.com/php/rtm.php?tp=3&id=2&qu=720
+#EXTINF:-1 group-title="新马频道",Berita RTM
+http://iptv8080iptv.000webhostapp.com/php/BeritaRTM.php?qu=720
+#EXTINF:-1 group-title="新马频道",Berita RTM
+http://iptv8080iptv.000webhostapp.com/php/BeritaRTM.php?qu=1080
+#EXTINF:-1 group-title="新马频道",Berita RTM
+http://iptv8080iptv.000webhostapp.com/php/rtm.php?tp=3&id=2&qu=1080
+#EXTINF:-1 group-title="新马频道",Mediacorp 5
+mitv://147.135.39.171:9906/5ea29be000056759d0c5e25c6faf4d5e.ts
+#EXTINF:-1 group-title="新马频道",Mediacorp 8
+mitv://147.135.39.171:9906/5ea29be0000e37c8d0c5e49e1d7e2fe9.ts
+#EXTINF:-1 group-title="新马频道",Mediacorp 8
+http://50.7.222.130:8278/streams/d/Channel8HD/playlist.m3u8
+#EXTINF:-1 group-title="新马频道",NTV7
+http://iptv8080iptv.000webhostapp.com/php/live.php?strz=NTV7&qu=480
+#EXTINF:-1 group-title="新马频道",NTV7
+http://iptv8080iptv.000webhostapp.com/php/live.php?strz=NTV7&qu=720
+#EXTINF:-1 group-title="新马频道",NTV7
+http://iptv8080iptv.000webhostapp.com/php/live.php?strz=NTV7&qu=1080
+#EXTINF:-1 group-title="新马频道",NTV7
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+#EXTINF:-1 group-title="新马频道",八度空间
+http://iptv8080iptv.000webhostapp.com/php/live.php?strz=8TV&qu=480
+#EXTINF:-1 group-title="新马频道",八度空间
+http://iptv8080iptv.000webhostapp.com/php/live.php?strz=8TV&qu=720
+#EXTINF:-1 group-title="新马频道",八度空间
+http://iptv8080iptv.000webhostapp.com/php/live.php?strz=8TV&qu=1080
+#EXTINF:-1 group-title="新马频道",八度空间
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8
+#EXTINF:-1 group-title="新马频道",TV9
+http://iptv8080iptv.000webhostapp.com/php/TV9.php?qu=480
+#EXTINF:-1 group-title="新马频道",TV9
+http://iptv8080iptv.000webhostapp.com/php/TV9.php?qu=720
+#EXTINF:-1 group-title="新马频道",TV9
+http://iptv8080iptv.000webhostapp.com/php/TV9.php?qu=1080
+#EXTINF:-1 group-title="新马频道",GOSHOP
+http://iptv8080iptv.000webhostapp.com/php/GOSHOP.php?id=480
+#EXTINF:-1 group-title="新马频道",Suria
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8,https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+#EXTINF:-1 group-title="新马频道",Vasantham
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8,https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+#EXTINF:-1 group-title="新马频道",TV1
+P2p://147.135.39.171:9906/5cc690ef00003d09faedb76859f97961.ts
+#EXTINF:-1 group-title="新马频道",TV2
+P2p://147.135.39.171:9906/5cc690ee000ddbabfaedb6fb4a9f251a.ts
+#EXTINF:-1 group-title="新马频道",TV3
+P2p://147.135.39.171:9906/5e70639d0008ef4d0c99c9a23c1832d2.ts
+#EXTINF:-1 group-title="新马频道",TV3
+mitv://147.135.39.171:9906/5e70639d0008ef4d0c99c9a23c1832d2.ts
+#EXTINF:-1 group-title="新马频道",八度空间
+P2p://147.135.39.171:9906/5ea326ab00050fbdd2e40b451ec44f78.ts
+#EXTINF:-1 group-title="新马频道",TV9
+P2p://147.135.39.171:9906/5e70639e0009c6f70c99cdb9519c473f.ts
+#EXTINF:-1 group-title="新马频道",Berita RTM
+P2p://147.135.39.171:9906/5eb2a25e000c65a00f5f647368d77267.ts
+#EXTINF:-1 group-title="新马频道",WARNA
+mitv://147.135.39.171:9906/5e70639e000f0e3b0c99cf216c5913ce.ts
+#EXTINF:-1 group-title="新马频道",PRIMA
+mitv://147.135.39.171:9906/5e7063a0000087f20c99d337506b0805.ts
+#EXTINF:-1 group-title="新马频道",CITRA
+mitv://147.135.39.171:9906/5e7063a0000594700c99d4805d9d78bd.ts
+#EXTINF:-1 group-title="新马频道",RIA
+mitv://147.135.39.171:9906/5e70639f00049b1c0c99d059295a2a4b.ts
+#EXTINF:-1 group-title="新马频道",AWANI
+mitv://147.135.39.171:9906/5e7cedac0000aae33d951cf503ce1dcb.ts
+#EXTINF:-1 group-title="新马频道",全佳
+mitv://147.135.39.171:9906/5c4fcb8900029b927eeb6ef27e573cdc.ts
+#EXTINF:-1 group-title="新马频道",双星
+mitv://147.135.39.171:9906/5c4fcc4900021daf7eee5cd26e523e7e.ts
+#EXTINF:-1 group-title="新马频道",双星
+http://iptv-line.com:7899/sSnquTekjC/sRnkJCBXT2/110182
+#EXTINF:-1 group-title="新马频道",欢喜台  （Hua Hee Tai）
+http://tvku.live:8888/live/Tamtowi/mY6WYb498C/4313.m3u8
+#EXTINF:-1 group-title="新马频道",欢喜台  （Hua Hee Tai）
+http://iptv-line.com:7899/sSnquTekjC/sRnkJCBXT2/110192
+#EXTINF:-1 group-title="新马频道",欢喜台  （Hua Hee Tai）
+http://m3u.area51iptv.site:7899/R31wH32olG/8ffUexmzZE/110192
+#EXTINF:-1 group-title="新马频道",华丽台  （Wah Lai Toi）
+mitv://147.135.39.171:9906/5e5779ed00004fd231447f705c0876bd.ts
+#EXTINF:-1 group-title="新马频道",华丽台  （Wah Lai Toi）
+http://iptv-line.com:7899/sSnquTekjC/sRnkJCBXT2/110185
+#EXTINF:-1 group-title="新马频道",AEC
+http://wo.wakds.xyz/123.php?t=433
+#EXTINF:-1 group-title="新马频道",AEC
+http://iptv-line.com:7899/sSnquTekjC/sRnkJCBXT2/110181
+#EXTINF:-1 group-title="新马频道",小太陽
+mitv://147.135.39.171:9906/5c311b380000b12f06c9ab7174b605e2.ts
+#EXTINF:-1 group-title="新马频道",AOD
+mitv://147.135.39.171:9906/5eb3076300010b0110e9fd0d71637a0b.ts
+#EXTINF:-1 group-title="新马频道",AOD
+mitv://147.135.39.171:9906/5e577104000e8a9a3121b4f12c473608.ts
+#EXTINF:-1 group-title="新马频道",愛奇藝
+mitv://147.135.39.171:9906/5e57755e00054af53132b22041d007fa.ts
+#EXTINF:-1 group-title="新马频道",Suria
+mitv://147.135.39.171:9906/5ea53aef000da536db0349674f85730c.ts
+#EXTINF:-1 group-title="新马频道",Vasantham TV
+mitv://147.135.39.171:9906/5ea53b31000978a0db044a1d66cb6b06.ts
+#EXTINF:-1 group-title="新马频道",CHANNEL NEWSASIA
+mitv://147.135.39.171:9906/5e9e806300039955c0ba819751806e57.ts
+#EXTINF:-1 group-title="新马频道",Mediacorp U
+mitv://147.135.39.171:9906/5ea29be100062894d0c5e6736df27aa0.ts
+#EXTINF:-1 group-title="新马频道",Mediacorp U
+http://wo.wakds.xyz/123.php?t=448
+#EXTINF:-1 group-title="新马频道",天映頻道
+mitv://147.135.39.171:9906/5e7cfab00001b8d03dc7f4e34dfd4368.ts
+#EXTINF:-1 group-title="新马频道",NTV7
+mitv://147.135.39.171:9906/5ea3241a00018c93d2da03f237be6816.ts
+#EXTINF:-1 group-title="新马频道",八度空间
+mitv://147.135.39.171:9906/5ea326ab00050fbdd2e40b451ec44f78.ts
+#EXTINF:-1 group-title="新马频道",Berita RTM
+https://rtm1mobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="新马频道",Berita RTM
+mitv://147.135.39.171:9906/5eb2a25e000c65a00f5f647368d77267.ts
+#EXTINF:-1 group-title="新马频道",RIA
+http://tv.tangyuanya.com:8080/hls/ke9797/82
+#EXTINF:-1 group-title="新马频道",AEC
+http://tv.tangyuanya.com:8080/hls/ke9797/98
+#EXTINF:-1 group-title="新马频道",华丽台  （Wah Lai Toi）
+http://tv.tangyuanya.com:8080/hls/ke9797/99
+#EXTINF:-1 group-title="新马频道",欢喜台  （Hua Hee Tai）
+http://tv.tangyuanya.com:8080/hls/ke9797/100
+#EXTINF:-1 group-title="新马频道",爱奇艺 iQiyi
+http://tv.tangyuanya.com:8080/hls/ke9797/101
+#EXTINF:-1 group-title="新马频道",AOD
+http://tv.tangyuanya.com:8080/hls/ke9797/102
+#EXTINF:-1 group-title="新马频道",AOD 511
+http://tv.tangyuanya.com:8080/hls/ke9797/103
+#EXTINF:-1 group-title="新马频道",CGTN
+http://tv.tangyuanya.com:8080/hls/ke9797/104
+#EXTINF:-1 group-title="新马频道",翡翠台
+http://tv.tangyuanya.com:8080/hls/ke9797/105
+#EXTINF:-1 group-title="新马频道",AEC
+mitv://107.148.223.220:48918/5fc15cec000ce792517d8ca6a1765cee
+#EXTINF:-1 group-title="新马频道",AOD
+mitv://107.148.223.220:48918/5fc15cec000bf35b517d8c68e9c03031
+#EXTINF:-1 group-title="新马频道",AWANI
+mitv://107.148.223.220:48918/5fc15cec000a2ee3517d8bf4f9f91df1
+#EXTINF:-1 group-title="新马频道",BERNAMA
+mitv://107.148.223.220:48918/5fc15cec0009503c517d8bbb1f19d0cb
+#EXTINF:-1 group-title="新马频道",PRIMA
+mitv://107.148.223.220:48918/5fc15cec000871a5517d8b82bb6897b6
+#EXTINF:-1 group-title="新马频道",RIA
+mitv://107.148.223.220:48918/5fc15cec00078d4f517d8b47fa7f23a3
+#EXTINF:-1 group-title="新马频道",TV1
+mitv://107.148.223.220:48918/5fc15cec0006b42b517d8b10ac6a955c
+#EXTINF:-1 group-title="新马频道",TV2
+mitv://107.148.223.220:48918/5fc15cec00065927517d8af859bb7145
+#EXTINF:-1 group-title="新马频道",TV3
+mitv://107.148.223.220:48918/5fc15ce60009c1df517d74689a623842
+#EXTINF:-1 group-title="新马频道",NTV7
+mitv://107.148.223.220:48918/5fc15ce60008dd13517d742d16545793
+#EXTINF:-1 group-title="新马频道",TV8
+mitv://107.148.223.220:48918/5fc15ce60007f984517d73f3ffbced5d
+#EXTINF:-1 group-title="新马频道",TV9
+mitv://107.148.223.220:48918/5fc15ce6000719dc517d73ba799319f3
+#EXTINF:-1 group-title="新马频道",华丽台
+mitv://107.148.223.220:48918/5fc15ce6000636c6517d73803ff48a6a
+#EXTINF:-1 group-title="新马频道",小太阳
+mitv://107.148.223.220:48918/5fc15ce6000474c2517d730cdf04469e
+#EXTINF:-1 group-title="新马频道",全佳
+mitv://107.148.223.220:48918/5fc15ce600038873517d72d07c1e23df
+#EXTINF:-1 group-title="新马频道",双星
+mitv://107.148.223.220:48918/5fc15ce60002a7fb517d7296a87b42cf
+#EXTINF:-1 group-title="央卫蓝光",CCTV-1综合
+https://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-2财经
+http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/6712427732700951500/index.m3u8?channel-id=bestzb&Contentid=6712427732700951500&livemode=1&stbId=004003FF0081265262008422F155806C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=6712427732700951500&owchid=bestzb&owsid=4493204831455135327&AuthInfo=GOuF/jehgM4nFa0wimRtpfSRVkjIVeXDZspXKAy0Zq3TM/SQmFbVcrlhrnu8eLXazYTtgYPl6YWVHseE4Unk8ukMO+XWQYSUD2n7IOEJ+RGxRvfNrXYQUMkw5EgyXEOS
+#EXTINF:-1 group-title="央卫蓝光",CCTV-3综艺
+https://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-4国际
+https://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-5体育
+http://39.134.168.91/PLTV/1/224/3221225556/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-5+赛事
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-6电影
+https://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-7军事
+http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/7319070262144570132/index.m3u8?channel-id=bestzb&Contentid=7319070262144570132&livemode=1&stbId=004003FF0058659843008422F152383C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=7319070262144570132&owchid=bestzb&owsid=4493204831455135430&AuthInfo=Qw56LRrK2CkiGIDy6vmJ2LSP89QwkZgpL+VWLyr5ztj3rGZsqopKsrfyZWeYzHfJFk0r+z7s0VLkecEZjm+us7Col8tKjl8qvNCzJ4KUJ6KWCmxa4gNDSvL7+KIQr4FD
+#EXTINF:-1 group-title="央卫蓝光",[emoji:cctv8]CCTV-8电剧
+https://cctvalih5ca.v.myalicdn.com/live/cctv8_2/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-9记录
+http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/5000000001000024017/index.m3u8?channel-id=bestzb&Contentid=5000000001000024017&livemode=1&stbId=004003FF0087760833008422F155242C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5000000001000024017&owchid=bestzb&owsid=4493204831455280499&AuthInfo=ixr7ZMzRBZvL3IZ39gXzxtpj3kQfoKQjD3AowxPVA6X8n7NSWaTc9cIBHAuFk+GhMKwAzK+/r0XvCmy6js040sZBbA8hhyFHeste5ldEPGdfNbvlfKiO5/K0ydWuMQX+
+#EXTINF:-1 group-title="央卫蓝光",CCTV-10科教
+http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/9092756522938817434/index.m3u8?channel-id=bestzb&Contentid=9092756522938817434&livemode=1&stbId=004003FF0029452831008422F155922C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=9092756522938817434&owchid=bestzb&owsid=4493204831455231193&AuthInfo=gcH3ssn3REG54mXPerWCi56XJ2Urs2SNIGZ7J0zskzvi8i3cj6671FT1ZAhLU6JQT9a3V5n9/ymys6jXVSm7WvZDIeu/1lLHoO5qp40pjmytLJWpd9ZXTmmM59QP6yvU
+#EXTINF:-1 group-title="央卫蓝光",CCTV-11戏曲
+http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/5934529806195667858/index.m3u8?channel-id=bestzb&Contentid=5934529806195667858&livemode=1&stbId=004003FF0016671300008422F156057C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=5934529806195667858&owchid=bestzb&owsid=4493204831455275447&AuthInfo=zevx2PxWToo/EGp8AoTiuJk/k+iFdSV1Q93Nh3ozdA6iwjHCNKH1aGrd8vyUy8iuvFw7f9ZsuH9hrdJEf3mQeZe2ceTvz40TQjEt9VvtPgN9tE3EiLLaGvFHkUiBR0Vj
+#EXTINF:-1 group-title="央卫蓝光",CCTV-12社法
+http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/7353916194983371497/index.m3u8?channel-id=bestzb&Contentid=7353916194983371497&livemode=1&stbId=004003FF0081887507008422F158722C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=7353916194983371497&owchid=bestzb&owsid=4493204831455227908&AuthInfo=rAKYcbZdgBkik8271G0rEKOS0IHmcW6SgPz5IzBRCbBXCTv9hUPXQ7+rg8AZMi3Ee2OBkytYwzcA1qxkIQtuB22UYeNzc8lpXjuUmWQrp7hzlcMoiLij9j/BZEEQ2YVo
+#EXTINF:-1 group-title="央卫蓝光",CCTV-13新闻
+https://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-13新闻
+http://zjrtv.vip/live/?jy=bf&k=q844876687&id=004
+#EXTINF:-1 group-title="央卫蓝光",CCTV-14少儿
+http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/4698841642605267773/index.m3u8?channel-id=bestzb&Contentid=4698841642605267773&livemode=1&stbId=004003FF0054805450008422F156021C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=4698841642605267773&owchid=bestzb&owsid=4493204831455266368&AuthInfo=hZkn3vHGhq4VvDzmzr4iVEHqo+vzF6rKA+8OSN8w0NBeBAiwbiztWgyQwzn8jrXqRnTn9qssoyuTaz8kN6jS4cYG4Wtqw/9GA6z30f3PSa2RbGYR9aFXtJD4jiOxxIfw
+#EXTINF:-1 group-title="央卫蓝光",CCTV-15音乐
+http://101.75.248.85/cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/6270544915670196140/index.m3u8?channel-id=bestzb&Contentid=6270544915670196140&livemode=1&stbId=004003FF0036474561008422F152769C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=6270544915670196140&owchid=bestzb&owsid=4493204831455273333&AuthInfo=LQB+fwIr+EWTXBOVziZMyaCKVOKJp2oyAh4+hvskG0iYc9rzd1hJQAd9gC8SM2hRX/Bs0qW1K5txGNtu2ITMilTTez5Vuo7khu+9xaGYz6taHKyz4eVhXqrHXUS79zOX
+#EXTINF:-1 group-title="央卫蓝光",CCTV-17农业
+https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv17_2_hd.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV奥运
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",纯 享 4K
+http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CNC华文
+http://livecdn1.news.cn/cnccn/manifest.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CETV①
+http://cctvalih5ca.v.myalicdn.com/cstv/cetv1_2/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CETV②
+http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CETV③
+http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CETV④
+http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-1综合
+http://125.210.152.18:9090/live/CCTV1HD_H265.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-2财经
+http://125.210.152.18:9090/live/CCTV2HD_H265.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-4国际
+http://125.210.152.18:9090/live/CCTV4.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-5体育
+http://125.210.152.18:9090/live/CCTV5HD_H265.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-5+赛事
+http://125.210.152.18:9090/live/TYSSHD_H265.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-6电影
+http://125.210.152.18:9090/live/CCTV6HD_H265.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-7军事
+http://125.210.152.18:9090/live/CCTV7HD_H265.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-8电剧
+http://125.210.152.18:9090/live/CCTV8HD_H265.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-9记录
+http://125.210.152.18:9090/live/CCTVJLHD_H265.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-10科教
+http://125.210.152.18:9090/live/CCTV10HD_H265.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-11戏曲
+http://125.210.152.18:9090/live/CCTV11.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-12社法
+http://125.210.152.18:9090/live/CCTV12HD_H265.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-13新闻
+http://125.210.152.18:9090/live/CCTV13.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-14少儿
+http://125.210.152.18:9090/live/CCTV14HD_H265.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-15音乐
+http://125.210.152.18:9090/live/ZYYY.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-1综合
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-2财经
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-3综艺
+http://101.71.255.229:6610/Azjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="央卫蓝光",CCTV-4国际
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-6电影
+http://101.71.255.229:6610/zjhs/2/10066/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="央卫蓝光",CCTV-7军事
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-8电剧,
+http://121.31.30.91:8081/ysten-business/live/cctv-8/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-9记录
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-10科教
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-11戏曲
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-12社法
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-13新闻
+http://39.134.168.91/PLTV/1/224/3221225572/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-14少儿
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-15音乐
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-17农业
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",东方卫视
+http://39.134.168.91/PLTV/1/224/3221225504/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",浙江卫视
+http://39.134.168.91/PLTV/1/224/3221225520/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",湖南卫视
+http://39.134.168.91/PLTV/1/224/3221225516/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",江苏卫视
+http://39.134.168.91/PLTV/1/224/3221225512/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",emoji:bj]北京卫视
+http://39.134.168.91/PLTV/1/224/3221225524/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",广东卫视
+http://39.134.168.91/PLTV/1/224/3221225528/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",深圳卫视
+http://39.134.168.91/PLTV/1/224/3221225532/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",黑龙江视
+http://39.134.168.91/PLTV/1/224/3221225536/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",山东卫视
+http://39.134.168.91/PLTV/1/224/3221225540/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",湖北卫视
+http://39.134.168.91/PLTV/1/224/3221225544/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",安徽卫视
+http://39.134.168.91/PLTV/1/224/3221225548/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",东南卫视
+http://39.134.168.91/PLTV/1/224/3221225580/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",江西卫视
+http://39.134.168.91/PLTV/1/224/3221225588/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",辽宁卫视
+http://39.134.168.91/PLTV/1/224/3221225590/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",天津卫视
+http://39.134.168.91/PLTV/1/224/3221225594/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",广西卫视
+http://39.134.168.91/PLTV/1/224/3221225598/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",贵州卫视
+http://101.71.255.229:6610/zjhs/2/10015/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=6Y1VNBZQTNW1U6PYSQFNXMCZ5T03&ts=1550812363
+#EXTINF:-1 group-title="央卫蓝光",河北卫视
+http://39.134.168.91/PLTV/1/224/3221225624/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",河南卫视
+http://39.134.168.91/PLTV/1/224/3221225584/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",重庆卫视
+http://39.134.168.91/PLTV/1/224/3221225576/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",吉林卫视
+http://39.134.168.91/PLTV/1/224/3221225586/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",四川卫视
+http://39.134.168.91/PLTV/1/224/3221225592/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",云南卫视
+http://39.134.168.91/PLTV/1/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",山西卫视
+http://39.134.168.91/PLTV/1/224/3221225646/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",陕西卫视
+http://39.134.168.91/PLTV/1/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",青海卫视
+http://39.134.168.91/PLTV/1/224/3221225622/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",安多卫视
+http://cbnlive.cbchot.com/live/anduoweishi_l_1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",宁夏卫视
+http://39.134.168.91/PLTV/1/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",甘肃卫视
+http://39.134.168.91/PLTV/1/224/3221225636/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",内蒙古视
+http://39.134.168.91/PLTV/1/224/3221225626/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",海南卫视
+http://39.134.168.91/PLTV/1/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",厦门卫视
+http://39.134.168.91/PLTV/1/224/3221225640/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",西藏卫视
+http://39.134.168.91/PLTV/1/224/3221225648/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",西藏藏语
+http://media.vtibet.com/masvod/HLSLive/7/zangyuTV_q1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",新疆卫视
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",兵团卫视
+http://39.134.168.91/PLTV/1/224/3221225634/index.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-1综合
+http://121.31.30.91:8081/ysten-business/live/hdcctv01/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-2财经
+http://121.31.30.91:8081/ysten-business/live/cctv-2/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-3综艺
+http://121.31.30.91:8081/ysten-business/live/cctv-3/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-4国际
+http://121.31.30.91:8081/ysten-business/live/cctv-4/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-5体育
+http://121.31.30.91:8081/ysten-business/live/cctv-5/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-6电影
+http://121.31.30.91:8081/ysten-business/live/cctv-6/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-7军事
+http://121.31.30.91:8081/ysten-business/live/cctv-7/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-8电剧
+http://121.31.30.91:8081/ysten-business/live/cctv-8/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-9记录
+http://112.50.243.8/PLTV/88888888/224/3221225820/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-10科教
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-11戏曲
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-12社法
+http://112.50.243.8/PLTV/88888888/224/3221225816/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-13新闻
+http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="央卫蓝光",CCTV-15音乐
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
+#EXTINF:-1 group-title="央卫蓝光",CCTV-17农业
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
+#EXTINF:-1 group-title="港澳台频道",WWE
+mitv://147.135.39.171:9906/5e9e8306000a3ed5c0c4d0050d315c34.ts
+#EXTINF:-1 group-title="港澳台频道",香港开电视
+mitv://147.135.39.171:9906/5e9fd74f000449a9c5f60ba621430299.ts
+#EXTINF:-1 group-title="港澳台频道",TVB翡翠
+mitv://147.135.39.171:9906/5ea51995000ec10eda81021569fa53dc.ts
+#EXTINF:-1 group-title="港澳台频道",TVB翡翠(备)
+mitv://147.135.39.171:9906/5e9e8063000969abc0ba831e7a0351c1.ts
+#EXTINF:-1 group-title="港澳台频道",TVB J2
+mitv://147.135.39.171:9906/5defdab5000c62a56ea0b90a0b532a03.ts
+#EXTINF:-1 group-title="港澳台频道",TVB明珠
+mitv://147.135.39.171:9906/5defe1400004ed256eba461e3fa17ad5.ts
+#EXTINF:-1 group-title="港澳台频道",TVB星河
+mitv://147.135.39.171:9906/5ea53a9a000d39fddb01fd3f19aa567e.ts
+#EXTINF:-1 group-title="港澳台频道",无线新闻
+mitv://147.135.39.171:9906/5ea2946b00081730d0a8c200646857fd.ts
+#EXTINF:-1 group-title="港澳台频道",无线新闻(备)
+mitv://147.135.39.171:9906/5d9a2df6000c88299cbecee47d987ebd.ts
+#EXTINF:-1 group-title="港澳台频道",无线财经
+mitv://147.135.39.171:9906/5e975a520003b3a4a4cdbd1e7a4a258e.ts
+#EXTINF:-1 group-title="港澳台频道",有线直播
+mitv://147.135.39.171:9906/5ef4ecd400015d191252b914239a34f8.ts
+#EXTINF:-1 group-title="港澳台频道",有线新闻
+mitv://147.135.39.171:9906/5e9e83070000f800c0c4d18b692d70da.ts
+#EXTINF:-1 group-title="港澳台频道",有线财经
+mitv://147.135.39.171:9906/5ead19e0000c2946f9c238242b751a54.ts
+#EXTINF:-1 group-title="港澳台频道",有经18
+mitv://147.135.39.171:9906/5ea539e900018755daff46da4f370362.ts
+#EXTINF:-1 group-title="港澳台频道",有线603
+mitv://147.135.39.171:9906/5ef4ecd300091a2f1252b72006d82fc2.ts
+#EXTINF:-1 group-title="港澳台频道",有线体育
+mitv://147.135.39.171:9906/5ea539e900076757daff48514c4e1e96.ts
+#EXTINF:-1 group-title="央卫蓝光",有线体育Plus 1
+mitv://147.135.39.171:9906/5ea539ea00007ceadaff4a743a176aa1.ts
+#EXTINF:-1 group-title="港澳台频道",有线体育Plus 2
+mitv://147.135.39.171:9906/5ef4ecd40007934c1252baaa5c8b564e.ts
+#EXTINF:-1 group-title="港澳台频道",有线娱乐
+mitv://147.135.39.171:9906/5e73be6500011d2f19b464df5ab64e5b.ts
+#EXTINF:-1 group-title="港澳台频道",VIUTV
+mitv://147.135.39.171:9906/5d9a2e7b000d28609cc0d68b68a05dd1.ts
+#EXTINF:-1 group-title="港澳台频道",VIUTV6
+mitv://147.135.39.171:9906/5d9a2e7c0000af799cc0d74673341867.ts
+#EXTINF:-1 group-title="港澳台频道",HK31
+mitv://147.135.39.171:9906/5e9fd724000764a5c5f564790eb03709.ts
+#EXTINF:-1 group-title="港澳台频道",HK32
+mitv://147.135.39.171:9906/5e9fd724000d1fc7c5f565f078712f85.ts
+#EXTINF:-1 group-title="港澳台频道",HKC beIN SPOS1
+mitv://147.135.39.171:9906/5ea28d9a0005c385d08e210c66e47615.ts
+#EXTINF:-1 group-title="港澳台频道",HKC beIN SPOS2
+mitv://147.135.39.171:9906/5ea28d9a000cfc2bd08e22e03ebd0c76.ts
+#EXTINF:-1 group-title="港澳台频道",HUB都会
+mitv://147.135.39.171:9906/5e57771b0001c85a31397b7e7f5c427b.ts
+#EXTINF:-1 group-title="港澳台频道",NOW体育1
+mitv://147.135.39.171:9906/5ed0ef0f000b4f0785bb2c6930870d48.ts
+#EXTINF:-1 group-title="港澳台频道",NOW体育2
+mitv://147.135.39.171:9906/5ed0ef0f0009908b85bb2bfb19e9442c.ts
+#EXTINF:-1 group-title="港澳台频道",澳门莲花
+mitv://147.135.39.171:9906/5eb29ebb000185ac0f512ced64dc1bd4.ts
+#EXTINF:-1 group-title="港澳台频道",卫视电影
+mitv://147.135.39.171:9906/5d9a250b000845289c9bf7d246ac3362.ts
+#EXTINF:-1 group-title="港澳台频道",NOW新闻
+mitv://147.135.39.171:9906/5e3e2d4d00034f186dbafcc93ae46ad8.ts
+#EXTINF:-1 group-title="港澳台频道",星衛HD電影台
+mitv://147.135.39.171:9906/5e9b4b1300069e38b43241e231037404.ts
+#EXTINF:-1 group-title="港澳台频道",衛視西片
+mitv://147.135.39.171:9906/5ea1e2fc000b1e57cdf3a933489b3aee.ts
+#EXTINF:-1 group-title="港澳台频道",衛視西片
+mitv://147.135.39.171:9906/5e7cf2710006c39d3da7c01341645170.ts
+#EXTINF:-1 group-title="港澳台频道",衛視中文台
+mitv://147.135.39.171:9906/5defdaa1000b1a3d6ea06a9c17f77c44.ts
+#EXTINF:-1 group-title="港澳台频道",天映經典
+mitv://147.135.39.171:9906/5e7cf98f00024e183dc38c1a5eb34315.ts
+#EXTINF:-1 group-title="港澳台频道",龍祥電影
+mitv://147.135.39.171:9906/5e7cf98e000cd16b3dc38ae278e073ec.ts
+#EXTINF:-1 group-title="港澳台频道",美亞電影台HD
+mitv://147.135.39.171:9906/5e7cf98e00020cab3dc388220eeb0f7e.ts
+#EXTINF:-1 group-title="港澳台频道",好萊塢電影台
+mitv://147.135.39.171:9906/5e7cf98e0006ee193dc3896b4e817161.ts
+#EXTINF:-1 group-title="港澳台频道",鳳凰電影台
+mitv://147.135.39.171:9906/5e9b4e750002f3b7b43f77c81486506f.ts
+#EXTINF:-1 group-title="港澳台频道",福斯動作電影
+mitv://147.135.39.171:9906/5ea13fe100005a81cb7684fc6e2766c4.ts
+#EXTINF:-1 group-title="港澳台频道",福斯優質影院
+mitv://147.135.39.171:9906/5ea13bb0000c242fcb66289275e41d0b.ts
+#EXTINF:-1 group-title="央卫蓝光",福斯家庭影院
+mitv://147.135.39.171:9906/5d9a33bb000a299f9cd557cf4d121c23.ts
+#EXTINF:-1 group-title="港澳台频道",福斯犯罪影院
+mitv://147.135.39.171:9906/5ea13bb10001df6fcb6629da1a076a80.ts
+#EXTINF:-1 group-title="港澳台频道",HBO HD
+mitv://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts
+#EXTINF:-1 group-title="港澳台频道",HBO Signat
+mitv://147.135.39.171:9906/5eb3cc99000aa55e13ec5a6e1cb7093f.ts
+#EXTINF:-1 group-title="港澳台频道",HBO Hits
+mitv://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
+#EXTINF:-1 group-title="港澳台频道",KIX
+mitv://147.135.39.171:9906/5ed1603f000d135b8775612e2a3f7c34.ts
+#EXTINF:-1 group-title="央卫蓝光",Thrill
+mitv://147.135.39.171:9906/5ed15ffd0002a6fa87745cbf1c0f1bd0.ts
+#EXTINF:-1 group-title="港澳台频道",迪士尼頻道
+mitv://147.135.39.171:9906/5dea93920003218e5a02c4ca21f02f09.ts
+#EXTINF:-1 group-title="港澳台频道",nickelodeon
+mitv://147.135.39.171:9906/5d0e403800011a4910fbd8d44f7a61bc.ts
+#EXTINF:-1 group-title="港澳台频道",MOMO親子台
+mitv://147.135.39.171:9906/5cc68d17000c69a4fadeb6c56c456357.ts
+#EXTINF:-1 group-title="港澳台频道",霹靂台灣台
+mitv://147.135.39.171:9906/5eb29fdf000086880f55a14e1d6461c4.ts
+#EXTINF:-1 group-title="港澳台频道",國興衛視
+mitv://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts
+#EXTINF:-1 group-title="港澳台频道",MTV
+mitv://147.135.39.171:9906/5e975a500008d0a0a4cdb69671c34c21.ts
+#EXTINF:-1 group-title="港澳台频道",高點綜合台
+mitv://147.135.39.171:9906/5ede79e400080386baa19dd37ef10dd6.ts
+#EXTINF:-1 group-title="港澳台频道",大愛
+mitv://147.135.39.171:9906/5e6003e8000acb9e529f929c58ca20eb.ts
+#EXTINF:-1 group-title="港澳台频道",大愛2台
+mitv://147.135.39.171:9906/5ee385f4000c2291ce58bd5d3ac82d3f.ts
+#EXTINF:-1 group-title="港澳台频道",佛衛慈悲台
+mitv://147.135.39.171:9906/5ede79e4000e493cbaa19f79282b2078.ts
+#EXTINF:-1 group-title="港澳台频道",國家地理頻道
+mitv://147.135.39.171:9906/5ea13fdf0004d36ecb767e555c896a66.ts
+#EXTINF:-1 group-title="港澳台频道",國家地理頻道悠人
+mitv://147.135.39.171:9906/5ea1441e000473decb87144e4b600a26.ts
+#EXTINF:-1 group-title="港澳台频道",國家地理頻道野生
+mitv://147.135.39.171:9906/5ea13fdf000c8069cb7680495d882a82.ts
+#EXTINF:-1 group-title="港澳台频道",探索動力頻道
+mitv://147.135.39.171:9906/5e9b4b11000d8f76b4323bd8404c1e97.ts
+#EXTINF:-1 group-title="港澳台频道",Discovery EVE HD
+mitv://147.135.39.171:9906/5ea13fe100060397cb76867304774d14.ts
+#EXTINF:-1 group-title="港澳台频道",探索頻道亞洲
+mitv://147.135.39.171:9906/5ea13bb1000a50e9cb662c0c47e9549f.ts
+#EXTINF:-1 group-title="港澳台频道",探索頻道
+mitv://147.135.39.171:9906/5ea13fde000ec14fcb767cee2fe05289.ts
+#EXTINF:-1 group-title="港澳台频道",探索科學頻道
+mitv://147.135.39.171:9906/5ea13fe1000b88c3cb7687db43d01a4a.ts
+#EXTINF:-1 group-title="港澳台频道",動物星球
+mitv://147.135.39.171:9906/5ea13bb00003dd3ccb66267f33fc00d1.ts
+#EXTINF:-1 group-title="港澳台频道",FashionTV
+mitv://147.135.39.171:9906/5ee0b0f200002646c348aa803078676e.ts
+#EXTINF:-1 group-title="港澳台频道",緯來戲劇
+mitv://147.135.39.171:9906/5dfb22fe0007e7e5170148dc58a73c8f.ts
+#EXTINF:-1 group-title="港澳台频道",緯來綜合
+mitv://147.135.39.171:9906/5e9e6e69000b4094c0744b0b13c15289.ts
+#EXTINF:-1 group-title="港澳台频道",緯來電影
+mitv://147.135.39.171:9906/5e9b449a00082550b418f99837b132a5.ts
+#EXTINF:-1 group-title="港澳台频道",緯來育樂
+mitv://147.135.39.171:9906/5e9e72fe00062f43c0862fbb1fb33e3f.ts
+#EXTINF:-1 group-title="港澳台频道",緯來日本
+mitv://147.135.39.171:9906/5e9b449a0002edbbb418f850343a565d.ts
+#EXTINF:-1 group-title="港澳台频道",緯來體育
+mitv://147.135.39.171:9906/5e9b4499000c2343b418f6ba6f8227e4.ts
+#EXTINF:-1 group-title="港澳台频道",三立新聞
+mitv://147.135.39.171:9906/5eb29a60000cb7220f402c5343fa7df9.ts
+#EXTINF:-1 group-title="港澳台频道",三立財經台
+mitv://147.135.39.171:9906/5ea13bb00007ef12cb662788049d46cf.ts
+#EXTINF:-1 group-title="港澳台频道",三立國際台
+mitv://147.135.39.171:9906/5ea13fe00008dee7cb76834775f82877.ts
+#EXTINF:-1 group-title="港澳台频道",三立都會台
+mitv://147.135.39.171:9906/5e7cf98c000b22ec3dc382a41b515b90.ts
+#EXTINF:-1 group-title="港澳台频道",東森財經新聞
+mitv://147.135.39.171:9906/5eec88f90004b79cf18c98952f812d55.ts
+#EXTINF:-1 group-title="港澳台频道",東森亞洲
+mitv://147.135.39.171:9906/5ede6859000be2b3ba5d17d529f60875.ts
+#EXTINF:-1 group-title="港澳台频道",東森綜合
+mitv://147.135.39.171:9906/5eb29b860006eefb0f44a74c7d3950ab.ts
+#EXTINF:-1 group-title="港澳台频道",東森電影
+mitv://147.135.39.171:9906/5defe13e0007d9d56eba3f090a5f5661.ts
+#EXTINF:-1 group-title="港澳台频道",東森洋片
+mitv://147.135.39.171:9906/5ea13baf000efb4ecb66256578d5166f.ts
+#EXTINF:-1 group-title="港澳台频道",東森戲劇
+mitv://147.135.39.171:9906/5eb29b86000c614d0f44a8b302d67a7e.ts
+#EXTINF:-1 group-title="港澳台频道",東森超視
+mitv://147.135.39.171:9906/5e7cf271000168dd3da7beac2d47191e.ts
+#EXTINF:-1 group-title="港澳台频道",東森幼幼
+mitv://147.135.39.171:9906/5e7cf98d000118463dc383fc2a2c3dc9.ts
+#EXTINF:-1 group-title="港澳台频道",八大綜合台
+mitv://147.135.39.171:9906/5e9e749a000d3deac08c7af061bf4966.ts
+#EXTINF:-1 group-title="港澳台频道",八大娛樂台
+mitv://147.135.39.171:9906/5e9e749b00099094c08c7dde5ba80b06.ts
+#EXTINF:-1 group-title="港澳台频道",八大第一台
+mitv://147.135.39.171:9906/5e9e749b00040aaac08c7c7774062e4f.ts
+#EXTINF:-1 group-title="港澳台频道",八大戲劇台
+mitv://147.135.39.171:9906/5e9e749a0007249ec08c795a648451d4.ts
+#EXTINF:-1 group-title="港澳台频道",民視HD
+mitv://147.135.39.171:9906/5ea4852c00050ce0d83d456d45c920f7.ts
+#EXTINF:-1 group-title="港澳台频道",民視新聞台
+mitv://147.135.39.171:9906/5ea522940007279ddaa4243912175fe1.ts
+#EXTINF:-1 group-title="港澳台频道",台視HD
+mitv://147.135.39.171:9906/5e59fad5000832893b0c1fb83c050635.ts
+#EXTINF:-1 group-title="港澳台频道",中視HD
+mitv://147.135.39.171:9906/5e7cf2610003655a3da780b8383c7868.ts
+#EXTINF:-1 group-title="港澳台频道",華視HD
+mitv://147.135.39.171:9906/5e7cf2610009c2c53da7824e77346905.ts
+#EXTINF:-1 group-title="港澳台频道",公視HD
+mitv://147.135.39.171:9906/5e9e760d00082ccec09222e0768b3cba.ts
+#EXTINF:-1 group-title="港澳台频道",中天新聞
+mitv://147.135.39.171:9906/5eec7db90008195bf160a77f5d316f05.ts
+#EXTINF:-1 group-title="港澳台频道",中天娛樂
+mitv://147.135.39.171:9906/5defdaa0000974136ea066475c980b2d.ts
+#EXTINF:-1 group-title="港澳台频道",TVBS新聞
+mitv://147.135.39.171:9906/5ea4852100052c6fd83d1a840a5e74b2.ts
+#EXTINF:-1 group-title="港澳台频道",寰宇新聞台
+mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
+#EXTINF:-1 group-title="港澳台频道",壹電視綜合
+mitv://147.135.39.171:9906/5ee385f50006a708ce58bfde6dca70d4.ts
+#EXTINF:-1 group-title="港澳台频道",非凡新聞
+mitv://147.135.39.171:9906/5e5a0a88000184ac3b49713b638b501b.ts
+#EXTINF:-1 group-title="港澳台频道",TVBS歡樂
+mitv://147.135.39.171:9906/5ea13fd1000849aacb76488073a656f2.ts
+#EXTINF:-1 group-title="港澳台频道",mio Stadium
+mitv://147.135.39.171:9906/5d6b7e97000f0537e0d92571650c0e7a.ts
+#EXTINF:-1 group-title="港澳台频道",mio Stadium 2
+mitv://147.135.39.171:9906/5d761ef6000df28e0f9a40de2c3d62bb.ts
+#EXTINF:-1 group-title="港澳台频道",龍華電影
+mitv://147.135.39.171:9906/5e975a5100046cd4a4cdb96549212d2b.ts
+#EXTINF:-1 group-title="港澳台频道",FOX SPOS(台灣)
+mitv://147.135.39.171:9906/5ee3894d000983f2ce65d05916fb74df.ts
+#EXTINF:-1 group-title="港澳台频道",EYE TV旅遊
+mitv://147.135.39.171:9906/5eb5302a000e2110195949c1104f58d8.ts
+#EXTINF:-1 group-title="港澳台频道",TLC旅遊台
+mitv://147.135.39.171:9906/5cc692b800066481faf4b217169a5a1b.ts
+#EXTINF:-1 group-title="港澳台频道",大愛一台
+http://45.129.29.249:10080/flv/vlive/GuJwTQSGg.flv
+#EXTINF:-1 group-title="港澳台频道",环球电视台
+http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+#EXTINF:-1 group-title="港澳台频道",环球电视台
+http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+#EXTINF:-1 group-title="港澳台频道",三立新闻
+http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+#EXTINF:-1 group-title="港澳台频道",TVBS新闻
+http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
+#EXTINF:-1 group-title="港澳台频道",HakkaTV
+http://p06.iptv2asia.com:18888/http/019
+#EXTINF:-1 group-title="港澳台频道",大爱1台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="港澳台频道",大爱2台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="港澳台频道",亚美卫视
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1 group-title="港澳台频道",歐美影院
+http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
+#EXTINF:-1 group-title="港澳台频道",亞洲影院
+http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSEAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
+#EXTINF:-1 group-title="港澳台频道",博斯魅力
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 group-title="港澳台频道",博斯魅力
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8?token=BIk2YfurpyjroYsSvl8Ciw&time=1558345786385
+#EXTINF:-1 group-title="港澳台频道",博斯魅力
+https://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 group-title="港澳台频道",信吉電視
+http://220.130.241.203:1935/sjtv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="港澳台频道",番薯衛星電視台
+http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
+#EXTINF:-1 group-title="电台",爱FM
+http://iptv8080iptv.000webhostapp.com/php/rtm.php?tp=fm&id=fm&qu=fm
+#EXTINF:-1 group-title="电台",988FM
+http://iptv8080iptv.000webhostapp.com/php/fm.php?id=988FM&tp=988FM_app
+#EXTINF:-1 group-title="电台",988FM
+http://iptv8080iptv.000webhostapp.com/php/fm.php?id=988FM&tp=988FM
+#EXTINF:-1 group-title="电台",onefm
+http://iptv8080iptv.000webhostapp.com/php/fm.php?id=onefm&tp=onefm
+#EXTINF:-1 group-title="电台",myfm
+http://iptv8080iptv.000webhostapp.com/php/fm.php?id=astro3&tp=myfm
+#EXTINF:-1 group-title="电台",myfm
+http://iptv8080iptv.000webhostapp.com/php/fm.php?id=astro1&tp=myfm
+#EXTINF:-1 group-title="电台",YES933
+http://iptv8080iptv.000webhostapp.com/php/fm.php?id=YES933&tp=YES933
+#EXTINF:-1 group-title="电台",YES933
+http://iptv8080iptv.000webhostapp.com/php/fm.php?id=YES933&tp=YES933_app
+#EXTINF:-1 group-title="电台",西湖之声
+http://iptv8080iptv.000webhostapp.com/php/fm.php?id=1163&tp=64k
+#EXTINF:-1 group-title="电台",浙江城市之声
+http://iptv8080iptv.000webhostapp.com/php/fm.php?id=4523&tp=64k
+#EXTINF:-1 group-title="电台",melody
+http://iptv8080iptv.000webhostapp.com/php/fm.php?id=astro1&tp=melody
+#EXTINF:-1 group-title="电台",melody
+http://iptv8080iptv.000webhostapp.com/php/fm.php?id=astro3&tp=melody
+#EXTINF:-1 group-title="新马备用",TV1
+mitv://fccsovh.pvbox.live:18912/5bdfc2980006d6ed9a86330a3856b80f.ts
+#EXTINF:-1 group-title="新马备用",TV1
+mitv://fccsovh.pvbox.live:18912/5e64abfc0000ee896ccff772460f0740.ts
+#EXTINF:-1 group-title="新马备用",TV1
+mitv://fccseuro.pvbox.live:18912/5bdfc2980006d6ed9a86330a3856b80f.ts
+#EXTINF:-1 group-title="新马备用",TV2
+mitv://fccsovh.pvbox.live:18912/5bdfc29b000e4652d86047d2d33f5ae3.ts
+#EXTINF:-1 group-title="新马备用",TV2
+mitv://fccsovh.pvbox.live:18912/5e64abfd000af2196ccffdeb1fef0199.ts
+#EXTINF:-1 group-title="新马备用",TV2
+mitv://fccseuro.pvbox.live:18912/5bdfc29b000e4652d86047d2d33f5ae3.ts
+#EXTINF:-1 group-title="新马备用",TV3
+mitv://fccsovh.pvbox.live:18912/5bdfc29f00057bd19574507201eac189.ts
+#EXTINF:-1 group-title="新马备用",TV3
+mitv://fccsovh.pvbox.live:18912/5e64abff000852a06cd0050f63b83f6f.ts
+#EXTINF:-1 group-title="新马备用",TV3
+mitv://fccseuro.pvbox.live:18912/5bdfc29f00057bd19574507201eac189.ts
+#EXTINF:-1 group-title="新马备用",ntv7
+mitv://fccsovh.pvbox.live:18912/5bdfc2a300070c4df204590f3f2489e9.ts
+#EXTINF:-1 group-title="新马备用",ntv7
+mitv://fccsovh.pvbox.live:18912/5e64ac010001e2866cd00b3927f775bf.ts
+#EXTINF:-1 group-title="新马备用",ntv7
+mitv://fccseuro.pvbox.live:18912/5bdfc2a300070c4df204590f3f2489e9.ts
+#EXTINF:-1 group-title="新马备用",TV8
+mitv://fccsovh.pvbox.live:18912/5bdfc2a700006e984f93d05f84681478.ts
+#EXTINF:-1 group-title="新马备用",TV8
+mitv://fccsovh.pvbox.live:18912/5e64ac02000ba97d37e919f7d14c8712.ts
+#EXTINF:-1 group-title="新马备用",TV8
+mitv://fccseuro.pvbox.live:18912/5bdfc2a700006e984f93d05f84681478.ts
+#EXTINF:-1 group-title="新马备用",TV9
+mitv://fccsovh.pvbox.live:18912/5bdfc2aa000be3f83344e6ea58572823.ts
+#EXTINF:-1 group-title="新马备用",TV9
+mitv://fccsovh.pvbox.live:18912/5e64ac0400079b376cd018684dca6022.ts
+#EXTINF:-1 group-title="新马备用",TV9
+mitv://fccseuro.pvbox.live:18912/5bdfc2aa000be3f83344e6ea58572823.ts
+#EXTINF:-1 group-title="新马备用",Astro AWANI
+mitv://fccsovh.pvbox.live:18912/5d6504550000cf8cd16f44f19648b351.ts
+#EXTINF:-1 group-title="新马备用",Astro AWANI
+mitv://fccseuro.pvbox.live:18912/5d6504550000cf8cd16f44f19648b351.ts
+#EXTINF:-1 group-title="新马备用",Astro NAURA
+mitv://fccsovh.pvbox.live:18912/5c3b4bb100021220be8c0f8b82cb1fdb.ts
+#EXTINF:-1 group-title="新马备用",Astro NAURA
+mitv://fccseuro.pvbox.live:18912/5c3b4bb100021220be8c0f8b82cb1fdb.ts
+#EXTINF:-1 group-title="新马备用",Astro CITRA
+mitv://fccsovh.pvbox.live:18912/5d65046d0008eb4a1f9a125f9a044559.ts
+#EXTINF:-1 group-title="新马备用",Astro CITRA
+mitv://fccsovh.pvbox.live:18912/5e64a273000ac5726caabacb50b87985.ts
+#EXTINF:-1 group-title="新马备用",Astro CITRA
+mitv://fccseuro.pvbox.live:18912/5d65046d0008eb4a1f9a125f9a044559.ts
+#EXTINF:-1 group-title="新马备用",Astro OASIS
+mitv://fccsovh.pvbox.live:18912/5d650462000f1dd75dce13dae2534e95.ts
+#EXTINF:-1 group-title="新马备用",Astro OASIS
+mitv://fccseuro.pvbox.live:18912/5d650462000f1dd75dce13dae2534e95.ts
+#EXTINF:-1 group-title="新马备用",Astro PRIMA
+mitv://fccsovh.pvbox.live:18912/5d6504810008718849df8eb8107ab11f.ts
+#EXTINF:-1 group-title="新马备用",Astro PRIMA
+mitv://fccsovh.pvbox.live:18912/5e64a2750006010b6caac16257ba59dc.ts
+#EXTINF:-1 group-title="新马备用",Astro PRIMA
+mitv://fccseuro.pvbox.live:18912/5d6504810008718849df8eb8107ab11f.ts
+#EXTINF:-1 group-title="新马备用",Astro RIA
+mitv://fccsovh.pvbox.live:18912/5d65046b000f1df0e4e7b8dcb254ca0e.ts
+#EXTINF:-1 group-title="新马备用",Astro RIA
+mitv://fccsovh.pvbox.live:18912/5e64a2700004928b6caaad7d56c7577a.ts
+#EXTINF:-1 group-title="新马备用",Astro RIA
+mitv://fccseuro.pvbox.live:18912/5d65046b000f1df0e4e7b8dcb254ca0e.ts
+#EXTINF:-1 group-title="新马备用",Astro WARNA
+mitv://fccsovh.pvbox.live:18912/5d6504580009a216de9e969c6cc54739.ts
+#EXTINF:-1 group-title="新马备用",Astro WARNA
+mitv://fccsovh.pvbox.live:18912/5e64a26e0007abd46caaa67869d42822.ts
+#EXTINF:-1 group-title="新马备用",Astro WARNA
+mitv://fccseuro.pvbox.live:18912/5d6504580009a216de9e969c6cc54739.ts
+#EXTINF:-1 group-title="新马备用",ASTRO CERIA
+mitv://fccsovh.pvbox.live:18912/5d6504850001c472310d6238c651b0e4.ts
+#EXTINF:-1 group-title="新马备用",ASTRO CERIA
+mitv://fccseuro.pvbox.live:18912/5d6504850001c472310d6238c651b0e4.ts
+#EXTINF:-1 group-title="新马备用",AL HIJRAH
+mitv://fccsovh.pvbox.live:18912/5b20e39a000edc28722c8ea1440aa516.ts
+#EXTINF:-1 group-title="新马备用",AL HIJRAH
+mitv://fccseuro.pvbox.live:18912/5b20e39a000edc28722c8ea1440aa516.ts
+#EXTINF:-1 group-title="新马备用",BERNAMA
+mitv://fccsovh.pvbox.live:18912/5d6504800000d0253d8f0eb0c4c4db1b.ts
+#EXTINF:-1 group-title="新马备用",BERNAMA
+mitv://fccseuro.pvbox.live:18912/5d6504800000d0253d8f0eb0c4c4db1b.ts
+#EXTINF:-1 group-title="新马备用",SURIA
+mitv://fccsovh.pvbox.live:18912/5b20e3ae000daac3367aacf289f0c5ff.ts
+#EXTINF:-1 group-title="新马备用",SURIA
+mitv://fccseuro.pvbox.live:18912/5b20e3ae000daac3367aacf289f0c5ff.ts
+#EXTINF:-1 group-title="新马备用",CHANNEL 5
+mitv://fccsovh.pvbox.live:18912/5b140a14000d4ee190aebec411771841.ts
+#EXTINF:-1 group-title="新马备用",CHANNEL 5
+mitv://fccseuro.pvbox.live:18912/5b140a14000d4ee190aebec411771841.ts
+#EXTINF:-1 group-title="新马备用",Channel 8
+mitv://fccsovh.pvbox.live:18912/5bcd6bdb0006c2463fd42a92cae392f0.ts
+#EXTINF:-1 group-title="新马备用",Channel 8
+mitv://fccseuro.pvbox.live:18912/5bcd6bdb0006c2463fd42a92cae392f0.ts
+#EXTINF:-1 group-title="新马备用",Channel U
+mitv://fccsovh.pvbox.live:18912/5bcd6bdf00017fad7de6e62eca6fe61b.ts
+#EXTINF:-1 group-title="新马备用",Channel U
+mitv://fccseuro.pvbox.live:18912/5bcd6bdf00017fad7de6e62eca6fe61b.ts
+#EXTINF:-1 group-title="新马备用",CHANNEL NEWS ASIA
+mitv://fccsovh.pvbox.live:18912/5b20e3af00008dee401f438a3c2c920c.ts
+#EXTINF:-1 group-title="新马备用",CHANNEL NEWS ASIA
+mitv://fccseuro.pvbox.live:18912/5b20e3af00008dee401f438a3c2c920c.ts
+#EXTINF:-1 group-title="新马备用",SONY 
+mitv://fccsovh.pvbox.live:18912/5d65048e00009342099dfc01ca94608d.ts
+#EXTINF:-1 group-title="新马备用",SONY 
+mitv://fccseuro.pvbox.live:18912/5d65048e00009342099dfc01ca94608d.ts
+#EXTINF:-1 group-title="新马备用",OH!K
+mitv://fccsovh.pvbox.live:18912/5d65049100074058e38772f47ac4116b.ts
+#EXTINF:-1 group-title="新马备用",OH!K
+mitv://fccsovh.pvbox.live:18912/5e64a2780008a0b36caacdc663e7569d.ts
+#EXTINF:-1 group-title="新马备用",OH!K
+mitv://fccseuro.pvbox.live:18912/5d65049100074058e38772f47ac4116b.ts
+#EXTINF:-1 group-title="新马备用",Kix
+mitv://fccsovh.pvbox.live:18912/5d65047e00051ab5970166de4f65e1b1.ts
+#EXTINF:-1 group-title="新马备用",Kix
+mitv://fccseuro.pvbox.live:18912/5d65047e00051ab5970166de4f65e1b1.ts
+#EXTINF:-1 group-title="新马备用",Astro ARENA
+mitv://fccsovh.pvbox.live:18912/5cbd616a000e62d086ad8d2a96c9b61c.ts
+#EXTINF:-1 group-title="新马备用",Astro ARENA
+mitv://fccseuro.pvbox.live:18912/5cbd616a000e62d086ad8d2a96c9b61c.ts
+#EXTINF:-1 group-title="新马备用",Astro SUPERSPORT1
+mitv://fccsovh.pvbox.live:18912/5d65048300014a5e068bec5bf4cd97cb.ts
+#EXTINF:-1 group-title="新马备用",Astro SUPERSPORT1
+mitv://fccsovh.pvbox.live:18912/5e649e1600037f1b6c99ad9f051b6e7c.ts
+#EXTINF:-1 group-title="新马备用",Astro SUPERSPORT1
+mitv://fccseuro.pvbox.live:18912/5d65048300014a5e068bec5bf4cd97cb.ts
+#EXTINF:-1 group-title="新马备用",Astro SUPERSPORT2
+mitv://fccsovh.pvbox.live:18912/5b3c4fa2000688aa9a97fb14be6064ee.ts
+#EXTINF:-1 group-title="新马备用",Astro SUPERSPORT2
+mitv://fccsovh.pvbox.live:18912/5e649e17000d46486c99b407332e53c8.ts
+#EXTINF:-1 group-title="新马备用",Astro SUPERSPORT2
+mitv://fccseuro.pvbox.live:18912/5cbd60ab000778adefc5b894166228f6.ts
+#EXTINF:-1 group-title="新马备用",Astro SUPERSPORT2
+mitv://fccseuro.pvbox.live:18912/5b3c4fa2000688aa9a97fb14be6064ee.ts
+#EXTINF:-1 group-title="新马备用",Astro SUPERSPORT3
+mitv://fccsovh.pvbox.live:18912/5d6504660004a05b66a960dd10e67e6c.ts
+#EXTINF:-1 group-title="新马备用",Astro SUPERSPORT3
+mitv://fccsovh.pvbox.live:18912/5e649e1900052aca6c99b9c40b5477a2.ts
+#EXTINF:-1 group-title="新马备用",Astro SUPERSPORT3
+mitv://fccseuro.pvbox.live:18912/5d6504660004a05b66a960dd10e67e6c.ts
+#EXTINF:-1 group-title="新马备用",Astro SUPERSPORT4
+mitv://fccsovh.pvbox.live:18912/5b3c4fa1000c601f96136b4adf582a75.ts
+#EXTINF:-1 group-title="新马备用",Astro SUPERSPORT4
+mitv://fccsovh.pvbox.live:18912/5e649e1a000c8e6d6c99bf9075f31729.ts
+#EXTINF:-1 group-title="新马备用",Astro SUPERSPORT4
+mitv://fccseuro.pvbox.live:18912/5cbd60b30006feb7da90c0f675f83dba.ts
+#EXTINF:-1 group-title="新马备用",Astro SUPERSPORT4
+mitv://fccseuro.pvbox.live:18912/5b3c4fa1000c601f96136b4adf582a75.ts
+#EXTINF:-1 group-title="新马备用",WWE
+mitv://fccsovh.pvbox.live:18912/5cffd5d900072496c2c9b7c5d8c9ac44.ts
+#EXTINF:-1 group-title="新马备用",WWE
+mitv://fccseuro.pvbox.live:18912/5cffd5d900072496c2c9b7c5d8c9ac44.ts
+#EXTINF:-1 group-title="新马备用",tvn
+mitv://fccsovh.pvbox.live:18912/5bdbf3a70003296c1991afcf478c85b7.ts
+#EXTINF:-1 group-title="新马备用",tvn
+mitv://fccseuro.pvbox.live:18912/5bdbf3a70003296c1991afcf478c85b7.ts
+#EXTINF:-1 group-title="新马备用",Astro aod
+mitv://fccsovh.pvbox.live:18912/5b3c4fa40006123612188e84e8b022a3.ts
+#EXTINF:-1 group-title="新马备用",Astro aod
+mitv://fccseuro.pvbox.live:18912/5b3c4fa40006123612188e84e8b022a3.ts
+#EXTINF:-1 group-title="新马备用",Astro AOD
+mitv://fccsovh.pvbox.live:18912/5d66315100033ff6433e53248a8db7b1.ts
+#EXTINF:-1 group-title="新马备用",Astro AOD
+mitv://fccsovh.pvbox.live:18912/5e649e1e0005e1a76c99cd7b32c5143b.ts
+#EXTINF:-1 group-title="新马备用",Astro AOD
+mitv://fccseuro.pvbox.live:18912/5d66315100033ff6433e53248a8db7b1.ts
+#EXTINF:-1 group-title="新马备用",Astro 欢喜
+mitv://fccsovh.pvbox.live:18912/5d650431000dec1f88bd7f360291900b.ts
+#EXTINF:-1 group-title="新马备用",Astro 欢喜
+mitv://fccsovh.pvbox.live:18912/5e649e21000c51f46c99dad905aa25de.ts
+#EXTINF:-1 group-title="新马备用",Astro 欢喜
+mitv://fccseuro.pvbox.live:18912/5d650431000dec1f88bd7f360291900b.ts
+#EXTINF:-1 group-title="新马备用",Astro 全佳
+mitv://fccsovh.pvbox.live:18912/5d6504490007b998b2eb2bbcf78738b5.ts
+#EXTINF:-1 group-title="新马备用",Astro 全佳
+mitv://fccsovh.pvbox.live:18912/5e649e220009754d6c99de0573c16193.ts
+#EXTINF:-1 group-title="新马备用",Astro 全佳
+mitv://fccseuro.pvbox.live:18912/5d6504490007b998b2eb2bbcf78738b5.ts
+#EXTINF:-1 group-title="新马备用",Astro 双星
+mitv://fccsovh.pvbox.live:18912/5d65044c000b4cce9c301cedd82d80c2.ts
+#EXTINF:-1 group-title="新马备用",Astro 双星
+mitv://fccsovh.pvbox.live:18912/5e649e230009b2846c99e1fd5cbe02e6.ts
+#EXTINF:-1 group-title="新马备用",Astro 双星
+mitv://fccseuro.pvbox.live:18912/5d65044c000b4cce9c301cedd82d80c2.ts
+#EXTINF:-1 group-title="新马备用",astro 华丽
+mitv://fccsovh.pvbox.live:18912/5d650464000c0498c53ee3c7a30ed901.ts
+#EXTINF:-1 group-title="新马备用",astro 华丽
+mitv://fccsovh.pvbox.live:18912/5e649e20000e77476c99d77d03ee57c7.ts
+#EXTINF:-1 group-title="新马备用",astro 华丽
+mitv://fccseuro.pvbox.live:18912/5d650464000c0498c53ee3c7a30ed901.ts
+#EXTINF:-1 group-title="新马备用",Astro 小太阳
+mitv://fccsovh.pvbox.live:18912/5d6504530000188b955b8319f4090722.ts
+#EXTINF:-1 group-title="新马备用",Astro 小太阳
+mitv://fccsovh.pvbox.live:18912/5e64a272000ddf336caab7ae691a5371.ts
+#EXTINF:-1 group-title="新马备用",Astro 小太阳
+mitv://fccseuro.pvbox.live:18912/5d6504530000188b955b8319f4090722.ts
+#EXTINF:-1 group-title="新马备用",Astro 爱奇艺
+mitv://fccsovh.pvbox.live:18912/5d6631530004ae4c2d9505ff2a9c6848.ts
+#EXTINF:-1 group-title="新马备用",Astro 爱奇艺
+mitv://fccsovh.pvbox.live:18912/5e64a26d000826396caaa2af320f13f1.ts
+#EXTINF:-1 group-title="新马备用",Astro 爱奇艺
+mitv://fccseuro.pvbox.live:18912/5d6631530004ae4c2d9505ff2a9c6848.ts
+#EXTINF:-1 group-title="新马备用",Astro AEC
+mitv://fccsovh.pvbox.live:18912/5d65046a0003ac636bf6a3af1b1f31d8.ts
+#EXTINF:-1 group-title="新马备用",Astro AEC
+mitv://fccsovh.pvbox.live:18912/5e649e1c000aa68a6c99c6e37b5c2136.ts
+#EXTINF:-1 group-title="新马备用",Astro AEC
+mitv://fccseuro.pvbox.live:18912/5d65046a0003ac636bf6a3af1b1f31d8.ts
+#EXTINF:-1 group-title="新马备用",Astro AEC(备)
+mitv://fccsovh.pvbox.live:18912/5cbd60a3000c7aa10f7bbff3a3e1abc1.ts
+#EXTINF:-1 group-title="新马备用",Astro AEC(备)
+mitv://fccseuro.pvbox.live:18912/5cbd60a3000c7aa10f7bbff3a3e1abc1.ts
+#EXTINF:-1 group-title="新马备用",天映频道
+mitv://fccsovh.pvbox.live:18912/5d650486000c7ef46a640da928dbefc1.ts
+#EXTINF:-1 group-title="新马备用",天映频道
+mitv://fccsovh.pvbox.live:18912/5e64a27b000b40186caada2a41021861.ts
+#EXTINF:-1 group-title="新马备用",天映频道
+mitv://fccseuro.pvbox.live:18912/5d650486000c7ef46a640da928dbefc1.ts
+#EXTINF:-1 group-title="新马备用",天映经典
+mitv://fccsovh.pvbox.live:18912/5d650488000e67a1df9eba9288b40109.ts
+#EXTINF:-1 group-title="新马备用",天映经典
+mitv://fccseuro.pvbox.live:18912/5d650488000e67a1df9eba9288b40109.ts
+#EXTINF:-1 group-title="新马备用",Okey
+mitv://fccsovh.pvbox.live:18912/5e64abfa0000b17ffc5c7ac7a088915a.ts
+#EXTINF:-1 group-title="新马备用",Okey
+mitv://fccseuro.pvbox.live:18912/5e64abfa0000b17ffc5c7ac7a088915a.ts
+#EXTINF:-1 group-title="新马备用",Go Shop Ch
+mitv://fccsovh.pvbox.live:18912/5b3c4f9e00014da0a067626e67ace282.ts
+#EXTINF:-1 group-title="新马备用",Go Shop Ch
+mitv://fccseuro.pvbox.live:18912/5b3c4f9e00014da0a067626e67ace282.ts
+#EXTINF:-1 group-title="新马备用",DISNEY CHANNEL
+mitv://fccsovh.pvbox.live:18912/5b593aed0000362187117819dfe1623f.ts
+#EXTINF:-1 group-title="新马备用",DISNEY CHANNEL
+mitv://fccseuro.pvbox.live:18912/5b593aed0000362187117819dfe1623f.ts
+#EXTINF:-1 group-title="新马备用",DISNEY JR
+mitv://fccsovh.pvbox.live:18912/5cf559e50008d20240bb386709095db4.ts
+#EXTINF:-1 group-title="新马备用",DISNEY JR
+mitv://fccseuro.pvbox.live:18912/5cf559e50008d20240bb386709095db4.ts
+#EXTINF:-1 group-title="新马备用",BOO
+mitv://fccsovh.pvbox.live:18912/5b3c4f9f000c861ec841fee0488cbdb3.ts
+#EXTINF:-1 group-title="新马备用",BOO
+mitv://fccseuro.pvbox.live:18912/5b3c4f9f000c861ec841fee0488cbdb3.ts
+#EXTINF:-1 group-title="新马备用",CN卡通
+mitv://fccsovh.pvbox.live:18912/5b140917000efaac21db0941c02449d8.ts
+#EXTINF:-1 group-title="新马备用",CN卡通
+mitv://fccseuro.pvbox.live:18912/5b140917000efaac21db0941c02449d8.ts
+#EXTINF:-1 group-title="新马备用",FOXSPORTS
+mitv://fccsovh.pvbox.live:18912/5b3c4f980000c856938feede661ceecb.ts
+#EXTINF:-1 group-title="新马备用",FOXSPORTS
+mitv://fccseuro.pvbox.live:18912/5b3c4f980000c856938feede661ceecb.ts
+#EXTINF:-1 group-title="新马备用",fox movie
+mitv://fccsovh.pvbox.live:18912/5b3c4f9c000341469570bb9241e0decd.ts
+#EXTINF:-1 group-title="新马备用",fox movie
+mitv://fccseuro.pvbox.live:18912/5b3c4f9c000341469570bb9241e0decd.ts
+#EXTINF:-1 group-title="新马备用",HBO 
+mitv://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
+#EXTINF:-1 group-title="新马备用",HBO 
+mitv://fccsovh.pvbox.live:18912/5c7249dd000ca2101d58106551ff3ed4.ts
+#EXTINF:-1 group-title="新马备用",HBO 
+mitv://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
+#EXTINF:-1 group-title="新马备用",TVB 星河臺
+mitv://fccsovh.pvbox.live:18912/5d65048c0003e9aecc353f52270c8bbe.ts
+#EXTINF:-1 group-title="新马备用",TVB 星河臺
+mitv://fccseuro.pvbox.live:18912/5d65048c0003e9aecc353f52270c8bbe.ts
+#EXTINF:-1 group-title="新马备用",VASANTHAM
+mitv://fccsovh.pvbox.live:18912/5b20e3af00036b8c28619c6ff14a3dd0.ts
+#EXTINF:-1 group-title="新马备用",VASANTHAM
+mitv://fccseuro.pvbox.live:18912/5b20e3af00036b8c28619c6ff14a3dd0.ts
+#EXTINF:-1 group-title="新马备用",FOXSPORTS2
+mitv://fccsovh.pvbox.live:18912/5b3c4f980006aaf36b0509e3e908f4b1.ts
+#EXTINF:-1 group-title="新马备用",FOXSPORTS2
+mitv://fccseuro.pvbox.live:18912/5b3c4f980006aaf36b0509e3e908f4b1.ts
+#EXTINF:-1 group-title="新马备用",Fox Family 
+mitv://fccsovh.pvbox.live:18912/5e0484640001945b84dbbea9eeb21772.ts
+#EXTINF:-1 group-title="新马备用",Fox Family 
+mitv://fccseuro.pvbox.live:18912/5e0484640001945b84dbbea9eeb21772.ts
+#EXTINF:-1 group-title="新马备用",ASTRO CRICKET 
+mitv://fccsovh.pvbox.live:18912/5cbd61720004604e8a21b3037b4c2bb3.ts
+#EXTINF:-1 group-title="新马备用",ASTRO CRICKET 
+mitv://fccseuro.pvbox.live:18912/5cbd61720004604e8a21b3037b4c2bb3.ts
+#EXTINF:-1 group-title="新马备用",HBOCA
+mitv://fccsovh.pvbox.live:18912/5cf559de000079ad9f1ddb23b2aafae5.ts
+#EXTINF:-1 group-title="新马备用",HBOCA
+mitv://fccseuro.pvbox.live:18912/5cf559de000079ad9f1ddb23b2aafae5.ts
+#EXTINF:-1 group-title="新马备用",HBOCA2
+mitv://fccsovh.pvbox.live:18912/5cffd799000ddb76cd1d916c4ee8efee.ts
+#EXTINF:-1 group-title="新马备用",HBOCA2
+mitv://fccseuro.pvbox.live:18912/5cffd799000ddb76cd1d916c4ee8efee.ts
+#EXTINF:-1 group-title="新马备用",Movie Network 1
+mitv://fccsovh.pvbox.live:18912/5cffd5c70005b65ab6e3a102a9367257.ts
+#EXTINF:-1 group-title="新马备用",Movie Network 1
+mitv://fccseuro.pvbox.live:18912/5cffd5c70005b65ab6e3a102a9367257.ts
+#EXTINF:-1 group-title="新马备用",NBA Canada
+mitv://fccsovh.pvbox.live:18912/5cffd5d4000b327ef5bf18f4e5a91904.ts
+#EXTINF:-1 group-title="新马备用",NBA Canada
+mitv://fccseuro.pvbox.live:18912/5cffd5d4000b327ef5bf18f4e5a91904.ts
+#EXTINF:-1 group-title="新马备用",Family
+mitv://fccsovh.pvbox.live:18912/5cffd5e200012f5b8adaa27b3ee5f498.ts
+#EXTINF:-1 group-title="新马备用",Family
+mitv://fccseuro.pvbox.live:18912/5cffd5e200012f5b8adaa27b3ee5f498.ts
+#EXTINF:-1 group-title="新马备用",TVB
+mitv://fccsovh.pvbox.live:18912/5cf559f800003d1bab8b3e07f042c2b9.ts
+#EXTINF:-1 group-title="新马备用",TVB
+mitv://fccseuro.pvbox.live:18912/5cf559f800003d1bab8b3e07f042c2b9.ts
+#EXTINF:-1 group-title="新马备用",TVB US 1
+mitv://fccsovh.pvbox.live:18912/5cffd79b0008224605e668c79ca6efc0.ts
+#EXTINF:-1 group-title="新马备用",TVB US 1
+mitv://fccseuro.pvbox.live:18912/5cffd79b0008224605e668c79ca6efc0.ts
+#EXTINF:-1 group-title="新马备用",TVB US 2
+mitv://fccsovh.pvbox.live:18912/5cffd79d0004cbb66f6dece9140f8690.ts
+#EXTINF:-1 group-title="新马备用",TVB US 2
+mitv://fccseuro.pvbox.live:18912/5cffd79d0004cbb66f6dece9140f8690.ts
+#EXTINF:-1 group-title="新马备用",Bein Sports
+mitv://fccsovh.pvbox.live:18912/5cf559ed000079fb7b608c0205b3f92a.ts
+#EXTINF:-1 group-title="新马备用",Bein Sports
+mitv://fccseuro.pvbox.live:18912/5cf559ed000079fb7b608c0205b3f92a.ts
+#EXTINF:-1 group-title="新马备用",KBS World
+mitv://fccsovh.pvbox.live:18912/5e0484590006d2dab8ed07bfe299c23a.ts
+#EXTINF:-1 group-title="新马备用",KBS World
+mitv://fccseuro.pvbox.live:18912/5e0484590006d2dab8ed07bfe299c23a.ts
+#EXTINF:-1 group-title="新马备用",HBO Family 
+mitv://fccsovh.pvbox.live:18912/5e04845f000063220247f9eb4d8b0a32.ts
+#EXTINF:-1 group-title="新马备用",HBO Family 
+mitv://fccseuro.pvbox.live:18912/5e04845f000063220247f9eb4d8b0a32.ts
+#EXTINF:-1 group-title="新马备用",Fox Movies Premium
+mitv://fccsovh.pvbox.live:18912/5e04846100065908de39e64a7807f88f.ts
+#EXTINF:-1 group-title="新马备用",Fox Movies Premium
+mitv://fccseuro.pvbox.live:18912/5e04846100065908de39e64a7807f88f.ts
+#EXTINF:-1 group-title="新马备用",Fox 
+mitv://fccsovh.pvbox.live:18912/5e04846300020dc8be619f4adfec6baf.ts
+#EXTINF:-1 group-title="新马备用",Fox 
+mitv://fccseuro.pvbox.live:18912/5e04846300020dc8be619f4adfec6baf.ts
+#EXTINF:-1 group-title="新马备用2",TV1
+p2p://fccseuro.pvbox.live:18912/5bdfc2980006d6ed9a86330a3856b80f.ts
+#EXTINF:-1 group-title="新马备用2",TV1
+p2p://fccseuro.pvbox.live:18912/5e64abfc0000ee896ccff772460f0740.ts
+#EXTINF:-1 group-title="新马备用2",TV1
+p2p://fccsovh.pvbox.live:18912/5bdfc2980006d6ed9a86330a3856b80f.ts
+#EXTINF:-1 group-title="新马备用2",TV2
+p2p://fccseuro.pvbox.live:18912/5bdfc29b000e4652d86047d2d33f5ae3.ts
+#EXTINF:-1 group-title="新马备用2",TV2
+p2p://fccsovh.pvbox.live:18912/5e64abfd000af2196ccffdeb1fef0199.ts
+#EXTINF:-1 group-title="新马备用2",TV2
+p2p://fccsovh.pvbox.live:18912/5bdfc29b000e4652d86047d2d33f5ae3.ts
+#EXTINF:-1 group-title="新马备用2",TV3
+p2p://fccseuro.pvbox.live:18912/5bdfc29f00057bd19574507201eac189.ts
+#EXTINF:-1 group-title="新马备用2",TV3
+p2p://fccsovh.pvbox.live:18912/5e64abff000852a06cd0050f63b83f6f.ts
+#EXTINF:-1 group-title="新马备用2",TV3
+p2p://fccsovh.pvbox.live:18912/5bdfc29f00057bd19574507201eac189.ts
+#EXTINF:-1 group-title="新马备用2",ntv7
+p2p://fccseuro.pvbox.live:18912/5bdfc2a300070c4df204590f3f2489e9.ts
+#EXTINF:-1 group-title="新马备用2",ntv7
+p2p://fccseuro.pvbox.live:18912/5e64ac010001e2866cd00b3927f775bf.ts
+#EXTINF:-1 group-title="新马备用2",ntv7
+p2p://fccsovh.pvbox.live:18912/5bdfc2a300070c4df204590f3f2489e9.ts
+#EXTINF:-1 group-title="新马备用2",TV8(备)
+p2p://fccseuro.pvbox.live:18912/5bdfc2a700006e984f93d05f84681478.ts
+#EXTINF:-1 group-title="新马备用2",TV8(备)
+p2p://fccseuro.pvbox.live:18912/5e64ac02000ba97d37e919f7d14c8712.ts
+#EXTINF:-1 group-title="新马备用2",TV8(备)
+p2p://fccsovh.pvbox.live:18912/5bdfc2a700006e984f93d05f84681478.ts
+#EXTINF:-1 group-title="新马备用2",TV8
+p2p://fccseuro.pvbox.live:18912/5b3c4f9e0007068a627efc225d792ca1.ts
+#EXTINF:-1 group-title="新马备用2",TV8
+p2p://fccsovh.pvbox.live:18912/5b3c4f9e0007068a627efc225d792ca1.ts
+#EXTINF:-1 group-title="新马备用2",TV9
+p2p://fccseuro.pvbox.live:18912/5bdfc2aa000be3f83344e6ea58572823.ts
+#EXTINF:-1 group-title="新马备用2",TV9
+p2p://fccseuro.pvbox.live:18912/5e64ac0400079b376cd018684dca6022.ts
+#EXTINF:-1 group-title="新马备用2",TV9
+p2p://fccsovh.pvbox.live:18912/5bdfc2aa000be3f83344e6ea58572823.ts
+#EXTINF:-1 group-title="新马备用2",Astro AWANI
+p2p://fccsovh.pvbox.live:18912/5d6504550000cf8cd16f44f19648b351.ts
+#EXTINF:-1 group-title="新马备用2",Astro AWANI
+p2p://fccseuro.pvbox.live:18912/5d6504550000cf8cd16f44f19648b351.ts
+#EXTINF:-1 group-title="新马备用2",Astro NAURA
+p2p://fccseuro.pvbox.live:18912/5c3b4bb100021220be8c0f8b82cb1fdb.ts
+#EXTINF:-1 group-title="新马备用2",Astro NAURA
+p2p://fccsovh.pvbox.live:18912/5c3b4bb100021220be8c0f8b82cb1fdb.ts
+#EXTINF:-1 group-title="新马备用2",Astro CITRA
+p2p://fccseuro.pvbox.live:18912/5d65046d0008eb4a1f9a125f9a044559.ts
+#EXTINF:-1 group-title="新马备用2",Astro CITRA
+p2p://fccseuro.pvbox.live:18912/5e64a273000ac5726caabacb50b87985.ts
+#EXTINF:-1 group-title="新马备用2",Astro CITRA
+p2p://fccsovh.pvbox.live:18912/5d65046d0008eb4a1f9a125f9a044559.ts
+#EXTINF:-1 group-title="新马备用2",Astro OASIS
+p2p://fccseuro.pvbox.live:18912/5d650462000f1dd75dce13dae2534e95.ts
+#EXTINF:-1 group-title="新马备用2",Astro OASIS
+p2p://fccsovh.pvbox.live:18912/5d650462000f1dd75dce13dae2534e95.ts
+#EXTINF:-1 group-title="新马备用2",Astro PRIMA
+p2p://fccseuro.pvbox.live:18912/5d6504810008718849df8eb8107ab11f.ts
+#EXTINF:-1 group-title="新马备用2",Astro PRIMA
+p2p://fccseuro.pvbox.live:18912/5e64a2750006010b6caac16257ba59dc.ts
+#EXTINF:-1 group-title="新马备用2",Astro PRIMA
+p2p://fccsovh.pvbox.live:18912/5d6504810008718849df8eb8107ab11f.ts
+#EXTINF:-1 group-title="新马备用2",Astro RIA
+p2p://fccseuro.pvbox.live:18912/5d65046b000f1df0e4e7b8dcb254ca0e.ts
+#EXTINF:-1 group-title="新马备用2",Astro RIA
+p2p://fccseuro.pvbox.live:18912/5e64a2700004928b6caaad7d56c7577a.ts
+#EXTINF:-1 group-title="新马备用2",Astro RIA
+p2p://fccsovh.pvbox.live:18912/5d65046b000f1df0e4e7b8dcb254ca0e.ts
+#EXTINF:-1 group-title="新马备用2",Astro WARNA
+p2p://fccseuro.pvbox.live:18912/5d6504580009a216de9e969c6cc54739.ts
+#EXTINF:-1 group-title="新马备用2",Astro WARNA
+p2p://fccseuro.pvbox.live:18912/5e64a26e0007abd46caaa67869d42822.ts
+#EXTINF:-1 group-title="新马备用2",Astro WARNA
+p2p://fccsovh.pvbox.live:18912/5d6504580009a216de9e969c6cc54739.ts
+#EXTINF:-1 group-title="新马备用2",ASTRO CERIA
+p2p://fccseuro.pvbox.live:18912/5d6504850001c472310d6238c651b0e4.ts
+#EXTINF:-1 group-title="新马备用2",ASTRO CERIA
+p2p://fccsovh.pvbox.live:18912/5d6504850001c472310d6238c651b0e4.ts
+#EXTINF:-1 group-title="新马备用2",AL HIJRAH
+p2p://fccsovh.pvbox.live:18912/5b20e39a000edc28722c8ea1440aa516.ts
+#EXTINF:-1 group-title="新马备用2",AL HIJRAH
+p2p://fccseuro.pvbox.live:18912/5b20e39a000edc28722c8ea1440aa516.ts
+#EXTINF:-1 group-title="新马备用2",BERNAMA
+p2p://fccseuro.pvbox.live:18912/5d6504800000d0253d8f0eb0c4c4db1b.ts
+#EXTINF:-1 group-title="新马备用2",BERNAMA
+p2p://fccsovh.pvbox.live:18912/5d6504800000d0253d8f0eb0c4c4db1b.ts
+#EXTINF:-1 group-title="新马备用2",SURIA
+p2p://fccseuro.pvbox.live:18912/5b20e3ae000daac3367aacf289f0c5ff.ts
+#EXTINF:-1 group-title="新马备用2",SURIA
+p2p://fccsovh.pvbox.live:18912/5b20e3ae000daac3367aacf289f0c5ff.ts
+#EXTINF:-1 group-title="新马备用2",Channel 5
+p2p://fccseuro.pvbox.live:18912/5bcd6bd7000e85ac24f011790821a01b.ts
+#EXTINF:-1 group-title="新马备用2",Channel 5
+p2p://fccsovh.pvbox.live:18912/5bcd6bd7000e85ac24f011790821a01b.ts
+#EXTINF:-1 group-title="新马备用2",Channel 8
+p2p://fccseuro.pvbox.live:18912/5bcd6bdb0006c2463fd42a92cae392f0.ts
+#EXTINF:-1 group-title="新马备用2",Channel 8
+p2p://fccsovh.pvbox.live:18912/5bcd6bdb0006c2463fd42a92cae392f0.ts
+#EXTINF:-1 group-title="新马备用2",Channel U
+p2p://fccseuro.pvbox.live:18912/5bcd6bdf00017fad7de6e62eca6fe61b.ts
+#EXTINF:-1 group-title="新马备用2",Channel U
+p2p://fccsovh.pvbox.live:18912/5bcd6bdf00017fad7de6e62eca6fe61b.ts
+#EXTINF:-1 group-title="新马备用2",CHANNEL NEWS ASIA
+p2p://fccsovh.pvbox.live:18912/5b20e3af00008dee401f438a3c2c920c.ts
+#EXTINF:-1 group-title="新马备用2",CHANNEL NEWS ASIA
+p2p://fccseuro.pvbox.live:18912/5b20e3af00008dee401f438a3c2c920c.ts
+#EXTINF:-1 group-title="新马备用2",SONY HD
+p2p://fccseuro.pvbox.live:18912/5d65048e00009342099dfc01ca94608d.ts
+#EXTINF:-1 group-title="新马备用2",SONY HD
+p2p://fccsovh.pvbox.live:18912/5d65048e00009342099dfc01ca94608d.ts
+#EXTINF:-1 group-title="新马备用2",OH!K
+p2p://fccseuro.pvbox.live:18912/5d65049100074058e38772f47ac4116b.ts
+#EXTINF:-1 group-title="新马备用2",OH!K
+p2p://fccseuro.pvbox.live:18912/5e64a2780008a0b36caacdc663e7569d.ts
+#EXTINF:-1 group-title="新马备用2",OH!K
+p2p://fccsovh.pvbox.live:18912/5d65049100074058e38772f47ac4116b.ts
+#EXTINF:-1 group-title="新马备用2",Kix
+p2p://fccseuro.pvbox.live:18912/5d65047e00051ab5970166de4f65e1b1.ts
+#EXTINF:-1 group-title="新马备用2",Kix
+p2p://fccsovh.pvbox.live:18912/5d65047e00051ab5970166de4f65e1b1.ts
+#EXTINF:-1 group-title="新马备用2",Astro ARENA
+p2p://fccsovh.pvbox.live:18912/5b20e399000e9ef04a06acbd165233fa.ts
+#EXTINF:-1 group-title="新马备用2",Astro ARENA
+p2p://fccseuro.pvbox.live:18912/5b20e399000e9ef04a06acbd165233fa.ts
+#EXTINF:-1 group-title="新马备用2",Astro SUPERSPORT1
+p2p://fccseuro.pvbox.live:18912/5d65048300014a5e068bec5bf4cd97cb.ts
+#EXTINF:-1 group-title="新马备用2",Astro SUPERSPORT1
+p2p://fccseuro.pvbox.live:18912/5e649e1600037f1b6c99ad9f051b6e7c.ts
+#EXTINF:-1 group-title="新马备用2",Astro SUPERSPORT1
+p2p://fccsovh.pvbox.live:18912/5d65048300014a5e068bec5bf4cd97cb.ts
+#EXTINF:-1 group-title="新马备用2",Astro SUPERSPORT2
+p2p://fccseuro.pvbox.live:18912/5b3c4fa2000688aa9a97fb14be6064ee.ts
+#EXTINF:-1 group-title="新马备用2",Astro SUPERSPORT2
+p2p://fccseuro.pvbox.live:18912/5e649e17000d46486c99b407332e53c8.ts
+#EXTINF:-1 group-title="新马备用2",Astro SUPERSPORT2
+p2p://fccseuro.pvbox.live:18912/5cbd60ab000778adefc5b894166228f6.ts
+#EXTINF:-1 group-title="新马备用2",Astro SUPERSPORT2
+p2p://fccsovh.pvbox.live:18912/5b3c4fa2000688aa9a97fb14be6064ee.ts
+#EXTINF:-1 group-title="新马备用2",Astro SUPERSPORT3
+p2p://fccseuro.pvbox.live:18912/5d6504660004a05b66a960dd10e67e6c.ts
+#EXTINF:-1 group-title="新马备用2",Astro SUPERSPORT3
+p2p://fccseuro.pvbox.live:18912/5e649e1900052aca6c99b9c40b5477a2.ts
+#EXTINF:-1 group-title="新马备用2",Astro SUPERSPORT3
+p2p://fccsovh.pvbox.live:18912/5d6504660004a05b66a960dd10e67e6c.ts
+#EXTINF:-1 group-title="新马备用2",Astro SUPERSPORT4
+p2p://fccseuro.pvbox.live:18912/5b3c4fa1000c601f96136b4adf582a75.ts
+#EXTINF:-1 group-title="新马备用2",Astro SUPERSPORT4
+p2p://fccseuro.pvbox.live:18912/5e649e1a000c8e6d6c99bf9075f31729.ts
+#EXTINF:-1 group-title="新马备用2",Astro SUPERSPORT4
+p2p://fccseuro.pvbox.live:18912/5cbd60b30006feb7da90c0f675f83dba.ts
+#EXTINF:-1 group-title="新马备用2",Astro SUPERSPORT4
+p2p://fccsovh.pvbox.live:18912/5b3c4fa1000c601f96136b4adf582a75.ts
+#EXTINF:-1 group-title="新马备用2",WWE
+p2p://fccsovh.pvbox.live:18912/5cffd5d900072496c2c9b7c5d8c9ac44.ts
+#EXTINF:-1 group-title="新马备用2",WWE
+p2p://fccseuro.pvbox.live:18912/5cffd5d900072496c2c9b7c5d8c9ac44.ts
+#EXTINF:-1 group-title="新马备用2",tvn
+p2p://fccsovh.pvbox.live:18912/5bdbf3a70003296c1991afcf478c85b7.ts
+#EXTINF:-1 group-title="新马备用2",tvn
+p2p://fccseuro.pvbox.live:18912/5bdbf3a70003296c1991afcf478c85b7.ts
+#EXTINF:-1 group-title="新马备用2",Astro AOD
+p2p://fccseuro.pvbox.live:18912/5d66315100033ff6433e53248a8db7b1.ts
+#EXTINF:-1 group-title="新马备用2",Astro AOD
+p2p://fccseuro.pvbox.live:18912/5e649e1e0005e1a76c99cd7b32c5143b.ts
+#EXTINF:-1 group-title="新马备用2",Astro AOD
+p2p://fccsovh.pvbox.live:18912/5d66315100033ff6433e53248a8db7b1.ts
+#EXTINF:-1 group-title="新马备用2",Astro Aod HD
+p2p://fccsovh.pvbox.live:18912/5b1409230009416c88e179cb7b469928.ts
+#EXTINF:-1 group-title="新马备用2",Astro Aod HD
+p2p://fccseuro.pvbox.live:18912/5b1409230009416c88e179cb7b469928.ts
+#EXTINF:-1 group-title="新马备用2",Astro 欢喜
+p2p://fccseuro.pvbox.live:18912/5d650431000dec1f88bd7f360291900b.ts
+#EXTINF:-1 group-title="新马备用2",Astro 欢喜
+p2p://fccseuro.pvbox.live:18912/5e649e21000c51f46c99dad905aa25de.ts
+#EXTINF:-1 group-title="新马备用2",Astro 欢喜
+p2p://fccsovh.pvbox.live:18912/5d650431000dec1f88bd7f360291900b.ts
+#EXTINF:-1 group-title="新马备用2",Astro 全佳
+p2p://fccseuro.pvbox.live:18912/5d6504490007b998b2eb2bbcf78738b5.ts
+#EXTINF:-1 group-title="新马备用2",Astro 全佳
+p2p://fccseuro.pvbox.live:18912/5e649e220009754d6c99de0573c16193.ts
+#EXTINF:-1 group-title="新马备用2",Astro 全佳
+p2p://fccsovh.pvbox.live:18912/5d6504490007b998b2eb2bbcf78738b5.ts
+#EXTINF:-1 group-title="新马备用2",Astro 双星
+p2p://fccseuro.pvbox.live:18912/5d65044c000b4cce9c301cedd82d80c2.ts
+#EXTINF:-1 group-title="新马备用2",Astro 双星
+p2p://fccseuro.pvbox.live:18912/5e649e230009b2846c99e1fd5cbe02e6.ts
+#EXTINF:-1 group-title="新马备用2",Astro 双星
+p2p://fccsovh.pvbox.live:18912/5d65044c000b4cce9c301cedd82d80c2.ts
+#EXTINF:-1 group-title="新马备用2",astro 华丽
+p2p://fccseuro.pvbox.live:18912/5d650464000c0498c53ee3c7a30ed901.ts
+#EXTINF:-1 group-title="新马备用2",astro 华丽
+p2p://fccseuro.pvbox.live:18912/5e649e20000e77476c99d77d03ee57c7.ts
+#EXTINF:-1 group-title="新马备用2",astro 华丽
+p2p://fccsovh.pvbox.live:18912/5d650464000c0498c53ee3c7a30ed901.ts
+#EXTINF:-1 group-title="新马备用2",Astro 小太阳
+p2p://fccseuro.pvbox.live:18912/5d6504530000188b955b8319f4090722.ts
+#EXTINF:-1 group-title="新马备用2",Astro 小太阳
+p2p://fccseuro.pvbox.live:18912/5e64a272000ddf336caab7ae691a5371.ts
+#EXTINF:-1 group-title="新马备用2",Astro 小太阳
+p2p://fccsovh.pvbox.live:18912/5d6504530000188b955b8319f4090722.ts
+#EXTINF:-1 group-title="新马备用2",Astro 爱奇艺
+p2p://fccseuro.pvbox.live:18912/5d6631530004ae4c2d9505ff2a9c6848.ts
+#EXTINF:-1 group-title="新马备用2",Astro 爱奇艺
+p2p://fccseuro.pvbox.live:18912/5e64a26d000826396caaa2af320f13f1.ts
+#EXTINF:-1 group-title="新马备用2",Astro 爱奇艺
+p2p://fccsovh.pvbox.live:18912/5d6631530004ae4c2d9505ff2a9c6848.ts
+#EXTINF:-1 group-title="新马备用2",Astro AEC
+p2p://fccseuro.pvbox.live:18912/5d65046a0003ac636bf6a3af1b1f31d8.ts
+#EXTINF:-1 group-title="新马备用2",Astro AEC
+p2p://fccseuro.pvbox.live:18912/5e649e1c000aa68a6c99c6e37b5c2136.ts
+#EXTINF:-1 group-title="新马备用2",Astro AEC
+p2p://fccsovh.pvbox.live:18912/5d65046a0003ac636bf6a3af1b1f31d8.ts
+#EXTINF:-1 group-title="新马备用2",Astro AEC(备)
+p2p://fccseuro.pvbox.live:18912/5cbd60a3000c7aa10f7bbff3a3e1abc1.ts
+#EXTINF:-1 group-title="新马备用2",Astro AEC(备)
+p2p://fccsovh.pvbox.live:18912/5cbd60a3000c7aa10f7bbff3a3e1abc1.ts
+#EXTINF:-1 group-title="新马备用2",天映频道
+p2p://fccseuro.pvbox.live:18912/5d650486000c7ef46a640da928dbefc1.ts
+#EXTINF:-1 group-title="新马备用2",天映频道
+p2p://fccseuro.pvbox.live:18912/5e64a27b000b40186caada2a41021861.ts
+#EXTINF:-1 group-title="新马备用2",天映频道
+p2p://fccsovh.pvbox.live:18912/5d650486000c7ef46a640da928dbefc1.ts
+#EXTINF:-1 group-title="新马备用2",天映经典
+p2p://fccseuro.pvbox.live:18912/5d650488000e67a1df9eba9288b40109.ts
+#EXTINF:-1 group-title="新马备用2",天映经典
+p2p://fccsovh.pvbox.live:18912/5d650488000e67a1df9eba9288b40109.ts
+#EXTINF:-1 group-title="新马备用2",Go Shop Ch
+p2p://fccseuro.pvbox.live:18912/5b3c4f9e00014da0a067626e67ace282.ts
+#EXTINF:-1 group-title="新马备用2",Go Shop Ch
+p2p://fccsovh.pvbox.live:18912/5b3c4f9e00014da0a067626e67ace282.ts
+#EXTINF:-1 group-title="新马备用2",DISNEY CHANNEL
+p2p://fccsovh.pvbox.live:18912/5b593aed0000362187117819dfe1623f.ts
+#EXTINF:-1 group-title="新马备用2",DISNEY CHANNEL
+p2p://fccseuro.pvbox.live:18912/5b593aed0000362187117819dfe1623f.ts
+#EXTINF:-1 group-title="新马备用2",DISNEY JR
+p2p://fccsovh.pvbox.live:18912/5cf559e50008d20240bb386709095db4.ts
+#EXTINF:-1 group-title="新马备用2",DISNEY JR
+p2p://fccseuro.pvbox.live:18912/5cf559e50008d20240bb386709095db4.ts
+#EXTINF:-1 group-title="新马备用2",BOO
+p2p://fccseuro.pvbox.live:18912/5b3c4f9f000c861ec841fee0488cbdb3.ts
+#EXTINF:-1 group-title="新马备用2",BOO
+p2p://fccsovh.pvbox.live:18912/5b3c4f9f000c861ec841fee0488cbdb3.ts
+#EXTINF:-1 group-title="新马备用2",CN卡通
+p2p://fccsovh.pvbox.live:18912/5b140917000efaac21db0941c02449d8.ts
+#EXTINF:-1 group-title="新马备用2",CN卡通
+p2p://fccseuro.pvbox.live:18912/5b140917000efaac21db0941c02449d8.ts
+#EXTINF:-1 group-title="新马备用2",foxsports
+p2p://fccsovh.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4.ts
+#EXTINF:-1 group-title="新马备用2",foxsports
+p2p://fccseuro.pvbox.live:18912/5b140a970005af9a17d6fa9c392512d4.ts
+#EXTINF:-1 group-title="新马备用2",fox movie
+p2p://fccseuro.pvbox.live:18912/5b3c4f9c000341469570bb9241e0decd.ts
+#EXTINF:-1 group-title="新马备用2",fox movie
+p2p://fccsovh.pvbox.live:18912/5b3c4f9c000341469570bb9241e0decd.ts
+#EXTINF:-1 group-title="新马备用2",HBO HD
+p2p://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
+#EXTINF:-1 group-title="新马备用2",HBO HD
+p2p://fccseuro.pvbox.live:18912/5c7249dd000ca2101d58106551ff3ed4.ts
+#EXTINF:-1 group-title="新马备用2",HBO HD
+p2p://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
+#EXTINF:-1 group-title="新马备用2",TVB 星河臺
+p2p://fccseuro.pvbox.live:18912/5d65048c0003e9aecc353f52270c8bbe.ts
+#EXTINF:-1 group-title="新马备用2",TVB 星河臺
+p2p://fccsovh.pvbox.live:18912/5d65048c0003e9aecc353f52270c8bbe.ts
+#EXTINF:-1 group-title="新马备用2",VASANTHAM
+p2p://fccseuro.pvbox.live:18912/5b20e3af00036b8c28619c6ff14a3dd0.ts
+#EXTINF:-1 group-title="新马备用2",VASANTHAM
+p2p://fccsovh.pvbox.live:18912/5b20e3af00036b8c28619c6ff14a3dd0.ts
+#EXTINF:-1 group-title="新马备用2",foxsports2
+p2p://fccsovh.pvbox.live:18912/5b140a97000b668417d6fc134b0d417e.ts
+#EXTINF:-1 group-title="新马备用2",foxsports2
+p2p://fccseuro.pvbox.live:18912/5b140a97000b668417d6fc134b0d417e.ts
+#EXTINF:-1 group-title="新马备用2",Fox Family HD
+p2p://fccseuro.pvbox.live:18912/5e0484640001945b84dbbea9eeb21772.ts
+#EXTINF:-1 group-title="新马备用2",Fox Family HD
+p2p://fccsovh.pvbox.live:18912/5e0484640001945b84dbbea9eeb21772.ts
+#EXTINF:-1 group-title="新马备用2",ASTRO CRICKET HD
+p2p://fccsovh.pvbox.live:18912/5cbd61720004604e8a21b3037b4c2bb3.ts
+#EXTINF:-1 group-title="新马备用2",ASTRO CRICKET HD
+p2p://fccseuro.pvbox.live:18912/5cbd61720004604e8a21b3037b4c2bb3.ts
+#EXTINF:-1 group-title="新马备用2",HBOCA
+p2p://fccsovh.pvbox.live:18912/5cf559de000079ad9f1ddb23b2aafae5.ts
+#EXTINF:-1 group-title="新马备用2",HBOCA
+p2p://fccseuro.pvbox.live:18912/5cf559de000079ad9f1ddb23b2aafae5.ts
+#EXTINF:-1 group-title="新马备用2",HBOCA2
+p2p://fccsovh.pvbox.live:18912/5cffd799000ddb76cd1d916c4ee8efee.ts
+#EXTINF:-1 group-title="新马备用2",HBOCA2
+p2p://fccseuro.pvbox.live:18912/5cffd799000ddb76cd1d916c4ee8efee.ts
+#EXTINF:-1 group-title="新马备用2",Movie Network 1
+p2p://fccsovh.pvbox.live:18912/5cffd5c70005b65ab6e3a102a9367257.ts
+#EXTINF:-1 group-title="新马备用2",Movie Network 1
+p2p://fccseuro.pvbox.live:18912/5cffd5c70005b65ab6e3a102a9367257.ts
+#EXTINF:-1 group-title="新马备用2",NBA Canada
+p2p://fccsovh.pvbox.live:18912/5cffd5d4000b327ef5bf18f4e5a91904.ts
+#EXTINF:-1 group-title="新马备用2",NBA Canada
+p2p://fccseuro.pvbox.live:18912/5cffd5d4000b327ef5bf18f4e5a91904.ts
+#EXTINF:-1 group-title="新马备用2",Family
+p2p://fccsovh.pvbox.live:18912/5cffd5e200012f5b8adaa27b3ee5f498.ts
+#EXTINF:-1 group-title="新马备用2",Family
+p2p://fccseuro.pvbox.live:18912/5cffd5e200012f5b8adaa27b3ee5f498.ts
+#EXTINF:-1 group-title="新马备用2",TVBHD
+p2p://fccsovh.pvbox.live:18912/5cf559f800003d1bab8b3e07f042c2b9.ts
+#EXTINF:-1 group-title="新马备用2",TVBHD
+p2p://fccseuro.pvbox.live:18912/5cf559f800003d1bab8b3e07f042c2b9.ts
+#EXTINF:-1 group-title="新马备用2",TVB US 1
+p2p://fccsovh.pvbox.live:18912/5cffd79b0008224605e668c79ca6efc0.ts
+#EXTINF:-1 group-title="新马备用2",TVB US 1
+p2p://fccseuro.pvbox.live:18912/5cffd79b0008224605e668c79ca6efc0.ts
+#EXTINF:-1 group-title="新马备用2",TVB US 2
+p2p://fccsovh.pvbox.live:18912/5cffd79d0004cbb66f6dece9140f8690.ts
+#EXTINF:-1 group-title="新马备用2",TVB US 2
+p2p://fccseuro.pvbox.live:18912/5cffd79d0004cbb66f6dece9140f8690.ts
+#EXTINF:-1 group-title="新马备用2",Bein Sports
+p2p://fccsovh.pvbox.live:18912/5cf559ed000079fb7b608c0205b3f92a.ts
+#EXTINF:-1 group-title="新马备用2",Bein Sports
+p2p://fccseuro.pvbox.live:18912/5cf559ed000079fb7b608c0205b3f92a.ts
+#EXTINF:-1 group-title="新马备用2",KBS World
+p2p://fccseuro.pvbox.live:18912/5e0484590006d2dab8ed07bfe299c23a.ts
+#EXTINF:-1 group-title="新马备用2",KBS World
+p2p://fccsovh.pvbox.live:18912/5e0484590006d2dab8ed07bfe299c23a.ts
+#EXTINF:-1 group-title="新马备用2",HBO Family HD
+p2p://fccseuro.pvbox.live:18912/5e04845f000063220247f9eb4d8b0a32.ts
+#EXTINF:-1 group-title="新马备用2",HBO Family HD
+p2p://fccsovh.pvbox.live:18912/5e04845f000063220247f9eb4d8b0a32.ts
+#EXTINF:-1 group-title="新马备用2",HBO Family
+p2p://fccseuro.pvbox.live:18912/5bee505700010a745bac3a281697dc45.ts
+#EXTINF:-1 group-title="新马备用2",HBO Family
+p2p://fccsovh.pvbox.live:18912/5bee505700010a745bac3a281697dc45.ts
+#EXTINF:-1 group-title="新马备用2",Fox Movies Premium
+p2p://fccseuro.pvbox.live:18912/5e04846100065908de39e64a7807f88f.ts
+#EXTINF:-1 group-title="新马备用2",Fox Movies Premium
+p2p://fccsovh.pvbox.live:18912/5e04846100065908de39e64a7807f88f.ts
+#EXTINF:-1 group-title="新马备用2",Fox HD
+p2p://fccseuro.pvbox.live:18912/5e04846300020dc8be619f4adfec6baf.ts
+#EXTINF:-1 group-title="新马备用2",Fox HD
+p2p://fccsovh.pvbox.live:18912/5e04846300020dc8be619f4adfec6baf.ts
+#EXTINF:-1 group-title="新马备用2",CGTN
+p2p://fccseuro.pvbox.live:18912/5b3c4f9d0000f9b4a13f5914757cf48b.ts
+#EXTINF:-1 group-title="新马备用2",CGTN
+p2p://fccsovh.pvbox.live:18912/5b3c4f9d0000f9b4a13f5914757cf48b.ts
+#EXTINF:-1 group-title="新马备用2",Star Vijay
+p2p://fccseuro.pvbox.live:18912/5d72027b000e602dd086f4a7bcb4c178.ts
+#EXTINF:-1 group-title="新马备用2",Star Vijay
+p2p://fccsovh.pvbox.live:18912/5d72027b000e602dd086f4a7bcb4c178.ts
+#EXTINF:-1 group-title="新马备用2",Zee Tamil
+p2p://fccseuro.pvbox.live:18912/5d72027d00082cf8ef436b235533d22c.ts
+#EXTINF:-1 group-title="新马备用2",Zee Tamil
+p2p://fccsovh.pvbox.live:18912/5d72027d00082cf8ef436b235533d22c.ts
+#EXTINF:-1 group-title="新马备用2",Sun TV
+p2p://fccseuro.pvbox.live:18912/5d72027a0001bd21f94da7b9f261357f.ts
+#EXTINF:-1 group-title="新马备用2",Sun TV
+p2p://fccsovh.pvbox.live:18912/5d72027a0001bd21f94da7b9f261357f.ts
+#EXTINF:-1 group-title="新马备用3",Astro欢喜台
+p8p://0198.02686.cc:16871/5ecfb90800040601969837e0aa1efa5c
+#EXTINF:-1 group-title="新马备用3",Astro爱奇艺
+p8p://0198.02686.cc:16871/5f38d81300083da4468539a0eb8d0c0a
+#EXTINF:-1 group-title="新马备用3",Astro双星
+p8p://0198.02686.cc:16871/5f38d8fd000caa6e4688ccd211ea705f
+#EXTINF:-1 group-title="新马备用3",Astro AEC
+p8p://0198.02686.cc:16871/5ebce360000578b04d059fff4c2e3e3b
+#EXTINF:-1 group-title="新马备用3",Astro AOD
+p8p://0198.02686.cc:16871/5f2c09ae00029cc4147efda7dcc27dfc
+#EXTINF:-1 group-title="新马备用3",新加坡 5
+p8p://0198.02686.cc:16871/5f48befd0008c5702413bdf1cb4c3d16
+#EXTINF:-1 group-title="新马备用3",新加坡 8
+p8p://0198.02686.cc:16871/5f48bcef000819da240bb715c294ee99
+#EXTINF:-1 group-title="新马备用3",新加坡 u
+p8p://0198.02686.cc:16871/5f48bdc00000a914240ee5961e42ddb9
+#EXTINF:-1 group-title="新马备用3",Astro supersport 2
+p8p://0198.02686.cc:16871/5ecfb8a5000633be9696b5b754f59677
+#EXTINF:-1 group-title="新马备用3",Astro supersport 3
+p8p://0198.02686.cc:16871/5ecfb8cd000aead19697532ccd7047f1
+#EXTINF:-1 group-title="新马备用3",TV1
+p8p://0198.02686.cc:16871/5f38db6700036d2e46923885d5fec1d8
+#EXTINF:-1 group-title="新马备用3",TV2
+p8p://0198.02686.cc:16871/5f38dbd70004896a4693ee4de1f1062b
+#EXTINF:-1 group-title="新马备用3",TV3
+p8p://0198.02686.cc:16871/5f48c104000ee571241baadbeca58824
+#EXTINF:-1 group-title="新马备用3",NTV7
+p8p://0198.02686.cc:16871/5f48c19b00027fd5241df5869244f0e9
+#EXTINF:-1 group-title="新马备用3",TV8
+p8p://0198.02686.cc:16871/5f48c2d5000a35e32422c2101c0f6be3
+#EXTINF:-1 group-title="新马备用3",RIA
+p8p://0198.02686.cc:16871/5f38da5a000597f0468e1e4b36907bc0
+#EXTINF:-1 group-title="新马备用3",HGTV
+p8p://0198.02686.cc:16871/5f37d6220008f7164295a468e226c829
+#EXTINF:-1 group-title="新马备用3",VINMEEN
+p8p://0198.02686.cc:16871/5f34c9c00007f8c936ad45568b5ad1ef
+#EXTINF:-1 group-title="新马备用3",BNC
+p8p://0198.02686.cc:16871/5f39111e000980ec47640ceb3b327a26
+#EXTINF:-1 group-title="新马备用3",BLUE ANT
+p8p://0198.02686.cc:16871/5f38e1940000417846aa577d4c44ec6d
+#EXTINF:-1 group-title="新马备用3",Awaui
+p8p://0198.02686.cc:16871/5f38e27d0001a03146ade5ff5976831b
+#EXTINF:-1 group-title="新马备用3",Animax
+p8p://0198.02686.cc:16871/5f37e0a9000b3a6142bec454e847807d
+#EXTINF:-1 group-title="新马备用3",FOX_Life
+p8p://0198.02686.cc:16871/5f38e40700018a8746b3e909bc41bcae
+#EXTINF:-1 group-title="新马备用3",FOX_
+p8p://0198.02686.cc:16871/5f38e4c4000f3daf46b6ced31beebb94
+#EXTINF:-1 group-title="新马备用3",Discovery
+p8p://0198.02686.cc:16871/5f3a73a2000c5e024ccce147da85298b
+#EXTINF:-1 group-title="新马备用3",WWE NETWORK
+p8p://0198.02686.cc:16871/5f3a77db000378164cdd5da71c08ae8d
+#EXTINF:-1 group-title="新马备用3",Ceria
+p8p://0198.02686.cc:16871/5f3a792900065ca24ce27715111474c9
+#EXTINF:-1 group-title="新马备用3",Go Shop
+p8p://0198.02686.cc:16871/5f37636c0001eb1540d58baa35bc4c42
+#EXTINF:-1 group-title="新马备用3",Prima
+p8p://0198.02686.cc:16871/5f38dadf0007ff034690267038e14f22
+#EXTINF:-1 group-title="新马备用3",NAURA
+p8p://0198.02686.cc:16871/5f3a79d90002af024ce525a4b958389f
+#EXTINF:-1 group-title="新马备用3",HBO
+p8p://0198.02686.cc:16871/5f34c2500006a2293690377f406df9b8
+#EXTINF:-1 group-title="哔哩哔哩直播测试",哔哩哔哩音悦台
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=3
+#EXTINF:-1 group-title="哔哩哔哩直播测试",猫和老鼠
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=1024814
+#EXTINF:-1 group-title="哔哩哔哩直播测试",新版 猫和老鼠
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=14300538
+#EXTINF:-1 group-title="哔哩哔哩直播测试",新版 猫和老鼠
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=6195869
+#EXTINF:-1 group-title="哔哩哔哩直播测试",哆啦A梦新番
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=482946
+#EXTINF:-1 group-title="哔哩哔哩直播测试",安静纯音乐
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=4854434
+#EXTINF:-1 group-title="哔哩哔哩直播测试",听歌~点歌/作业向 音乐厅
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=1360383
+#EXTINF:-1 group-title="哔哩哔哩直播测试",电音电台
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=14615
+#EXTINF:-1 group-title="哔哩哔哩直播测试",广州SuperDiamond酒吧DJ直播
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=21265968
+#EXTINF:-1 group-title="哔哩哔哩直播测试",广州SuperDiamond酒吧DJ直播
+http://iptv8080iptv.000webhostapp.com/php/bilibili2.php?id=21265968
+#EXTINF:-1 group-title="哔哩哔哩直播测试",DJ Radio On The Trip
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=3981922
+#EXTINF:-1 group-title="哔哩哔哩直播测试",蜡笔小新
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=10375360
+#EXTINF:-1 group-title="哔哩哔哩直播测试",纯音馆
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=157901
+#EXTINF:-1 group-title="哔哩哔哩直播测试",BGM
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=10112
+#EXTINF:-1 group-title="哔哩哔哩直播测试",名侦探柯南
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=22017777
+#EXTINF:-1 group-title="哔哩哔哩直播测试",戴上耳机，进来你就出不去了
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=397138
+#EXTINF:-1 group-title="哔哩哔哩直播测试",医馆笑传
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=21070400
+#EXTINF:-1 group-title="哔哩哔哩直播测试",蜡笔小新
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=1913690
+#EXTINF:-1 group-title="哔哩哔哩直播测试",军旅
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=21746919
+#EXTINF:-1 group-title="哔哩哔哩直播测试",终极系列
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=2290619
+#EXTINF:-1 group-title="哔哩哔哩直播测试",终极系列
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=22587179
+#EXTINF:-1 group-title="哔哩哔哩直播测试",无损歌曲
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=21751885
+#EXTINF:-1 group-title="哔哩哔哩直播测试",无聊听听歌
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=7115402
+#EXTINF:-1 group-title="哔哩哔哩直播测试",初音ミクLive
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=346905
+#EXTINF:-1 group-title="哔哩哔哩直播测试",私人歌单
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=416695
+#EXTINF:-1 group-title="哔哩哔哩直播测试",听歌睡觉
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=22594446
+#EXTINF:-1 group-title="哔哩哔哩直播测试",宫崎骏 久石让音乐
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=379658
+#EXTINF:-1 group-title="哔哩哔哩直播测试",点歌台
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=6879632
+#EXTINF:-1 group-title="哔哩哔哩直播测试",破旧的音悦台
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=215057
+#EXTINF:-1 group-title="哔哩哔哩直播测试",Lofi HipHop放松电台
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=4480901
+#EXTINF:-1 group-title="哔哩哔哩直播测试",Chillhop电台
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=21550033
+#EXTINF:-1 group-title="哔哩哔哩直播测试",听歌呀（云音乐会员已开通）
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=187263
+#EXTINF:-1 group-title="哔哩哔哩直播测试",直播从太空看地球
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=9196015
+#EXTINF:-1 group-title="哔哩哔哩直播测试",music时间到
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=3923356
+#EXTINF:-1 group-title="哔哩哔哩直播测试",Listen音悦台
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=14700762
+#EXTINF:-1 group-title="哔哩哔哩直播测试",纯音乐
+http://iptv8080iptv.000webhostapp.com/php/bilibili.php?id=397064
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV1综合
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=608807420
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV1综合
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=608807420
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV1综合
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=608807420
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV1综合
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=608807420
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV2财经
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=672926537
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV2财经
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=672926537
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV2财经
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=672926537
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV2财经
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=672926537
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV3综艺
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=624878270
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV3综艺
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=624878270
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV3综艺
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=624878270
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV3综艺
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=624878270
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV4中文国际
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=672924435
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV4中文国际
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=672924435
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV4中文国际
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=672924435
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV4中文国际
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=672924435
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV4中文国际欧洲
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=608807419
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV4中文国际欧洲
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=608807419
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV4中文国际欧洲
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=608807419
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV4中文国际欧洲
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=608807419
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV4中文国际美洲
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=608807416
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV4中文国际美洲
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=608807416
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV4中文国际美洲
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=608807416
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV4中文国际美洲
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=608807416
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV5体育
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=641886681
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV5体育
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=641886681
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV5体育
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=641886681
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV5体育
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=641886681
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV5+体育赛事
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=641886771
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV5+体育赛事
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=641886771
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV5+体育赛事
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=641886771
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV5+体育赛事
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=641886771
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV6电影
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=624878393
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV6电影
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=624878393
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV6电影
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=624878393
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV6电影
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=624878393
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV8电视剧
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=624878355
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV8电视剧
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=624878355
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV8电视剧
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=624878355
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV8电视剧
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=624878355
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV9纪录
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=673168140
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV9纪录
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=673168140
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV9纪录
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=673168140
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV9纪录
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=673168140
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV10科教
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=624878405
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV10科教
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=624878405
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV10科教
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=624878405
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV10科教
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=624878405
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV11戏曲
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=672923822
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV11戏曲
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=672923822
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV11戏曲
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=672923822
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV11戏曲
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=672923822
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV12社会与法
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=673168185
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV12社会与法
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=673168185
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV12社会与法
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=673168185
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV12社会与法
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=673168185
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV13新闻
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=672922360
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV13新闻
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=672922360
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV13新闻
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=672922360
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV13新闻
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=672922360
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV14少儿
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=624878440
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV14少儿
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=624878440
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV14少儿
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=624878440
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV14少儿
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=624878440
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV15音乐
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=673168223
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV15音乐
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=673168223
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV15音乐
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=673168223
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV15音乐
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=673168223
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV17农村农业
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=673168256
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV17农村农业
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=673168256
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV17农村农业
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=673168256
+#EXTINF:-1 group-title="咪咕代理直播源",CCTV17农村农业
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=673168256
+#EXTINF:-1 group-title="咪咕代理直播源",北京卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=630287636
+#EXTINF:-1 group-title="咪咕代理直播源",北京卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=630287636
+#EXTINF:-1 group-title="咪咕代理直播源",北京卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=630287636
+#EXTINF:-1 group-title="咪咕代理直播源",北京卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=630287636
+#EXTINF:-1 group-title="咪咕代理直播源",东方卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=651625930
+#EXTINF:-1 group-title="咪咕代理直播源",东方卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=651625930
+#EXTINF:-1 group-title="咪咕代理直播源",东方卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=651625930
+#EXTINF:-1 group-title="咪咕代理直播源",东方卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=651625930
+#EXTINF:-1 group-title="咪咕代理直播源",重庆卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=630288006
+#EXTINF:-1 group-title="咪咕代理直播源",重庆卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=630288006
+#EXTINF:-1 group-title="咪咕代理直播源",重庆卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=630288006
+#EXTINF:-1 group-title="咪咕代理直播源",重庆卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=630288006
+#EXTINF:-1 group-title="咪咕代理直播源",吉林卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=630288397
+#EXTINF:-1 group-title="咪咕代理直播源",吉林卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=630288397
+#EXTINF:-1 group-title="咪咕代理直播源",吉林卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=630288397
+#EXTINF:-1 group-title="咪咕代理直播源",吉林卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=630288397
+#EXTINF:-1 group-title="咪咕代理直播源",辽宁卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=630291707
+#EXTINF:-1 group-title="咪咕代理直播源",辽宁卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=630291707
+#EXTINF:-1 group-title="咪咕代理直播源",辽宁卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=630291707
+#EXTINF:-1 group-title="咪咕代理直播源",辽宁卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=630291707
+#EXTINF:-1 group-title="咪咕代理直播源",内蒙古卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=630287015
+#EXTINF:-1 group-title="咪咕代理直播源",内蒙古卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=630287015
+#EXTINF:-1 group-title="咪咕代理直播源",内蒙古卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=630287015
+#EXTINF:-1 group-title="咪咕代理直播源",内蒙古卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=630287015
+#EXTINF:-1 group-title="咪咕代理直播源",宁夏卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=630287436
+#EXTINF:-1 group-title="咪咕代理直播源",宁夏卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=630287436
+#EXTINF:-1 group-title="咪咕代理直播源",宁夏卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=630287436
+#EXTINF:-1 group-title="咪咕代理直播源",宁夏卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=630287436
+#EXTINF:-1 group-title="咪咕代理直播源",甘肃卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=630287549
+#EXTINF:-1 group-title="咪咕代理直播源",甘肃卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=630287549
+#EXTINF:-1 group-title="咪咕代理直播源",甘肃卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=630287549
+#EXTINF:-1 group-title="咪咕代理直播源",甘肃卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=630287549
+#EXTINF:-1 group-title="咪咕代理直播源",青海卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=630287272
+#EXTINF:-1 group-title="咪咕代理直播源",青海卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=630287272
+#EXTINF:-1 group-title="咪咕代理直播源",青海卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=630287272
+#EXTINF:-1 group-title="咪咕代理直播源",青海卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=630287272
+#EXTINF:-1 group-title="咪咕代理直播源",陕西卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=630287233
+#EXTINF:-1 group-title="咪咕代理直播源",陕西卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=630287233
+#EXTINF:-1 group-title="咪咕代理直播源",陕西卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=630287233
+#EXTINF:-1 group-title="咪咕代理直播源",陕西卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=630287233
+#EXTINF:-1 group-title="咪咕代理直播源",河北卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=630292528
+#EXTINF:-1 group-title="咪咕代理直播源",河北卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=630292528
+#EXTINF:-1 group-title="咪咕代理直播源",河北卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=630292528
+#EXTINF:-1 group-title="咪咕代理直播源",河北卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=630292528
+#EXTINF:-1 group-title="咪咕代理直播源",山西卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=630289043
+#EXTINF:-1 group-title="咪咕代理直播源",山西卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=630289043
+#EXTINF:-1 group-title="咪咕代理直播源",山西卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=630289043
+#EXTINF:-1 group-title="咪咕代理直播源",山西卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=630289043
+#EXTINF:-1 group-title="咪咕代理直播源",安徽卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=644933992
+#EXTINF:-1 group-title="咪咕代理直播源",安徽卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=644933992
+#EXTINF:-1 group-title="咪咕代理直播源",安徽卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=644933992
+#EXTINF:-1 group-title="咪咕代理直播源",安徽卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=644933992
+#EXTINF:-1 group-title="咪咕代理直播源",河南卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=635489820
+#EXTINF:-1 group-title="咪咕代理直播源",河南卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=635489820
+#EXTINF:-1 group-title="咪咕代理直播源",河南卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=635489820
+#EXTINF:-1 group-title="咪咕代理直播源",河南卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=635489820
+#EXTINF:-1 group-title="咪咕代理直播源",湖北卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=630292423
+#EXTINF:-1 group-title="咪咕代理直播源",湖北卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=630292423
+#EXTINF:-1 group-title="咪咕代理直播源",湖北卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=630292423
+#EXTINF:-1 group-title="咪咕代理直播源",湖北卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=630292423
+#EXTINF:-1 group-title="咪咕代理直播源",湖南卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=635491149
+#EXTINF:-1 group-title="咪咕代理直播源",湖南卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=635491149
+#EXTINF:-1 group-title="咪咕代理直播源",湖南卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=635491149
+#EXTINF:-1 group-title="咪咕代理直播源",湖南卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=635491149
+#EXTINF:-1 group-title="咪咕代理直播源",江西卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=630290852
+#EXTINF:-1 group-title="咪咕代理直播源",江西卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=630290852
+#EXTINF:-1 group-title="咪咕代理直播源",江西卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=630290852
+#EXTINF:-1 group-title="咪咕代理直播源",江西卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=630290852
+#EXTINF:-1 group-title="咪咕代理直播源",江苏卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=623899540
+#EXTINF:-1 group-title="咪咕代理直播源",江苏卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=623899540
+#EXTINF:-1 group-title="咪咕代理直播源",江苏卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=623899540
+#EXTINF:-1 group-title="咪咕代理直播源",江苏卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=623899540
+#EXTINF:-1 group-title="咪咕代理直播源",东南卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=651642156
+#EXTINF:-1 group-title="咪咕代理直播源",东南卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=651642156
+#EXTINF:-1 group-title="咪咕代理直播源",东南卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=651642156
+#EXTINF:-1 group-title="咪咕代理直播源",东南卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=651642156
+#EXTINF:-1 group-title="咪咕代理直播源",广东卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=608831231
+#EXTINF:-1 group-title="咪咕代理直播源",广东卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=608831231
+#EXTINF:-1 group-title="咪咕代理直播源",广东卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=608831231
+#EXTINF:-1 group-title="咪咕代理直播源",广东卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=608831231
+#EXTINF:-1 group-title="咪咕代理直播源",南方卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=608917627
+#EXTINF:-1 group-title="咪咕代理直播源",南方卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=608917627
+#EXTINF:-1 group-title="咪咕代理直播源",南方卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=608917627
+#EXTINF:-1 group-title="咪咕代理直播源",南方卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=608917627
+#EXTINF:-1 group-title="咪咕代理直播源",广西卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=634055160
+#EXTINF:-1 group-title="咪咕代理直播源",广西卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=634055160
+#EXTINF:-1 group-title="咪咕代理直播源",广西卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=634055160
+#EXTINF:-1 group-title="咪咕代理直播源",广西卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=634055160
+#EXTINF:-1 group-title="咪咕代理直播源",云南卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=630291417
+#EXTINF:-1 group-title="咪咕代理直播源",云南卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=630291417
+#EXTINF:-1 group-title="咪咕代理直播源",云南卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=630291417
+#EXTINF:-1 group-title="咪咕代理直播源",云南卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=630291417
+#EXTINF:-1 group-title="咪咕代理直播源",贵州卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=631094827
+#EXTINF:-1 group-title="咪咕代理直播源",贵州卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=631094827
+#EXTINF:-1 group-title="咪咕代理直播源",贵州卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=631094827
+#EXTINF:-1 group-title="咪咕代理直播源",贵州卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=631094827
+#EXTINF:-1 group-title="咪咕代理直播源",四川卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=630288361
+#EXTINF:-1 group-title="咪咕代理直播源",四川卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=630288361
+#EXTINF:-1 group-title="咪咕代理直播源",四川卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=630288361
+#EXTINF:-1 group-title="咪咕代理直播源",四川卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=630288361
+#EXTINF:-1 group-title="咪咕代理直播源",新疆卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=635385783
+#EXTINF:-1 group-title="咪咕代理直播源",新疆卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=635385783
+#EXTINF:-1 group-title="咪咕代理直播源",新疆卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=635385783
+#EXTINF:-1 group-title="咪咕代理直播源",新疆卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=635385783
+#EXTINF:-1 group-title="咪咕代理直播源",兵团卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=630288004
+#EXTINF:-1 group-title="咪咕代理直播源",兵团卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=630288004
+#EXTINF:-1 group-title="咪咕代理直播源",兵团卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=630288004
+#EXTINF:-1 group-title="咪咕代理直播源",兵团卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=630288004
+#EXTINF:-1 group-title="咪咕代理直播源",西藏卫视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=630291593
+#EXTINF:-1 group-title="咪咕代理直播源",西藏卫视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=630291593
+#EXTINF:-1 group-title="咪咕代理直播源",西藏卫视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=630291593
+#EXTINF:-1 group-title="咪咕代理直播源",西藏卫视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=630291593
+#EXTINF:-1 group-title="咪咕代理直播源",北京冬奥纪实
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=641874369
+#EXTINF:-1 group-title="咪咕代理直播源",北京冬奥纪实
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=641874369
+#EXTINF:-1 group-title="咪咕代理直播源",北京冬奥纪实
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=641874369
+#EXTINF:-1 group-title="咪咕代理直播源",北京冬奥纪实
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=641874369
+#EXTINF:-1 group-title="咪咕代理直播源",四海钓鱼
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=650999610
+#EXTINF:-1 group-title="咪咕代理直播源",四海钓鱼
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=650999610
+#EXTINF:-1 group-title="咪咕代理直播源",四海钓鱼
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=650999610
+#EXTINF:-1 group-title="咪咕代理直播源",四海钓鱼
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=650999610
+#EXTINF:-1 group-title="咪咕代理直播源",第一财经
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=608780988
+#EXTINF:-1 group-title="咪咕代理直播源",第一财经
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=608780988
+#EXTINF:-1 group-title="咪咕代理直播源",第一财经
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=608780988
+#EXTINF:-1 group-title="咪咕代理直播源",第一财经
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=608780988
+#EXTINF:-1 group-title="咪咕代理直播源",东方影视
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=617290047
+#EXTINF:-1 group-title="咪咕代理直播源",东方影视
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=617290047
+#EXTINF:-1 group-title="咪咕代理直播源",东方影视
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=617290047
+#EXTINF:-1 group-title="咪咕代理直播源",东方影视
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=617290047
+#EXTINF:-1 group-title="咪咕代理直播源",东方都市
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=651642246
+#EXTINF:-1 group-title="咪咕代理直播源",东方都市
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=651642246
+#EXTINF:-1 group-title="咪咕代理直播源",东方都市
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=651642246
+#EXTINF:-1 group-title="咪咕代理直播源",东方都市
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=651642246
+#EXTINF:-1 group-title="咪咕代理直播源",上视纪实人文
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=617289997
+#EXTINF:-1 group-title="咪咕代理直播源",上视纪实人文
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=617289997
+#EXTINF:-1 group-title="咪咕代理直播源",上视纪实人文
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=617289997
+#EXTINF:-1 group-title="咪咕代理直播源",上视纪实人文
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=617289997
+#EXTINF:-1 group-title="咪咕代理直播源",爱情公寓
+http://iptv8080iptv.000webhostapp.com/migu/1.php?id=625681367
+#EXTINF:-1 group-title="咪咕代理直播源",爱情公寓
+http://iptv8080iptv.000webhostapp.com/migu/2.php?id=625681367
+#EXTINF:-1 group-title="咪咕代理直播源",爱情公寓
+http://iptv8080iptv.000webhostapp.com/migu/3.php?id=625681367
+#EXTINF:-1 group-title="咪咕代理直播源",爱情公寓
+http://iptv8080iptv.000webhostapp.com/migu/4.php?id=625681367
+#EXTINF:-1 group-title="虎牙VIP直播测试",华视-动作大片
+rtmp://tx.flv.huya.com/huyalive/1199556584546-1199556584546-5414703761564106752-2399113292548-10057-A-0-1_1200
+#EXTINF:-1 group-title="虎牙VIP直播测试",华视-警匪大片
+rtmp://tx.flv.huya.com/huyalive/1199556520236-1199556520236-5414427552217300992-2399113163928-10057-A-0-1_1200
+#EXTINF:-1 group-title="虎牙VIP直播测试",华视-喜剧大片
+rtmp://tx.flv.huya.com/huyalive/1199556529730-1199556529730-5414468328636809216-2399113182916-10057-A-0-1_1200
+#EXTINF:-1 group-title="虎牙VIP直播测试",华视-猜你喜欢
+rtmp://tx.flv.huya.com/huyalive/1199556515553-1199556515553-5414407438885453824-2399113154562-10057-A-0-1_1200
+#EXTINF:-1 group-title="虎牙VIP直播测试",华视-高分好片
+rtmp://tx.flv.huya.com/huyalive/1199556523173-1199556523173-5414440166536249344-2399113169802-10057-A-0-1_1200
+#EXTINF:-1 group-title="虎牙VIP直播测试",华视-悬疑恐怖
+rtmp://tx.flv.huya.com/huyalive/1199556528761-1199556528761-5414464166813499392-2399113180978-10057-A-0-1_1200
+#EXTINF:-1 group-title="虎牙VIP直播测试",华视-爱情大片
+rtmp://tx.flv.huya.com/huyalive/1199556528729-1199556528729-5414464029374545920-2399113180914-10057-A-0-1_1200
+#EXTINF:-1 group-title="虎牙VIP直播测试",华视-你想要的
+rtmp://tx.flv.huya.com/huyalive/1199556586264-1199556586264-5414711140317921280-2399113295984-10057-A-0-1_1200
+#EXTINF:-1 group-title="虎牙VIP直播测试",华视-小时代呀
+rtmp://tx.flv.huya.com/huyalive/1199556532981-1199556532981-5414482291575488512-2399113189418-10057-A-0-1_1200
+#EXTINF:-1 group-title="虎牙直播测试",小公举
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601968
+#EXTINF:-1 group-title="虎牙直播测试",陈翔六点半
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11274154
+#EXTINF:-1 group-title="虎牙直播测试",阿斗归来了
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=13303478
+#EXTINF:-1 group-title="虎牙直播测试",村口老王
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352914
+#EXTINF:-1 group-title="虎牙直播测试",小木子先生丶
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342396
+#EXTINF:-1 group-title="虎牙直播测试",虎牙八点档
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=880261
+#EXTINF:-1 group-title="虎牙直播测试",小蘑菇
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601981
+#EXTINF:-1 group-title="虎牙直播测试",初心
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352941
+#EXTINF:-1 group-title="虎牙直播测试",鯎爺
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352944
+#EXTINF:-1 group-title="虎牙直播测试",小丑讲电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16857432
+#EXTINF:-1 group-title="虎牙直播测试",种瓜得弟弟
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352872
+#EXTINF:-1 group-title="虎牙直播测试",扁豆看电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16028551
+#EXTINF:-1 group-title="虎牙直播测试",柯冉冉
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352874
+#EXTINF:-1 group-title="虎牙直播测试",裸奔的蜗牛╮
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342418
+#EXTINF:-1 group-title="虎牙直播测试",美少女咸儿
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11336572
+#EXTINF:-1 group-title="虎牙直播测试",鱼塘塘主张年年
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342384
+#EXTINF:-1 group-title="虎牙直播测试",薛教授
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342385
+#EXTINF:-1 group-title="虎牙直播测试",勞資ヽ尐爺
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342434
+#EXTINF:-1 group-title="虎牙直播测试",Dae陪你看-动作系列
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22897556
+#EXTINF:-1 group-title="虎牙直播测试",中国男篮的死忠粉
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352958
+#EXTINF:-1 group-title="虎牙直播测试",领带哥
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342430
+#EXTINF:-1 group-title="虎牙直播测试",老王夸我帅
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352964
+#EXTINF:-1 group-title="虎牙直播测试",小怪兽、
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602044
+#EXTINF:-1 group-title="虎牙直播测试",军武直播
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20230374
+#EXTINF:-1 group-title="虎牙直播测试",全优少年
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602081
+#EXTINF:-1 group-title="虎牙直播测试",北岛南城
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601962
+#EXTINF:-1 group-title="虎牙直播测试",狗哥吃火锅
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17269326
+#EXTINF:-1 group-title="虎牙直播测试",面对疾风-
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352904
+#EXTINF:-1 group-title="虎牙直播测试",酒窝储存机
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602043
+#EXTINF:-1 group-title="虎牙直播测试",我要在你头上暴扣
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19524135
+#EXTINF:-1 group-title="虎牙直播测试",荒野达人
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352975
+#EXTINF:-1 group-title="虎牙直播测试",4号流水线的李小花
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601957
+#EXTINF:-1 group-title="虎牙直播测试",武林萌主唐小姐
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11336726
+#EXTINF:-1 group-title="虎牙直播测试",-小癲
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602065
+#EXTINF:-1 group-title="虎牙直播测试",Yummy
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11336587
+#EXTINF:-1 group-title="虎牙直播测试",加班狗
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352891
+#EXTINF:-1 group-title="虎牙直播测试",亮哥讲电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16144175
+#EXTINF:-1 group-title="虎牙直播测试",一片青青草原
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352973
+#EXTINF:-1 group-title="虎牙直播测试",Sir说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16626185
+#EXTINF:-1 group-title="虎牙直播测试",科幻梦工场
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15152155
+#EXTINF:-1 group-title="虎牙直播测试",战斗联盟
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342413
+#EXTINF:-1 group-title="虎牙直播测试",可爱的小强
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342435
+#EXTINF:-1 group-title="虎牙直播测试",浮生没有若梦
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601986
+#EXTINF:-1 group-title="虎牙直播测试",斌哥漫说
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=18632116
+#EXTINF:-1 group-title="虎牙直播测试",茱麗葉
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602072
+#EXTINF:-1 group-title="虎牙直播测试",寡妇村村長
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11336593
+#EXTINF:-1 group-title="虎牙直播测试",西红柿
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601979
+#EXTINF:-1 group-title="虎牙直播测试",音乐小石榴
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17091681
+#EXTINF:-1 group-title="虎牙直播测试",持枪者-土豆哥
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11336578
+#EXTINF:-1 group-title="虎牙直播测试",傻妞
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342426
+#EXTINF:-1 group-title="虎牙直播测试",葱花
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352938
+#EXTINF:-1 group-title="虎牙直播测试",替你挨过揍的朋友
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602045
+#EXTINF:-1 group-title="虎牙直播测试",瞬间爆炸
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352960
+#EXTINF:-1 group-title="虎牙直播测试",粉娘
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601978
+#EXTINF:-1 group-title="虎牙直播测试",张冰心
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=2688
+#EXTINF:-1 group-title="虎牙直播测试",小猪猪
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342416
+#EXTINF:-1 group-title="虎牙直播测试",来听歌呀
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352913
+#EXTINF:-1 group-title="虎牙直播测试",-若凌Provence-
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352955
+#EXTINF:-1 group-title="虎牙直播测试",斯国一
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352905
+#EXTINF:-1 group-title="虎牙直播测试",yao不能停
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601980
+#EXTINF:-1 group-title="虎牙直播测试",南西视频
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16913382
+#EXTINF:-1 group-title="虎牙直播测试",一只大懒虫
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11279251
+#EXTINF:-1 group-title="虎牙直播测试",扫地僧
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342394
+#EXTINF:-1 group-title="虎牙直播测试",抓坏蛋的小流氓
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352918
+#EXTINF:-1 group-title="虎牙直播测试",电影最TOP
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11774959
+#EXTINF:-1 group-title="虎牙直播测试",靠谱女青年高小婷
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342392
+#EXTINF:-1 group-title="虎牙直播测试",柠檬树下你和我
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352892
+#EXTINF:-1 group-title="虎牙直播测试",橘酱真甜
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602055
+#EXTINF:-1 group-title="虎牙直播测试",萌新司机
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352881
+#EXTINF:-1 group-title="虎牙直播测试",威猛先生
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342420
+#EXTINF:-1 group-title="虎牙直播测试",凌莲
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602086
+#EXTINF:-1 group-title="虎牙直播测试",阿森木木木
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601971
+#EXTINF:-1 group-title="虎牙直播测试",晴天-小曦
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352937
+#EXTINF:-1 group-title="虎牙直播测试",元芳看不到
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342414
+#EXTINF:-1 group-title="虎牙直播测试",yoo
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352876
+#EXTINF:-1 group-title="虎牙直播测试",我爱黑科技
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602068
+#EXTINF:-1 group-title="虎牙直播测试",我的宝贝baby
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352880
+#EXTINF:-1 group-title="虎牙直播测试",苏仨
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601972
+#EXTINF:-1 group-title="虎牙直播测试",包蛋超人
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342400
+#EXTINF:-1 group-title="虎牙直播测试",非凡武林
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21674665
+#EXTINF:-1 group-title="虎牙直播测试",loVe、飘零
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602074
+#EXTINF:-1 group-title="虎牙直播测试",童可可
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352967
+#EXTINF:-1 group-title="虎牙直播测试",阿良说美剧
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20488841
+#EXTINF:-1 group-title="虎牙直播测试",假装
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352948
+#EXTINF:-1 group-title="虎牙直播测试",小轩
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352899
+#EXTINF:-1 group-title="虎牙直播测试",Wang-我的女人
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352940
+#EXTINF:-1 group-title="虎牙直播测试",呆萌君
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=13138378
+#EXTINF:-1 group-title="虎牙直播测试",無尾魚°
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601961
+#EXTINF:-1 group-title="虎牙直播测试",雅痞不是帅
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352953
+#EXTINF:-1 group-title="虎牙直播测试",Dae陪你看-喜剧系列
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22897634
+#EXTINF:-1 group-title="虎牙直播测试",Mr-傀儡
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352936
+#EXTINF:-1 group-title="虎牙直播测试",吞针主播
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352887
+#EXTINF:-1 group-title="虎牙直播测试",好尸
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15981239
+#EXTINF:-1 group-title="虎牙直播测试",胖次过肩摔
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352903
+#EXTINF:-1 group-title="虎牙直播测试",超能力是放pi
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352906
+#EXTINF:-1 group-title="虎牙直播测试",二次元控
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352912
+#EXTINF:-1 group-title="虎牙直播测试",长岛冰茶-
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352884
+#EXTINF:-1 group-title="虎牙直播测试",真假么么哒
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602036
+#EXTINF:-1 group-title="虎牙直播测试",哀是麦子的球迷
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16162176
+#EXTINF:-1 group-title="虎牙直播测试",飞天女警
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601958
+#EXTINF:-1 group-title="虎牙直播测试",呆萌小岳岳
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342398
+#EXTINF:-1 group-title="虎牙直播测试",世界格斗场
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352969
+#EXTINF:-1 group-title="虎牙直播测试",四大裁子之首
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602058
+#EXTINF:-1 group-title="虎牙直播测试",麦芽糖糖ぴ
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602077
+#EXTINF:-1 group-title="虎牙直播测试", 舞王驾到
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342438
+#EXTINF:-1 group-title="虎牙直播测试",羞涩的茄子
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11336590
+#EXTINF:-1 group-title="虎牙直播测试",Big笑工坊
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=14776702
+#EXTINF:-1 group-title="虎牙直播测试",野食小哥
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=14363949
+#EXTINF:-1 group-title="虎牙直播测试",性感大妈
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602075
+#EXTINF:-1 group-title="虎牙直播测试",越哥说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15894162
+#EXTINF:-1 group-title="虎牙直播测试",玩味陪你看-心随影动
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22295876
+#EXTINF:-1 group-title="虎牙直播测试",向阳花
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602069
+#EXTINF:-1 group-title="虎牙直播测试",DK陪你看-观影团
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22895177
+#EXTINF:-1 group-title="虎牙直播测试",【僵尸】24小时放映厅
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19285234
+#EXTINF:-1 group-title="虎牙直播测试",斯诺克从小爱戳球
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352893
+#EXTINF:-1 group-title="虎牙直播测试",小百合
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601956
+#EXTINF:-1 group-title="虎牙直播测试",俗哥看电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15452736
+#EXTINF:-1 group-title="虎牙直播测试",四次元先生
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602071
+#EXTINF:-1 group-title="虎牙直播测试",母胎solo二百年
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601982
+#EXTINF:-1 group-title="虎牙直播测试",小妖孽
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602088
+#EXTINF:-1 group-title="虎牙直播测试",Big笑工坊
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=14776702
+#EXTINF:-1 group-title="虎牙直播测试",【僵尸】24小时放映厅
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19285234
+#EXTINF:-1 group-title="虎牙直播测试",向阳花
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602069
+#EXTINF:-1 group-title="虎牙直播测试",李小哇絮叨叨
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=18441722
+#EXTINF:-1 group-title="虎牙直播测试",大侠
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602085
+#EXTINF:-1 group-title="虎牙直播测试",小百合
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601956
+#EXTINF:-1 group-title="虎牙直播测试",俗哥看电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15452736
+#EXTINF:-1 group-title="虎牙直播测试",小川侃电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15870999
+#EXTINF:-1 group-title="虎牙直播测试",世界格斗场
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352969
+#EXTINF:-1 group-title="虎牙直播测试",斯诺克从小爱戳球
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352893
+#EXTINF:-1 group-title="虎牙直播测试",乔我说动漫频道
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17941367
+#EXTINF:-1 group-title="虎牙直播测试",带你长见识
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352961
+#EXTINF:-1 group-title="虎牙直播测试",乔我说游戏频道
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17943364
+#EXTINF:-1 group-title="虎牙直播测试",来呀官人
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15763558
+#EXTINF:-1 group-title="虎牙直播测试",这很不同
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602067
+#EXTINF:-1 group-title="虎牙直播测试",Dae陪你看-动作系列
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22897556
+#EXTINF:-1 group-title="虎牙直播测试",大型忙内的宅姐姐
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602084
+#EXTINF:-1 group-title="虎牙直播测试",我是詹密
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342439
+#EXTINF:-1 group-title="虎牙直播测试",止戈电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19863777
+#EXTINF:-1 group-title="虎牙直播测试",露露姐
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601964
+#EXTINF:-1 group-title="虎牙直播测试",地狱ヽ妖妖
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352869
+#EXTINF:-1 group-title="虎牙直播测试",萌美美
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352959
+#EXTINF:-1 group-title="虎牙直播测试",心疼得抱住胖胖的自己
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342425
+#EXTINF:-1 group-title="虎牙直播测试",Adam短发
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21339980
+#EXTINF:-1 group-title="虎牙直播测试",Fighter
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352949
+#EXTINF:-1 group-title="虎牙直播测试",周星驰吧
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21136378
+#EXTINF:-1 group-title="虎牙直播测试",漓江塔景区售票阿姨
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602082
+#EXTINF:-1 group-title="虎牙直播测试",第一放映室
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352979
+#EXTINF:-1 group-title="虎牙直播测试",骚年跟我来听歌
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352974
+#EXTINF:-1 group-title="虎牙直播测试",逆火行
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15824466
+#EXTINF:-1 group-title="虎牙直播测试",我的朋友陈白露小姐
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352917
+#EXTINF:-1 group-title="虎牙直播测试",大象放映室
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21277391
+#EXTINF:-1 group-title="虎牙直播测试",牙缝多了根青菜
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352877
+#EXTINF:-1 group-title="虎牙直播测试",鱼丸说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16615910
+#EXTINF:-1 group-title="虎牙直播测试",笙歌
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352965
+#EXTINF:-1 group-title="虎牙直播测试",流氓上了鸭
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601965
+#EXTINF:-1 group-title="虎牙直播测试",鲁班爱看剧
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17139168
+#EXTINF:-1 group-title="虎牙直播测试",【周星星】24小时放映厅
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19105261
+#EXTINF:-1 group-title="虎牙直播测试",小亮亮
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342432
+#EXTINF:-1 group-title="虎牙直播测试",脑壳不太好
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602042
+#EXTINF:-1 group-title="虎牙直播测试",幻海航行
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17105786
+#EXTINF:-1 group-title="虎牙直播测试",青年电影馆
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21388479
+#EXTINF:-1 group-title="虎牙直播测试",猫眼下的鱼
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20236200
+#EXTINF:-1 group-title="虎牙直播测试",昔日女神柳清茶-
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11279247
+#EXTINF:-1 group-title="虎牙直播测试",嘤嘤嘤
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11336579
+#EXTINF:-1 group-title="虎牙直播测试",刘老师说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20289754
+#EXTINF:-1 group-title="虎牙直播测试",军武直播
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20230374
+#EXTINF:-1 group-title="虎牙直播测试",熊妹撩电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15966357
+#EXTINF:-1 group-title="虎牙直播测试",北岛的诗
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11336591
+#EXTINF:-1 group-title="虎牙直播测试",电影狂人A
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=18715610
+#EXTINF:-1 group-title="虎牙直播测试",會唱歌的小野貓
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352871
+#EXTINF:-1 group-title="虎牙直播测试",老电影故事
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15267139
+#EXTINF:-1 group-title="虎牙直播测试",王知无
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16010446
+#EXTINF:-1 group-title="虎牙直播测试",噔噔悬疑社
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17445539
+#EXTINF:-1 group-title="虎牙直播测试",如意菜头
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352966
+#EXTINF:-1 group-title="虎牙直播测试",酒后探真言
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=660260
+#EXTINF:-1 group-title="虎牙直播测试",老皮讲电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16968572
+#EXTINF:-1 group-title="虎牙直播测试",了不起的乌贼君
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16604522
+#EXTINF:-1 group-title="虎牙直播测试",低调新说
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20578977
+#EXTINF:-1 group-title="虎牙直播测试",杀马特死神
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352875
+#EXTINF:-1 group-title="虎牙直播测试",微微爱宝宝
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342422
+#EXTINF:-1 group-title="虎牙直播测试",一口毒奶
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16144261
+#EXTINF:-1 group-title="虎牙直播测试",秋叶海棠君
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21254214
+#EXTINF:-1 group-title="虎牙直播测试",老吴说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16740471
+#EXTINF:-1 group-title="虎牙直播测试",星君说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=13622409
+#EXTINF:-1 group-title="虎牙直播测试",桃白柏
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15958655
+#EXTINF:-1 group-title="虎牙直播测试",邻家少女
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352878
+#EXTINF:-1 group-title="虎牙直播测试",空空说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15923500
+#EXTINF:-1 group-title="虎牙直播测试",西瓜刘海
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352908
+#EXTINF:-1 group-title="虎牙直播测试",吐槽运动
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342436
+#EXTINF:-1 group-title="虎牙直播测试",九叔说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21339153
+#EXTINF:-1 group-title="虎牙直播测试",可乐撩电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20045465
+#EXTINF:-1 group-title="虎牙直播测试",小冉看电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17341907
+#EXTINF:-1 group-title="虎牙直播测试",圣逗事
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=18390254
+#EXTINF:-1 group-title="虎牙直播测试",Fight、Girl
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352895
+#EXTINF:-1 group-title="虎牙直播测试",撩电影8
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16920698
+#EXTINF:-1 group-title="虎牙直播测试",兜兜з
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352910
+#EXTINF:-1 group-title="虎牙直播测试",虫哥说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20173443
+#EXTINF:-1 group-title="虎牙直播测试",谷阿莫
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=593573
+#EXTINF:-1 group-title="虎牙直播测试",电影笔记
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16920222
+#EXTINF:-1 group-title="虎牙直播测试",一朵老香菇
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15967689
+#EXTINF:-1 group-title="虎牙直播测试",马桶吐槽
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17089779
+#EXTINF:-1 group-title="虎牙直播测试",中二的骚年
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602054
+#EXTINF:-1 group-title="虎牙直播测试",Sir说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16626185
+#EXTINF:-1 group-title="虎牙直播测试",雷舌电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=18368038
+#EXTINF:-1 group-title="虎牙直播测试",西小笙
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352947
+#EXTINF:-1 group-title="虎牙直播测试",老炮说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15454716
+#EXTINF:-1 group-title="虎牙直播测试",西施撩电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15253966
+#EXTINF:-1 group-title="虎牙直播测试",你的小美吖
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17489431
+#EXTINF:-1 group-title="虎牙直播测试",涵哥评电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16865726
+#EXTINF:-1 group-title="虎牙直播测试",方头人讲故事
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16604314
+#EXTINF:-1 group-title="虎牙直播测试",电影享不停
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16873147
+#EXTINF:-1 group-title="虎牙直播测试",Low君
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17147314
+#EXTINF:-1 group-title="虎牙直播测试",暴影君
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15695263
+#EXTINF:-1 group-title="虎牙直播测试",晓杰侃电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17279509
+#EXTINF:-1 group-title="虎牙直播测试",电影间谍
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16149609
+#EXTINF:-1 group-title="虎牙直播测试",影音炫客
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17811579
+#EXTINF:-1 group-title="虎牙直播测试",比尔电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17227870
+#EXTINF:-1 group-title="虎牙直播测试",芊芊菁菁
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602047
+#EXTINF:-1 group-title="虎牙直播测试",花花与三猫CatLive
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15927359
+#EXTINF:-1 group-title="虎牙直播测试",阿皮快看
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17013162
+#EXTINF:-1 group-title="虎牙直播测试",寞尛北
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602076
+#EXTINF:-1 group-title="虎牙直播测试",Hi我的星盆友
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=880220
+#EXTINF:-1 group-title="虎牙直播测试",正经说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19583776
+#EXTINF:-1 group-title="虎牙直播测试",云儿
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22176049
+#EXTINF:-1 group-title="虎牙直播测试",三口看电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15599787
+#EXTINF:-1 group-title="虎牙直播测试",渣子看闹剧
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16837764
+#EXTINF:-1 group-title="虎牙直播测试",沫漾电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15556391
+#EXTINF:-1 group-title="虎牙直播测试",韩小囧说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20695907
+#EXTINF:-1 group-title="虎牙直播测试",虎妞说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20343144
+#EXTINF:-1 group-title="虎牙直播测试",小贝食记
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17198831
+#EXTINF:-1 group-title="虎牙直播测试",小丽说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20056437
+#EXTINF:-1 group-title="虎牙直播测试",嫦娥撩电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=18201106
+#EXTINF:-1 group-title="虎牙直播测试",春寒一夜动千城
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20702189
+#EXTINF:-1 group-title="虎牙直播测试",洛基的小蛇
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19582933
+#EXTINF:-1 group-title="虎牙直播测试",导演我太难了
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=880248
+#EXTINF:-1 group-title="虎牙直播测试",李嘉格是谁
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22187977
+#EXTINF:-1 group-title="虎牙直播测试",顾九撩电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16422212
+#EXTINF:-1 group-title="虎牙直播测试",小贝食记
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17198831
+#EXTINF:-1 group-title="虎牙直播测试",无比看电影精选
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19450129
+#EXTINF:-1 group-title="虎牙直播测试",导演我太难了
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=880248
+#EXTINF:-1 group-title="虎牙直播测试",虎妞说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20343144
+#EXTINF:-1 group-title="虎牙直播测试",虎牙志愿者
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=880232
+#EXTINF:-1 group-title="虎牙直播测试",性格刺青
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=10386201
+#EXTINF:-1 group-title="虎牙直播测试",正经说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19583776
+#EXTINF:-1 group-title="虎牙直播测试",嫦娥撩电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=18201106
+#EXTINF:-1 group-title="虎牙直播测试",沫漾电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15556391
+#EXTINF:-1 group-title="虎牙直播测试",万人影视
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16914870
+#EXTINF:-1 group-title="虎牙直播测试",春寒一夜动千城
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20702189
+#EXTINF:-1 group-title="虎牙直播测试",阿祥说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16868935
+#EXTINF:-1 group-title="虎牙直播测试",王冠逸Lawrence
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22175780
+#EXTINF:-1 group-title="虎牙直播测试",正经的瓜皮酱
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19810875
+#EXTINF:-1 group-title="虎牙直播测试",演员方安娜
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22151150
+#EXTINF:-1 group-title="虎牙直播测试",猪猪妹说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16457533
+#EXTINF:-1 group-title="虎牙直播测试",MIKOOOO
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22142519
+#EXTINF:-1 group-title="虎牙直播测试",游戏小萌主
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16915640
+#EXTINF:-1 group-title="虎牙直播测试",大学Z课堂
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11160272
+#EXTINF:-1 group-title="虎牙直播测试",【态度】官方节目
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21103951
+#EXTINF:-1 group-title="虎牙直播测试",USA大蛇
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19564134
+#EXTINF:-1 group-title="虎牙直播测试",葫芦娃小剧场
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17323378
+#EXTINF:-1 group-title="虎牙直播测试",赵方婧wimi
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19284461
+#EXTINF:-1 group-title="虎牙直播测试",蛋壳宝宝
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16619039
+#EXTINF:-1 group-title="虎牙直播测试",娱乐大王牌
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=880242
+#EXTINF:-1 group-title="虎牙直播测试",中国加油
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21059527
+#EXTINF:-1 group-title="虎牙直播测试",短的发布会
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17142127
+#EXTINF:-1 group-title="虎牙直播测试",关灯看大片
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16135863
+#EXTINF:-1 group-title="虎牙直播测试",阿钙扒瞎
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15978172
+#EXTINF:-1 group-title="虎牙直播测试",甘露Vera
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21399753
+#EXTINF:-1 group-title="虎牙直播测试",黄霄雲
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22180457
+#EXTINF:-1 group-title="虎牙直播测试",音雄请回答
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=880269
+#EXTINF:-1 group-title="虎牙直播测试",彤颜童语
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19398022
+#EXTINF:-1 group-title="虎牙直播测试",虎牙影视厅
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16020072
+#EXTINF:-1 group-title="虎牙直播测试",臧老师好
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16616824
+#EXTINF:-1 group-title="虎牙直播测试",小鬼律令
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16847139
+#EXTINF:-1 group-title="虎牙直播测试",我是一颗小虎牙
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17904870
+#EXTINF:-1 group-title="虎牙直播测试",电剧小班长
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21847611
+#EXTINF:-1 group-title="虎牙直播测试",嘀嗒强东玥
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21392019
+#EXTINF:-1 group-title="虎牙直播测试",新声营业中
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=880257
+#EXTINF:-1 group-title="虎牙直播测试",电影十里廊
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16801558
+#EXTINF:-1 group-title="虎牙直播测试",陈冰kiki
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22144263
+#EXTINF:-1 group-title="虎牙直播测试",虎牙校园俱乐部
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21304740
+#EXTINF:-1 group-title="虎牙直播测试",小南瓜解说
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17462972
+#EXTINF:-1 group-title="虎牙直播测试",粽子说
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16549527
+#EXTINF:-1 group-title="虎牙直播测试",AKB48China
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22149408
+#EXTINF:-1 group-title="虎牙直播测试",影视新起点
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16102581
+#EXTINF:-1 group-title="虎牙直播测试",郭其城
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21467179
+#EXTINF:-1 group-title="虎牙直播测试",电影充电站
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20064385
+#EXTINF:-1 group-title="虎牙直播测试",扬仔看权游
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17089810
+#EXTINF:-1 group-title="虎牙直播测试",Casper卡斯柏
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21426772
+#EXTINF:-1 group-title="虎牙直播测试",非同说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20482574
+#EXTINF:-1 group-title="虎牙直播测试",饭前看电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16278147
+#EXTINF:-1 group-title="虎牙直播测试",LoseYourself
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16061522
+#EXTINF:-1 group-title="虎牙直播测试",雨婷讲电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21638737
+#EXTINF:-1 group-title="虎牙直播测试",西哥来了
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=10849208
+#EXTINF:-1 group-title="虎牙直播测试",娘子说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=18964209
+#EXTINF:-1 group-title="虎牙直播测试",陈泽希
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21411905
+#EXTINF:-1 group-title="虎牙直播测试",小冷说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16739452
+#EXTINF:-1 group-title="虎牙直播测试",默爷侃电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17204307
+#EXTINF:-1 group-title="虎牙直播测试",电影七
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16859944
+#EXTINF:-1 group-title="虎牙直播测试",这剧很火
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19811530小公举,http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601968
+#EXTINF:-1 group-title="虎牙直播测试",陈翔六点半
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11274154
+#EXTINF:-1 group-title="虎牙直播测试",阿斗归来了
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=13303478
+#EXTINF:-1 group-title="虎牙直播测试",村口老王
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352914
+#EXTINF:-1 group-title="虎牙直播测试",小木子先生丶
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342396
+#EXTINF:-1 group-title="虎牙直播测试",虎牙八点档
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=880261
+#EXTINF:-1 group-title="虎牙直播测试",小蘑菇
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601981
+#EXTINF:-1 group-title="虎牙直播测试",初心
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352941
+#EXTINF:-1 group-title="虎牙直播测试",鯎爺
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352944
+#EXTINF:-1 group-title="虎牙直播测试",小丑讲电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16857432
+#EXTINF:-1 group-title="虎牙直播测试",种瓜得弟弟
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352872
+#EXTINF:-1 group-title="虎牙直播测试",扁豆看电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16028551
+#EXTINF:-1 group-title="虎牙直播测试",柯冉冉
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352874
+#EXTINF:-1 group-title="虎牙直播测试",裸奔的蜗牛╮
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342418
+#EXTINF:-1 group-title="虎牙直播测试",美少女咸儿
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11336572
+#EXTINF:-1 group-title="虎牙直播测试",鱼塘塘主张年年
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342384
+#EXTINF:-1 group-title="虎牙直播测试",薛教授
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342385
+#EXTINF:-1 group-title="虎牙直播测试",勞資ヽ尐爺
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342434
+#EXTINF:-1 group-title="虎牙直播测试",Dae陪你看-动作系列
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22897556
+#EXTINF:-1 group-title="虎牙直播测试",中国男篮的死忠粉
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352958
+#EXTINF:-1 group-title="虎牙直播测试",领带哥
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342430
+#EXTINF:-1 group-title="虎牙直播测试",老王夸我帅
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352964
+#EXTINF:-1 group-title="虎牙直播测试",小怪兽、
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602044
+#EXTINF:-1 group-title="虎牙直播测试",军武直播
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20230374
+#EXTINF:-1 group-title="虎牙直播测试",全优少年
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602081
+#EXTINF:-1 group-title="虎牙直播测试",北岛南城
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601962
+#EXTINF:-1 group-title="虎牙直播测试",狗哥吃火锅
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17269326
+#EXTINF:-1 group-title="虎牙直播测试",面对疾风-
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352904
+#EXTINF:-1 group-title="虎牙直播测试",酒窝储存机
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602043
+#EXTINF:-1 group-title="虎牙直播测试",我要在你头上暴扣
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19524135
+#EXTINF:-1 group-title="虎牙直播测试",荒野达人
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352975
+#EXTINF:-1 group-title="虎牙直播测试",4号流水线的李小花
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601957
+#EXTINF:-1 group-title="虎牙直播测试",武林萌主唐小姐
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11336726
+#EXTINF:-1 group-title="虎牙直播测试",-小癲
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602065
+#EXTINF:-1 group-title="虎牙直播测试",Yummy
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11336587
+#EXTINF:-1 group-title="虎牙直播测试",加班狗
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352891
+#EXTINF:-1 group-title="虎牙直播测试",亮哥讲电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16144175
+#EXTINF:-1 group-title="虎牙直播测试",一片青青草原
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352973
+#EXTINF:-1 group-title="虎牙直播测试",Sir说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16626185
+#EXTINF:-1 group-title="虎牙直播测试",科幻梦工场
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15152155
+#EXTINF:-1 group-title="虎牙直播测试",战斗联盟
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342413
+#EXTINF:-1 group-title="虎牙直播测试",可爱的小强
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342435
+#EXTINF:-1 group-title="虎牙直播测试",浮生没有若梦
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601986
+#EXTINF:-1 group-title="虎牙直播测试",斌哥漫说
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=18632116
+#EXTINF:-1 group-title="虎牙直播测试",茱麗葉
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602072
+#EXTINF:-1 group-title="虎牙直播测试",寡妇村村長
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11336593
+#EXTINF:-1 group-title="虎牙直播测试",西红柿
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601979
+#EXTINF:-1 group-title="虎牙直播测试",音乐小石榴
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17091681
+#EXTINF:-1 group-title="虎牙直播测试",持枪者-土豆哥
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11336578
+#EXTINF:-1 group-title="虎牙直播测试",傻妞
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342426
+#EXTINF:-1 group-title="虎牙直播测试",葱花
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352938
+#EXTINF:-1 group-title="虎牙直播测试",替你挨过揍的朋友
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602045
+#EXTINF:-1 group-title="虎牙直播测试",瞬间爆炸
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352960
+#EXTINF:-1 group-title="虎牙直播测试",粉娘
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601978
+#EXTINF:-1 group-title="虎牙直播测试",张冰心
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=2688
+#EXTINF:-1 group-title="虎牙直播测试",小猪猪
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342416
+#EXTINF:-1 group-title="虎牙直播测试",来听歌呀
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352913
+#EXTINF:-1 group-title="虎牙直播测试",-若凌Provence-
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352955
+#EXTINF:-1 group-title="虎牙直播测试",斯国一
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352905
+#EXTINF:-1 group-title="虎牙直播测试",yao不能停
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601980
+#EXTINF:-1 group-title="虎牙直播测试",南西视频
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16913382
+#EXTINF:-1 group-title="虎牙直播测试",一只大懒虫
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11279251
+#EXTINF:-1 group-title="虎牙直播测试",扫地僧
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342394
+#EXTINF:-1 group-title="虎牙直播测试",抓坏蛋的小流氓
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352918
+#EXTINF:-1 group-title="虎牙直播测试",电影最TOP
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11774959
+#EXTINF:-1 group-title="虎牙直播测试",靠谱女青年高小婷
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342392
+#EXTINF:-1 group-title="虎牙直播测试",柠檬树下你和我
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352892
+#EXTINF:-1 group-title="虎牙直播测试",橘酱真甜
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602055
+#EXTINF:-1 group-title="虎牙直播测试",萌新司机
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352881
+#EXTINF:-1 group-title="虎牙直播测试",威猛先生
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342420
+#EXTINF:-1 group-title="虎牙直播测试",凌莲
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602086
+#EXTINF:-1 group-title="虎牙直播测试",阿森木木木
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601971
+#EXTINF:-1 group-title="虎牙直播测试",晴天-小曦
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352937
+#EXTINF:-1 group-title="虎牙直播测试",元芳看不到
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342414
+#EXTINF:-1 group-title="虎牙直播测试",yoo
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352876
+#EXTINF:-1 group-title="虎牙直播测试",我爱黑科技
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602068
+#EXTINF:-1 group-title="虎牙直播测试",我的宝贝baby
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352880
+#EXTINF:-1 group-title="虎牙直播测试",苏仨
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601972
+#EXTINF:-1 group-title="虎牙直播测试",包蛋超人
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342400
+#EXTINF:-1 group-title="虎牙直播测试",非凡武林
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21674665
+#EXTINF:-1 group-title="虎牙直播测试",loVe、飘零
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602074
+#EXTINF:-1 group-title="虎牙直播测试",童可可
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352967
+#EXTINF:-1 group-title="虎牙直播测试",阿良说美剧
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20488841
+#EXTINF:-1 group-title="虎牙直播测试",假装
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352948
+#EXTINF:-1 group-title="虎牙直播测试",小轩
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352899
+#EXTINF:-1 group-title="虎牙直播测试",Wang-我的女人
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352940
+#EXTINF:-1 group-title="虎牙直播测试",呆萌君
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=13138378
+#EXTINF:-1 group-title="虎牙直播测试",無尾魚°
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601961
+#EXTINF:-1 group-title="虎牙直播测试",雅痞不是帅
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352953
+#EXTINF:-1 group-title="虎牙直播测试",Dae陪你看-喜剧系列
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22897634
+#EXTINF:-1 group-title="虎牙直播测试",Mr-傀儡
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352936
+#EXTINF:-1 group-title="虎牙直播测试",吞针主播
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352887
+#EXTINF:-1 group-title="虎牙直播测试",好尸
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15981239
+#EXTINF:-1 group-title="虎牙直播测试",胖次过肩摔
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352903
+#EXTINF:-1 group-title="虎牙直播测试",超能力是放pi
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352906
+#EXTINF:-1 group-title="虎牙直播测试",二次元控
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352912
+#EXTINF:-1 group-title="虎牙直播测试",长岛冰茶-
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352884
+#EXTINF:-1 group-title="虎牙直播测试",真假么么哒
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602036
+#EXTINF:-1 group-title="虎牙直播测试",哀是麦子的球迷
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16162176
+#EXTINF:-1 group-title="虎牙直播测试",飞天女警
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601958
+#EXTINF:-1 group-title="虎牙直播测试",呆萌小岳岳
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342398
+#EXTINF:-1 group-title="虎牙直播测试",世界格斗场
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352969
+#EXTINF:-1 group-title="虎牙直播测试",四大裁子之首
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602058
+#EXTINF:-1 group-title="虎牙直播测试",麦芽糖糖ぴ
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602077
+#EXTINF:-1 group-title="虎牙直播测试", 舞王驾到
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342438
+#EXTINF:-1 group-title="虎牙直播测试",羞涩的茄子
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11336590
+#EXTINF:-1 group-title="虎牙直播测试",Big笑工坊
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=14776702
+#EXTINF:-1 group-title="虎牙直播测试",野食小哥
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=14363949
+#EXTINF:-1 group-title="虎牙直播测试",性感大妈
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602075
+#EXTINF:-1 group-title="虎牙直播测试",越哥说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15894162
+#EXTINF:-1 group-title="虎牙直播测试",玩味陪你看-心随影动
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22295876
+#EXTINF:-1 group-title="虎牙直播测试",向阳花
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602069
+#EXTINF:-1 group-title="虎牙直播测试",DK陪你看-观影团
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22895177
+#EXTINF:-1 group-title="虎牙直播测试",【僵尸】24小时放映厅
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19285234
+#EXTINF:-1 group-title="虎牙直播测试",斯诺克从小爱戳球
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352893
+#EXTINF:-1 group-title="虎牙直播测试",小百合
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601956
+#EXTINF:-1 group-title="虎牙直播测试",俗哥看电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15452736
+#EXTINF:-1 group-title="虎牙直播测试",四次元先生
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602071
+#EXTINF:-1 group-title="虎牙直播测试",母胎solo二百年
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601982
+#EXTINF:-1 group-title="虎牙直播测试",小妖孽
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602088
+#EXTINF:-1 group-title="虎牙直播测试",Big笑工坊
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=14776702
+#EXTINF:-1 group-title="虎牙直播测试",【僵尸】24小时放映厅
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19285234
+#EXTINF:-1 group-title="虎牙直播测试",向阳花
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602069
+#EXTINF:-1 group-title="虎牙直播测试",李小哇絮叨叨
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=18441722
+#EXTINF:-1 group-title="虎牙直播测试",大侠
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602085
+#EXTINF:-1 group-title="虎牙直播测试",小百合
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601956
+#EXTINF:-1 group-title="虎牙直播测试",俗哥看电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15452736
+#EXTINF:-1 group-title="虎牙直播测试",小川侃电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15870999
+#EXTINF:-1 group-title="虎牙直播测试",世界格斗场
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352969
+#EXTINF:-1 group-title="虎牙直播测试",斯诺克从小爱戳球
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352893
+#EXTINF:-1 group-title="虎牙直播测试",乔我说动漫频道
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17941367
+#EXTINF:-1 group-title="虎牙直播测试",带你长见识
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352961
+#EXTINF:-1 group-title="虎牙直播测试",乔我说游戏频道
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17943364
+#EXTINF:-1 group-title="虎牙直播测试",来呀官人
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15763558
+#EXTINF:-1 group-title="虎牙直播测试",这很不同
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602067
+#EXTINF:-1 group-title="虎牙直播测试",Dae陪你看-动作系列
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22897556
+#EXTINF:-1 group-title="虎牙直播测试",大型忙内的宅姐姐
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602084
+#EXTINF:-1 group-title="虎牙直播测试",我是詹密
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342439
+#EXTINF:-1 group-title="虎牙直播测试",止戈电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19863777
+#EXTINF:-1 group-title="虎牙直播测试",露露姐
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601964
+#EXTINF:-1 group-title="虎牙直播测试",地狱ヽ妖妖
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352869
+#EXTINF:-1 group-title="虎牙直播测试",萌美美
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352959
+#EXTINF:-1 group-title="虎牙直播测试",心疼得抱住胖胖的自己
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342425
+#EXTINF:-1 group-title="虎牙直播测试",Adam短发
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21339980
+#EXTINF:-1 group-title="虎牙直播测试",Fighter
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352949
+#EXTINF:-1 group-title="虎牙直播测试",周星驰吧
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21136378
+#EXTINF:-1 group-title="虎牙直播测试",漓江塔景区售票阿姨
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602082
+#EXTINF:-1 group-title="虎牙直播测试",第一放映室
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352979
+#EXTINF:-1 group-title="虎牙直播测试",骚年跟我来听歌
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352974
+#EXTINF:-1 group-title="虎牙直播测试",逆火行
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15824466
+#EXTINF:-1 group-title="虎牙直播测试",我的朋友陈白露小姐
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352917
+#EXTINF:-1 group-title="虎牙直播测试",大象放映室
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21277391
+#EXTINF:-1 group-title="虎牙直播测试",牙缝多了根青菜
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352877
+#EXTINF:-1 group-title="虎牙直播测试",鱼丸说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16615910
+#EXTINF:-1 group-title="虎牙直播测试",笙歌
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352965
+#EXTINF:-1 group-title="虎牙直播测试",流氓上了鸭
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11601965
+#EXTINF:-1 group-title="虎牙直播测试",鲁班爱看剧
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17139168
+#EXTINF:-1 group-title="虎牙直播测试",【周星星】24小时放映厅
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19105261
+#EXTINF:-1 group-title="虎牙直播测试",小亮亮
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342432
+#EXTINF:-1 group-title="虎牙直播测试",脑壳不太好
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602042
+#EXTINF:-1 group-title="虎牙直播测试",幻海航行
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17105786
+#EXTINF:-1 group-title="虎牙直播测试",青年电影馆
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21388479
+#EXTINF:-1 group-title="虎牙直播测试",猫眼下的鱼
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20236200
+#EXTINF:-1 group-title="虎牙直播测试",昔日女神柳清茶-
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11279247
+#EXTINF:-1 group-title="虎牙直播测试",嘤嘤嘤
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11336579
+#EXTINF:-1 group-title="虎牙直播测试",刘老师说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20289754
+#EXTINF:-1 group-title="虎牙直播测试",军武直播
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20230374
+#EXTINF:-1 group-title="虎牙直播测试",熊妹撩电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15966357
+#EXTINF:-1 group-title="虎牙直播测试",北岛的诗
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11336591
+#EXTINF:-1 group-title="虎牙直播测试",电影狂人A
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=18715610
+#EXTINF:-1 group-title="虎牙直播测试",會唱歌的小野貓
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352871
+#EXTINF:-1 group-title="虎牙直播测试",老电影故事
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15267139
+#EXTINF:-1 group-title="虎牙直播测试",王知无
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16010446
+#EXTINF:-1 group-title="虎牙直播测试",噔噔悬疑社
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17445539
+#EXTINF:-1 group-title="虎牙直播测试",如意菜头
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352966
+#EXTINF:-1 group-title="虎牙直播测试",酒后探真言
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=660260
+#EXTINF:-1 group-title="虎牙直播测试",老皮讲电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16968572
+#EXTINF:-1 group-title="虎牙直播测试",了不起的乌贼君
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16604522
+#EXTINF:-1 group-title="虎牙直播测试",低调新说
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20578977
+#EXTINF:-1 group-title="虎牙直播测试",杀马特死神
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352875
+#EXTINF:-1 group-title="虎牙直播测试",微微爱宝宝
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342422
+#EXTINF:-1 group-title="虎牙直播测试",一口毒奶
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16144261
+#EXTINF:-1 group-title="虎牙直播测试",秋叶海棠君
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21254214
+#EXTINF:-1 group-title="虎牙直播测试",老吴说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16740471
+#EXTINF:-1 group-title="虎牙直播测试",星君说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=13622409
+#EXTINF:-1 group-title="虎牙直播测试",桃白柏
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15958655
+#EXTINF:-1 group-title="虎牙直播测试",邻家少女
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352878
+#EXTINF:-1 group-title="虎牙直播测试",空空说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15923500
+#EXTINF:-1 group-title="虎牙直播测试",西瓜刘海
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352908
+#EXTINF:-1 group-title="虎牙直播测试",吐槽运动
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11342436
+#EXTINF:-1 group-title="虎牙直播测试",九叔说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21339153
+#EXTINF:-1 group-title="虎牙直播测试",可乐撩电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20045465
+#EXTINF:-1 group-title="虎牙直播测试",小冉看电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17341907
+#EXTINF:-1 group-title="虎牙直播测试",圣逗事
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=18390254
+#EXTINF:-1 group-title="虎牙直播测试",Fight、Girl
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352895
+#EXTINF:-1 group-title="虎牙直播测试",撩电影8
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16920698
+#EXTINF:-1 group-title="虎牙直播测试",兜兜з
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352910
+#EXTINF:-1 group-title="虎牙直播测试",虫哥说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20173443
+#EXTINF:-1 group-title="虎牙直播测试",谷阿莫
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=593573
+#EXTINF:-1 group-title="虎牙直播测试",电影笔记
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16920222
+#EXTINF:-1 group-title="虎牙直播测试",一朵老香菇
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15967689
+#EXTINF:-1 group-title="虎牙直播测试",马桶吐槽
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17089779
+#EXTINF:-1 group-title="虎牙直播测试",中二的骚年
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602054
+#EXTINF:-1 group-title="虎牙直播测试",Sir说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16626185
+#EXTINF:-1 group-title="虎牙直播测试",雷舌电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=18368038
+#EXTINF:-1 group-title="虎牙直播测试",西小笙
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11352947
+#EXTINF:-1 group-title="虎牙直播测试",老炮说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15454716
+#EXTINF:-1 group-title="虎牙直播测试",西施撩电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15253966
+#EXTINF:-1 group-title="虎牙直播测试",你的小美吖
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17489431
+#EXTINF:-1 group-title="虎牙直播测试",涵哥评电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16865726
+#EXTINF:-1 group-title="虎牙直播测试",方头人讲故事
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16604314
+#EXTINF:-1 group-title="虎牙直播测试",电影享不停
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16873147
+#EXTINF:-1 group-title="虎牙直播测试",Low君
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17147314
+#EXTINF:-1 group-title="虎牙直播测试",暴影君
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15695263
+#EXTINF:-1 group-title="虎牙直播测试",晓杰侃电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17279509
+#EXTINF:-1 group-title="虎牙直播测试",电影间谍
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16149609
+#EXTINF:-1 group-title="虎牙直播测试",影音炫客
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17811579
+#EXTINF:-1 group-title="虎牙直播测试",比尔电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17227870
+#EXTINF:-1 group-title="虎牙直播测试",芊芊菁菁
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602047
+#EXTINF:-1 group-title="虎牙直播测试",花花与三猫CatLive
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15927359
+#EXTINF:-1 group-title="虎牙直播测试",阿皮快看
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17013162
+#EXTINF:-1 group-title="虎牙直播测试",寞尛北
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11602076
+#EXTINF:-1 group-title="虎牙直播测试",Hi我的星盆友
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=880220
+#EXTINF:-1 group-title="虎牙直播测试",正经说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19583776
+#EXTINF:-1 group-title="虎牙直播测试",云儿
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22176049
+#EXTINF:-1 group-title="虎牙直播测试",三口看电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15599787
+#EXTINF:-1 group-title="虎牙直播测试",渣子看闹剧
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16837764
+#EXTINF:-1 group-title="虎牙直播测试",沫漾电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15556391
+#EXTINF:-1 group-title="虎牙直播测试",韩小囧说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20695907
+#EXTINF:-1 group-title="虎牙直播测试",虎妞说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20343144
+#EXTINF:-1 group-title="虎牙直播测试",小贝食记
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17198831
+#EXTINF:-1 group-title="虎牙直播测试",小丽说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20056437
+#EXTINF:-1 group-title="虎牙直播测试",嫦娥撩电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=18201106
+#EXTINF:-1 group-title="虎牙直播测试",春寒一夜动千城
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20702189
+#EXTINF:-1 group-title="虎牙直播测试",洛基的小蛇
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19582933
+#EXTINF:-1 group-title="虎牙直播测试",导演我太难了
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=880248
+#EXTINF:-1 group-title="虎牙直播测试",李嘉格是谁
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22187977
+#EXTINF:-1 group-title="虎牙直播测试",顾九撩电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16422212
+#EXTINF:-1 group-title="虎牙直播测试",小贝食记
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17198831
+#EXTINF:-1 group-title="虎牙直播测试",无比看电影精选
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19450129
+#EXTINF:-1 group-title="虎牙直播测试",导演我太难了
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=880248
+#EXTINF:-1 group-title="虎牙直播测试",虎妞说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20343144
+#EXTINF:-1 group-title="虎牙直播测试",虎牙志愿者
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=880232
+#EXTINF:-1 group-title="虎牙直播测试",性格刺青
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=10386201
+#EXTINF:-1 group-title="虎牙直播测试",正经说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19583776
+#EXTINF:-1 group-title="虎牙直播测试",嫦娥撩电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=18201106
+#EXTINF:-1 group-title="虎牙直播测试",沫漾电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15556391
+#EXTINF:-1 group-title="虎牙直播测试",万人影视
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16914870
+#EXTINF:-1 group-title="虎牙直播测试",春寒一夜动千城
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20702189
+#EXTINF:-1 group-title="虎牙直播测试",阿祥说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16868935
+#EXTINF:-1 group-title="虎牙直播测试",王冠逸Lawrence
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22175780
+#EXTINF:-1 group-title="虎牙直播测试",正经的瓜皮酱
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19810875
+#EXTINF:-1 group-title="虎牙直播测试",演员方安娜
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22151150
+#EXTINF:-1 group-title="虎牙直播测试",猪猪妹说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16457533
+#EXTINF:-1 group-title="虎牙直播测试",MIKOOOO
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22142519
+#EXTINF:-1 group-title="虎牙直播测试",游戏小萌主
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16915640
+#EXTINF:-1 group-title="虎牙直播测试",大学Z课堂
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=11160272
+#EXTINF:-1 group-title="虎牙直播测试",【态度】官方节目
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21103951
+#EXTINF:-1 group-title="虎牙直播测试",USA大蛇
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19564134
+#EXTINF:-1 group-title="虎牙直播测试",葫芦娃小剧场
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17323378
+#EXTINF:-1 group-title="虎牙直播测试",赵方婧wimi
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19284461
+#EXTINF:-1 group-title="虎牙直播测试",蛋壳宝宝
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16619039
+#EXTINF:-1 group-title="虎牙直播测试",娱乐大王牌
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=880242
+#EXTINF:-1 group-title="虎牙直播测试",中国加油
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21059527
+#EXTINF:-1 group-title="虎牙直播测试",短的发布会
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17142127
+#EXTINF:-1 group-title="虎牙直播测试",关灯看大片
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16135863
+#EXTINF:-1 group-title="虎牙直播测试",阿钙扒瞎
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=15978172
+#EXTINF:-1 group-title="虎牙直播测试",甘露Vera
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21399753
+#EXTINF:-1 group-title="虎牙直播测试",黄霄雲
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22180457
+#EXTINF:-1 group-title="虎牙直播测试",音雄请回答
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=880269
+#EXTINF:-1 group-title="虎牙直播测试",彤颜童语
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19398022
+#EXTINF:-1 group-title="虎牙直播测试",虎牙影视厅
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16020072
+#EXTINF:-1 group-title="虎牙直播测试",臧老师好
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16616824
+#EXTINF:-1 group-title="虎牙直播测试",小鬼律令
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16847139
+#EXTINF:-1 group-title="虎牙直播测试",我是一颗小虎牙
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17904870
+#EXTINF:-1 group-title="虎牙直播测试",电剧小班长
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21847611
+#EXTINF:-1 group-title="虎牙直播测试",嘀嗒强东玥
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21392019
+#EXTINF:-1 group-title="虎牙直播测试",新声营业中
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=880257
+#EXTINF:-1 group-title="虎牙直播测试",电影十里廊
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16801558
+#EXTINF:-1 group-title="虎牙直播测试",陈冰kiki
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22144263
+#EXTINF:-1 group-title="虎牙直播测试",虎牙校园俱乐部
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21304740
+#EXTINF:-1 group-title="虎牙直播测试",小南瓜解说
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17462972
+#EXTINF:-1 group-title="虎牙直播测试",粽子说
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16549527
+#EXTINF:-1 group-title="虎牙直播测试",AKB48China
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=22149408
+#EXTINF:-1 group-title="虎牙直播测试",影视新起点
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16102581
+#EXTINF:-1 group-title="虎牙直播测试",郭其城
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21467179
+#EXTINF:-1 group-title="虎牙直播测试",电影充电站
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20064385
+#EXTINF:-1 group-title="虎牙直播测试",扬仔看权游
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17089810
+#EXTINF:-1 group-title="虎牙直播测试",Casper卡斯柏
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21426772
+#EXTINF:-1 group-title="虎牙直播测试",非同说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=20482574
+#EXTINF:-1 group-title="虎牙直播测试",饭前看电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16278147
+#EXTINF:-1 group-title="虎牙直播测试",LoseYourself
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16061522
+#EXTINF:-1 group-title="虎牙直播测试",雨婷讲电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21638737
+#EXTINF:-1 group-title="虎牙直播测试",西哥来了
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=10849208
+#EXTINF:-1 group-title="虎牙直播测试",娘子说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=18964209
+#EXTINF:-1 group-title="虎牙直播测试",陈泽希
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=21411905
+#EXTINF:-1 group-title="虎牙直播测试",小冷说电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16739452
+#EXTINF:-1 group-title="虎牙直播测试",默爷侃电影
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=17204307
+#EXTINF:-1 group-title="虎牙直播测试",电影七
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=16859944
+#EXTINF:-1 group-title="虎牙直播测试",这剧很火
+http://iptv8080iptv.000webhostapp.com/php/huya.php?id=19811530
+
