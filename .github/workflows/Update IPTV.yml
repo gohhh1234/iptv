@@ -1,11 +1,13 @@
 name: Update IPTV
 
 on:
-  schedule:
-    - cron: 0,30 * * * *
+#   schedule:
+#     - cron: 0 0 6,17,23 * * ? 
+  workflow_dispatch:
 
-env:
-  TZ: Asia/Shanghai
+jobs:
+  work:
+    runs-on: ubuntu-latest
 
 jobs:
   Update:
