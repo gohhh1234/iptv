@@ -6,10 +6,6 @@ on:
   workflow_dispatch:
 
 jobs:
-  work:
-    runs-on: ubuntu-latest
-
-jobs:
   Update:
     runs-on: ubuntu-latest
     steps:
