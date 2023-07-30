@@ -44,14 +44,11 @@ jobs:
         rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
         echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > README.md
 
-    - name: Clean
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git checkout --orphan latest_branch
-        git add -A
-        git commit -am "${{ steps.date.outputs.date }}"
-        git push origin master
+      - name: Commit And Push
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add --all
+          git commit -am "${{ steps.date.outputs.date }}"
+          git push origin master
 
-    - name: Push
-      run: git push -f origin Files
