@@ -36,7 +36,9 @@ jobs:
         cat bhzb.txt >> IPTV.txt
         cat tsys.txt >> IPTV.txt
         cat jtzb.txt >> IPTV.txt
-
+        sed "s/🐼馬來西亞测试_555,#genre#'/🐼馬來西亞测试,#genre#'/"
+        sed "s/💘新加坡测试_555,#genre#'/💘新加坡测试,#genre#'/"
+    
 
 
 
