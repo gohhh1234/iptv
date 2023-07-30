@@ -60,8 +60,6 @@ jobs:
         git checkout --orphan latest_branch
         git add -A
         git commit -a -m "${{ steps.date.outputs.date }}"
-        git branch -D Files
-        git branch -m Files
 
     - name: Push
       run: git push -f origin Files
