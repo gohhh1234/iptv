@@ -62,4 +62,4 @@ jobs:
         git commit -a -m "${{ steps.date.outputs.date }}"
 
     - name: Push
-      run: git push -f origin Files
+      run: git push origin master
