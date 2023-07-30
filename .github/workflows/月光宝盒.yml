@@ -1,0 +1,33 @@
+name: IPTV-Asia
+
+on:
+  schedule:
+    - cron: 0 9,15,22 * * ? 
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  work:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Download
+        run: |
+          curl http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0 > 月光宝盒.txt
+          # 更新时间
+          sed -i "/月光宝盒.txt/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./月光宝盒.txt
+
+      - name: Commit And Push
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add --all
+          git commit -m "update src"
+          git push origin master
