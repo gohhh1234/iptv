@@ -1,0 +1,51 @@
+name: Update IPTV txt
+
+on:
+#   schedule:
+#     - cron: 0 0 6,17,23 * * ? 
+  workflow_dispatch:
+
+jobs:
+  Update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: GetTime
+      id: date
+      run: echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S CST')"
+
+    - name: Update
+      run: |
+        # 月光宝盒
+        rm -f bhzb.txt && wget https://gitcode.net/ygbh66/test/-/raw/master/bhzb.txt -O bhzb.txt
+
+
+        # 唐僧魔盒
+        rm -f tsys.txt && wget https://gitcode.net/ygbh66/test/-/raw/master/tsys.txt -O tsys.txt        
+        
+
+        # jtzb.txt
+        rm -f jtzb.txt && wget https://gitcode.net/ygbh66/test/-/raw/master/jtzb.txt -O jtzb.txt
+
+
+
+        # 整合源
+        rm -f IPTV.txt && touch IPTV.txt
+        cat bhzb.txt >> IPTV.txt
+        cat tsys.txt >> IPTV.txt
+        cat jtzb.txt >> IPTV.txt
+
+
+
+
+    - name: Clean
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add -A
+        git commit -a -m "${{ steps.date.outputs.date }}"
+
+    - name: Push
+      run: git push origin master
