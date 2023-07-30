@@ -4,10 +4,8 @@ on:
   schedule:
     - cron: 0,30 * * * *
 
-push:
-    branches:
-      - main
-  workflow_dispatch:
+env:
+  TZ: Asia/Shanghai
 
 jobs:
   Update:
@@ -33,11 +31,22 @@ jobs:
         sed -i '/央视/,+1d' CNTV.m3u
         sed -i '/^\s*$/d' CNTV.m3u
 
-        
+        # 成人源
+        rm -f Adult.m3u && wget http://adultiptv.net/chs.m3u -O Adult.m3u
+        sed -i 's/XXX/成人/' Adult.m3u
+        sed -i 's/AdultIPTV.net //g' Adult.m3u
+        wget https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u -O AdultVideo.txt
+        sed -i -n '/日本/,+1p' AdultVideo.txt
+        sed -i 's/日本/成人/' AdultVideo.txt
+        echo'' >> Adult.m3u && cat AdultVideo.txt >> Adult.m3u
+        rm -f AdultVideo.txt
+        sed -i '/^\s*$/d' Adult.m3u
+
         # 整合源
         rm -f IPTV.m3u && touch IPTV.m3u
         cat CCTV.m3u >> IPTV.m3u
         cat CNTV.m3u >> IPTV.m3u
+        cat Adult.m3u >> IPTV.m3u
         sed -i '/#EXTM3U/d' IPTV.m3u
         sed -i '1i #EXTM3U' IPTV.m3u
         sed -i '/^\s*$/d' IPTV.m3u
@@ -46,11 +55,15 @@ jobs:
         rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
         echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > README.md
 
-      - name: Commit And Push
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add --all
-          git commit -am "${{ steps.date.outputs.date }}"
-          git push origin master
+    - name: Clean
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git checkout --orphan latest_branch
+        git add -A
+        git commit -a -m "${{ steps.date.outputs.date }}"
+        git branch -D Files
+        git branch -m Files
 
+    - name: Push
+      run: git push -f origin Files
