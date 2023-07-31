@@ -7361,7 +7361,7 @@ HandsUp,mitv://generationnexxxt.com:19806/e78b4e2900154414a93f2ccd57a18d04
 HOY资讯台,mitv://generationnexxxt.com:19806/277e07151c874174b35d4d3ce7d772a2
 黄金翡翠台,mitv://generationnexxxt.com:19806/aa014240bbec4e91990ca9a7f57875fd
 
-🐼馬來西亞测试_555,#genre#
+🐼馬來西亞测试,#genre#
 TV1,mitv://generationnexxxt.com:19806/6ed0226aee704cb6ba7b0faf1088407f
 TV2,mitv://generationnexxxt.com:19806/69d668a50a2c4d55bc1adfbdf2f29bf7
 TV3,mitv://generationnexxxt.com:19806/fa74ead583154a9692291aeb75eb5bb2
@@ -7431,7 +7431,7 @@ HITSMovies,mitv://generationnexxxt.com:19806/873a153ee838437fa797e4b3c401d958
 beINSports2,mitv://generationnexxxt.com:19806/0d857c6ac77d4cd58f0153c47a6804d5
 GolfChannel,mitv://generationnexxxt.com:19806/f91a855bf6ce47e2b2911917a4b3d5ef
 
-💘新加坡测试_555,#genre#
+💘新加坡测试,#genre#
 天映频道,mitv://generationnexxxt.com:19806/4b5e8ec28cf24208baa663599d6cc1f5
 中天亚洲台,mitv://generationnexxxt.com:19806/0ca9f16b087d4fe8bd97852c47a222b7
 TVB星河,mitv://generationnexxxt.com:19806/8c81917b79d247f3a60857411973d9a5
