@@ -19,29 +19,18 @@ jobs:
     - name: Update
       run: |
         # 月光宝盒
+        rm -f live.txt && wget https://cms.gohkh6.my.eu.org/live.txt -O live.txt
+        # 月光宝盒
         rm -f bhzb.txt && wget https://gitcode.net/ygbh66/test/-/raw/master/bhzb.txt -O bhzb.txt
-
-
-        # 唐僧魔盒
-        rm -f tsys.txt && wget https://gitcode.net/ygbh66/test/-/raw/master/tsys.txt -O tsys.txt        
-        
-
-        # jtzb.txt
-        rm -f jtzb.txt && wget https://gitcode.net/ygbh66/test/-/raw/master/jtzb.txt -O jtzb.txt
-
-
-
-        # 整合源
-        rm -f IPTV.txt && touch IPTV.txt
-        cat bhzb.txt >> IPTV.txt
-        cat tsys.txt >> IPTV.txt
-        cat jtzb.txt >> IPTV.txt
         sed "s/🐼馬來西亞测试_555,#genre#'/🐼馬來西亞测试,#genre#'/"
         sed "s/💘新加坡测试_555,#genre#'/💘新加坡测试,#genre#'/"
+
+         # 整合源
+        rm -f IPTV.txt && touch IPTV.txt
+        cat bhzb.txt >> IPTV.txt
+        cat live.txt >> IPTV.txt
+       
     
-
-
-
     - name: Clean
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
