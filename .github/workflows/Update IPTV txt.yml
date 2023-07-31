@@ -32,6 +32,7 @@ jobs:
         sed -i 's/知识测试_555,#genre#/知识测试,#genre#/' bhzb.txt
         sed -i 's/电影测试_555,#genre#/电影测试,#genre#/' bhzb.txt
         sed -i 's/💞GA测试1_555,#genre#/GA测试1,#genre#/' bhzb.txt
+        sed -i 's/弯弯测试_555,#genre#/弯弯测试,#genre#/' bhzb.txt
         
 
          # 整合源
