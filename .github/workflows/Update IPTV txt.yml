@@ -33,14 +33,20 @@ jobs:
         sed -i 's/电影测试_555,#genre#/电影测试,#genre#/' bhzb.txt
         sed -i 's/💞GA测试1_555,#genre#/GA测试1,#genre#/' bhzb.txt
         sed -i 's/弯弯测试_555,#genre#/弯弯测试,#genre#/' bhzb.txt
+        sed -i '/🌈彩虹頻道_555,#genre#/,$d' bhzb.txt
         
+        
+        # tw
+        rm -f bhzb.txt && wget https://cms.gohkh6.my.eu.org/m3u2txt.php?f=https://github.com/iptv-org/iptv/raw/master/streams/tw.m3u -O tw.txt
+        sed -i '1i\弯弯,#genre#' tw.txt
         
 
          # 整合源
         rm -f IPTV.txt && touch IPTV.txt
         cat live.txt >> IPTV.txt
-        cat bhzb.txt >> IPTV.txt
-        sed -i '/🌈彩虹頻道_555,#genre#/,$d' IPTV.txt
+        cat tw.txt >> IPTV.txt
+        cat bhzb.txt >> IPTV.txt    
+        
         
        
     
