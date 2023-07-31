@@ -40,8 +40,8 @@ jobs:
         rm -f IPTV.txt && touch IPTV.txt
         cat live.txt >> IPTV.txt
         cat bhzb.txt >> IPTV.txt
-        sed -i '/GA测试1,#genre#/,/🌈彩虹頻道_555,#genre#/{/GA测试1,#genre#/b; d}' IPTV.txt
-        
+        sed -i '/🌈彩虹頻道_555,#genre#,/$/{/🌈彩虹頻道_555,#genre#/b; d}' IPTV.txt
+        sed -i 's/🌈彩虹頻道_555,#genre#/https://github.com/gohhh1234/iptv/' IPTV.txt
        
     
     - name: Clean
