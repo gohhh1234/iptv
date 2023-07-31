@@ -37,7 +37,7 @@ jobs:
         
         
         # tw
-        rm -f bhzb.txt && wget https://cms.gohkh6.my.eu.org/m3u2txt.php?f=https://github.com/iptv-org/iptv/raw/master/streams/tw.m3u -O tw.txt
+        rm -f tw.txt && wget https://cms.gohkh6.my.eu.org/m3u2txt.php?f=https://github.com/iptv-org/iptv/raw/master/streams/tw.m3u -O tw.txt
         sed -i '1i\弯弯,#genre#' tw.txt
         
 
