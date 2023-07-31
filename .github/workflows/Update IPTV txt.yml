@@ -41,7 +41,7 @@ jobs:
         cat live.txt >> IPTV.txt
         cat bhzb.txt >> IPTV.txt
         sed -i  '/🌈彩虹頻道_555,#genre#/,$d' IPTV.txt
-        sed -i 's/🌈彩虹頻道_555,#genre#/https://github.com/gohhh1234/iptv/' IPTV.txt
+        
        
     
     - name: Clean
