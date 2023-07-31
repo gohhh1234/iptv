@@ -22,8 +22,8 @@ jobs:
         rm -f live.txt && wget https://cms.gohkh6.my.eu.org/live.txt -O live.txt
         # 月光宝盒
         rm -f bhzb.txt && wget https://gitcode.net/ygbh66/test/-/raw/master/bhzb.txt -O bhzb.txt
-        sed "s/🐼馬來西亞测试_555,#genre#'/🐼馬來西亞测试,#genre#'/"
-        sed "s/💘新加坡测试_555,#genre#'/💘新加坡测试,#genre#'/"
+        sed -i "s/馬來西亞测试_555,#genre#/馬來西亞测试,#genre#/g"
+        sed -i "s/新加坡测试_555,#genre#/新加坡测试,#genre#/g"
 
          # 整合源
         rm -f IPTV.txt && touch IPTV.txt
