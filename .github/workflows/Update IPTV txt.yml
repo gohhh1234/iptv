@@ -27,8 +27,9 @@ jobs:
 
          # 整合源
         rm -f IPTV.txt && touch IPTV.txt
-        cat bhzb.txt >> IPTV.txt
         cat live.txt >> IPTV.txt
+        cat bhzb.txt >> IPTV.txt
+        
        
     
     - name: Clean
