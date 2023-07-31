@@ -44,9 +44,9 @@ jobs:
          # 整合源
         rm -f IPTV.txt && touch IPTV.txt
         cat live.txt >> IPTV.txt
-        cat tw.txt >> IPTV.txt
         cat bhzb.txt >> IPTV.txt
         sed -i '/🌈彩虹頻道_555,#genre#/,$d' IPTV.txt 
+        cat tw.txt >> IPTV.txt
         
         
        
