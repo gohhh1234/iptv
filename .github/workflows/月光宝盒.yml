@@ -2,7 +2,7 @@ name: 月光宝盒
 
 on:
   schedule:
-    - cron: * 0,4,8,12,16,20 * * ? *
+    - cron: * 0,4,8,12,16,20 * *
   push:
     branches:
       - main
