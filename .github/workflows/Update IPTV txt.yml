@@ -33,7 +33,7 @@ jobs:
         sed -i 's/电影测试_555,#genre#/电影测试,#genre#/' bhzb.txt
         sed -i 's/💞GA测试1_555,#genre#/GA测试1,#genre#/' bhzb.txt
         sed -i 's/弯弯测试_555,#genre#/弯弯测试,#genre#/' bhzb.txt
-        sed -i '/🌈彩虹頻道_555,#genre#/,$d' bhzb.txt
+        
         
         
         # tw
@@ -45,7 +45,8 @@ jobs:
         rm -f IPTV.txt && touch IPTV.txt
         cat live.txt >> IPTV.txt
         cat tw.txt >> IPTV.txt
-        cat bhzb.txt >> IPTV.txt    
+        cat bhzb.txt >> IPTV.txt 
+        sed -i '/🌈彩虹頻道_555,#genre#/,$d' IPTV.txt 
         
         
        
