@@ -1,0 +1,14 @@
+马来西亚,#genre#
+TV1,https://live01.gohkh9.eu.org/live.php?id=TV1
+TV2,https://live01.gohkh9.eu.org/live.php?id=TV2
+TV3,https://live01.gohkh9.eu.org/live.php?id=TV3
+TV Okey,https://live01.gohkh9.eu.org/live.php?id=Okey
+BERITA RTM,https://live01.gohkh9.eu.org/live.php?id=BERITA
+DidikTVKPM,https://live01.gohkh9.eu.org/live.php?id=DidikTV
+TV6,https://live01.gohkh9.eu.org/live.php?id=TV6
+八度空间,https://live01.gohkh9.eu.org/live.php?id=tv8
+TV9,https://live01.gohkh9.eu.org/live.php?id=TV9
+GOSHOP,https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
+DEWAN RAKYAT,https://live01.gohkh9.eu.org/live.php?id=DEWAN RAKYAT
+SUKAN RTM,https://live01.gohkh9.eu.org/live.php?id=SUKAN RTM
+DEWAN NEGARA,https://live01.gohkh9.eu.org/live.php?id=DEWAN NEGARA
