@@ -24,16 +24,16 @@ jobs:
         
         # 月光宝盒
         rm -f bhzb.txt && wget https://gitcode.net/ygbh66/test/-/raw/master/bhzb.txt -O bhzb.txt
-        sed -i 's/馬來西亞测试_555,#genre#/馬來西亞测试,#genre#/' bhzb.txt
-        sed -i 's/新加坡测试_555,#genre#/新加坡测试,#genre#/' bhzb.txt  
-        sed -i 's/新闻测试_555,#genre#/新闻测试,#genre#/' bhzb.txt
-        sed -i 's/音乐测试_555,#genre#/音乐测试,#genre#/' bhzb.txt
-        sed -i 's/体育测试_555,#genre#/体育测试,#genre#/' bhzb.txt
-        sed -i 's/知识测试_555,#genre#/知识测试,#genre#/' bhzb.txt
-        sed -i 's/电影测试_555,#genre#/电影测试,#genre#/' bhzb.txt
-        sed -i 's/💞GA测试1_555,#genre#/GA测试1,#genre#/' bhzb.txt
-        sed -i 's/弯弯测试_555,#genre#/弯弯测试,#genre#/' bhzb.txt
-        sed -i '/🌈彩虹頻道_555,#genre#/,$d' bhzb.txt
+        sed -i 's/馬來西亞测试_688,#genre#/馬來西亞测试,#genre#/' bhzb.txt
+        sed -i 's/新加坡测试_688,#genre#/新加坡测试,#genre#/' bhzb.txt  
+        sed -i 's/新闻测试_688,#genre#/新闻测试,#genre#/' bhzb.txt
+        sed -i 's/音乐测试_688,#genre#/音乐测试,#genre#/' bhzb.txt
+        sed -i 's/体育测试_688,#genre#/体育测试,#genre#/' bhzb.txt
+        sed -i 's/知识测试_688,#genre#/知识测试,#genre#/' bhzb.txt
+        sed -i 's/电影测试_688,#genre#/电影测试,#genre#/' bhzb.txt
+        sed -i 's/💞GA测试1_688,#genre#/GA测试1,#genre#/' bhzb.txt
+        sed -i 's/弯弯测试_688,#genre#/弯弯测试,#genre#/' bhzb.txt
+        sed -i '/彩虹頻道/,$d' bhzb.txt
         
         
         # tw
