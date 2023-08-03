@@ -17,7 +17,9 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0  
-      - name: GetTime
+      
+      
+    - name: GetTime
       id: date
       run: echo "::set-output name=date::$(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')"
 
