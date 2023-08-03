@@ -16,12 +16,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  
-      
-      
-    - name: GetTime
-      id: date
-      run: echo "::set-output name=date::$(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')"
+          fetch-depth: 0
 
       - name: Download
         run: |
@@ -34,7 +29,7 @@ jobs:
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add -A
-        git diff --exit-code ||  git commit -a -m "${{ steps.date.outputs.date }}"
+        git commit -a -m $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')"
 
     - name: Push
       run: git push origin master
