@@ -1,18 +1,23 @@
-name: Update IPTV
+name: 月光宝盒
 
 on:
-#   schedule:
-#     - cron: 0 0 6,17,23 * * ? 
+  schedule:
+    - cron: 0 0,4,8,12,16,20 * * ?
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
-  Update:
+  work:
     runs-on: ubuntu-latest
-    steps:
-    - name: Checkout
-      uses: actions/checkout@v3
 
-    - name: GetTime
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  
+      - name: GetTime
       id: date
       run: echo "::set-output name=date::$(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')"
 
@@ -22,10 +27,12 @@ jobs:
           # 更新时间
           sed -i "/asia.m3u/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./asia.m3u
 
-      - name: Commit And Push
-        run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add --all
-          git diff --exit-code ||  git commit -a -m "${{ steps.date.outputs.date }}"
-          git push origin master
+         - name: Clean
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add -A
+        git diff --exit-code ||  git commit -a -m "${{ steps.date.outputs.date }}"
+
+    - name: Push
+      run: git push origin master
