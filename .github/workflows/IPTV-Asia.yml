@@ -18,6 +18,10 @@ jobs:
         with:
           fetch-depth: 0
 
+    - name: GetTime
+      id: date
+      run: echo "::set-output name=date::$(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')"
+
       - name: Download
         run: |
           curl https://iptv-org.github.io/iptv/regions/asia.m3u > asia.m3u
