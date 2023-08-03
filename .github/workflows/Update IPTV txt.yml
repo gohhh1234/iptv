@@ -39,6 +39,9 @@ jobs:
         # tw
         rm -f tw.txt && wget https://gohhh1234.github.io/iptv/twtw.txt -O tw.txt
         sed -i '1i\弯弯,#genre#' tw.txt
+
+        # tw
+        rm -f tvlive.txt && wget http://home.jundie.top:81/ray/tvlive.txt -O tvlive.txt
         
 
          # 整合源
@@ -46,6 +49,7 @@ jobs:
         cat live.txt >> IPTV.txt
         cat tw.txt >> IPTV.txt
         cat bhzb.txt >> IPTV.txt
+        cat tvlive.txt >> IPTV.txt
         
        
     
