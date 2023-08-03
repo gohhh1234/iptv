@@ -1,22 +1,16 @@
-name: IPTV-Asia
+name: Update IPTV
 
 on:
-  schedule:
-    - cron: 0 9,15,22 * * ? 
-  push:
-    branches:
-      - main
+#   schedule:
+#     - cron: 0 0 6,17,23 * * ? 
   workflow_dispatch:
 
 jobs:
-  work:
+  Update:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
+    - name: Checkout
+      uses: actions/checkout@v3
 
     - name: GetTime
       id: date
