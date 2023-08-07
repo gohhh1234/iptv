@@ -14,51 +14,34 @@ jobs:
 
     - name: GetTime
       id: date
-      run: echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S CST')"
+      run: echo "::set-output name=date::$(OTT Navigator +'%Y-%m-%d %H:%M:%S CST')"
 
     - name: Update
       run: |
         # 央视源
-        rm -f CCTV.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O CCTV.m3u
-        sed -i -n '/央视/,+1p' CCTV.m3u
-        sed -i '1i #EXTM3U' CCTV.m3u
-        sed -i '/^\s*$/d' CCTV.m3u
+        rm -f FreeviewMY.m3u8 && wget https://raw.githubusercontent.com/itszairi/FreeviewMY/main/FreeviewMY.m3u8 -O FreeviewMY.m3u8
 
+        
         # 卫视源
-        rm -f CNTV.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O CNTV.m3u
-        sed -i '/央视/,+1d' CNTV.m3u
-        sed -i '/^\s*$/d' CNTV.m3u
+        rm -f mewatchsg.m3u8 && wget https://raw.githubusercontent.com/samleong123/mewatchsg/main/mewatchsg_drm_wv_url.m3u8 -O mewatchsg.m3u8
 
-        # 成人源
-        rm -f Adult.m3u && wget http://adultiptv.net/chs.m3u -O Adult.m3u
-        sed -i 's/XXX/成人/' Adult.m3u
-        sed -i 's/AdultIPTV.net //g' Adult.m3u
-        wget https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u -O AdultVideo.txt
-        sed -i -n '/日本/,+1p' AdultVideo.txt
-        sed -i 's/日本/成人/' AdultVideo.txt
-        echo'' >> Adult.m3u && cat AdultVideo.txt >> Adult.m3u
-        rm -f AdultVideo.txt
-        sed -i '/^\s*$/d' Adult.m3u
+
+    
 
         # 整合源
         rm -f IPTV.m3u && touch IPTV.m3u
-        cat CCTV.m3u >> IPTV.m3u
-        cat CNTV.m3u >> IPTV.m3u
-        cat Adult.m3u >> IPTV.m3u
-        sed -i '/#EXTM3U/d' IPTV.m3u
-        sed -i '1i #EXTM3U' IPTV.m3u
-        sed -i '/^\s*$/d' IPTV.m3u
+        cat FreeviewMY.m3u8 >> IPTV.m3u
+        cat mewatchsg.m3u8 >> IPTV.m3u
 
-        # 节目源
-        rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
-        echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > README.md
+
+       
 
     - name: Clean
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
         git add -A
-        git diff --exit-code ||  git commit -a -m "${{ steps.date.outputs.date }}"
+        git commit -a -m "${{ steps.date.outputs.date }}"
 
     - name: Push
       run: git push origin master
