@@ -26,7 +26,7 @@ jobs:
         rm -f mewatchsg.m3u8 && wget https://raw.githubusercontent.com/samleong123/mewatchsg/main/mewatchsg_drm_wv_url.m3u8 -O mewatchsg.m3u8
 
         # Livetvvodje
-        rm -f Livetvvodje.m3u && wget https://raw.githubusercontent.com/faizalrozihan/myiptv6k/main/Faizalrozihan/Livetvvodje.m3u -O Livetvvodje.m3u
+         rm -f Livetvvodje.m3u && wget https://raw.githubusercontent.com/faizalrozihan/myiptv6k/main/Faizalrozihan/htbmalaysia.m3u -O Livetvvodje.m3u
 
     
 
