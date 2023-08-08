@@ -18,9 +18,11 @@ jobs:
 
     - name: Update
       run: |
+        # my
+        rm -f my.m3u && wget https://live02.gohkh9.eu.org/m3u/my.m3u -O my.m3u
+        
         # FreeviewMY
         rm -f FreeviewMY.m3u8 && wget https://raw.githubusercontent.com/itszairi/FreeviewMY/main/FreeviewMY.m3u8 -O FreeviewMY.m3u8
-
         
         # mewatchsg
         rm -f mewatchsg.m3u8 && wget https://raw.githubusercontent.com/samleong123/mewatchsg/main/mewatchsg_drm_wv_url.m3u8 -O mewatchsg.m3u8
@@ -30,6 +32,7 @@ jobs:
 
         # 整合源
         rm -f IPTV.m3u && touch IPTV.m3u
+        cat my.m3u >> IPTV.m3u
         cat FreeviewMY.m3u8 >> IPTV.m3u
         cat mewatchsg.m3u8 >> IPTV.m3u
 
