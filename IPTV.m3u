@@ -1,4 +1,29 @@
 #EXTM3U x-tvg-url="https://gohhh1234.github.io/iptv/EPG.xml,https://gohhh1234.github.io/iptv/EPG-1.xml,https://gohhh1234.github.io/iptv/EPG-2.xml,https://gohhh1234.github.io/iptv/EPG-3.xml"
+#EXTINF:-1 tvg-chno="101" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM1.png" group-title="马来西亚",RTM TV 1
+https://live01.gohkh9.eu.org/live.php?id=TV1
+#EXTINF:-1 tvg-chno="102" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main//channel-logos/RTM2.png" group-title="马来西亚",RTM TV 2
+https://live01.gohkh9.eu.org/live.php?id=TV2
+#EXTINF:-1 tvg-chno="103" tvg-id="TV3" tvg-name="TV3" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/MPB_3.png" group-title="马来西亚",Media Prima TV3
+https://live01.gohkh9.eu.org/live.php?id=TV3
+#EXTINF:-1 tvg-chno="110" tvg-id="Okey" tvg-name="Okey" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM_Okey.png" group-title="马来西亚",RTM Okey
+https://live01.gohkh9.eu.org/live.php?id=Okey
+#EXTINF:-1 tvg-chno="601" tvg-id="Berita RTM" tvg-name="Berita RTM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/Berita_RTM.png" group-title="马来西亚",Berita RTM
+https://live01.gohkh9.eu.org/live.php?id=BERITA
+#EXTINF:-1 tvg-chno="107" tvg-id="DidikTVKPM" tvg-name="DidikTVKPM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/MPB_7.png" group-title="马来西亚",Media Prima NTV7
+https://live01.gohkh9.eu.org/live.php?id=DidikTV
+#EXTINF:-1 tvg-chno="106" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM6.png" group-title="马来西亚",RTM TV 6
+https://live01.gohkh9.eu.org/live.php?id=TV6
+#EXTINF:-1 tvg-chno="108" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/MPB_8.png" group-title="马来西亚",Media Prima 八度空间
+https://live01.gohkh9.eu.org/live.php?id=tv8
+#EXTINF:-1 tvg-chno="109" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/MPB_9.png" group-title="马来西亚",Media Prima TV9
+https://live01.gohkh9.eu.org/live.php?id=TV9
+#EXTINF:-1 group-title="马来西亚",GOSHOP
+https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
+#EXTINF:-1 group-title="马来西亚",DEWAN RAKYAT
+https://live01.gohkh9.eu.org/live.php?id=DEWAN
+#EXTINF:-1 group-title="马来西亚",SUKAN RTM
+https://live01.gohkh9.eu.org/live.php?id=SUKAN
+#EXTINF:-1 group-title="马来西亚",DEWAN NEGARA
 #EXTINF:-1 tvg-chno="101" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM1.png" group-title="Family/Kids",RTM TV 1
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
