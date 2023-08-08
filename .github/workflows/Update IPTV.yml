@@ -25,15 +25,12 @@ jobs:
         # mewatchsg
         rm -f mewatchsg.m3u8 && wget https://raw.githubusercontent.com/samleong123/mewatchsg/main/mewatchsg_drm_wv_url.m3u8 -O mewatchsg.m3u8
 
-        # Livetvvodje
-         rm -f Livetvvodje.m3u && wget https://raw.githubusercontent.com/faizalrozihan/myiptv6k/main/Faizalrozihan/htbmalaysia.m3u -O Livetvvodje.m3u
-
+        
     
 
         # 整合源
         rm -f IPTV.m3u && touch IPTV.m3u
         cat FreeviewMY.m3u8 >> IPTV.m3u
-        cat Livetvvodje.m3u >> IPTV.m3u
         cat mewatchsg.m3u8 >> IPTV.m3u
 
 
