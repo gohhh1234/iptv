@@ -17,26 +17,30 @@ jobs:
       run: echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S GMT+08:00')"
 
     - name: Update
-      run: |
-        # my
-        rm -f my.m3u && wget https://live02.gohkh9.eu.org/m3u/my.m3u -O my.m3u
-        
+      run: |       
         # FreeviewMY
         rm -f FreeviewMY.m3u8 && wget https://raw.githubusercontent.com/itszairi/FreeviewMY/main/FreeviewMY.m3u8 -O FreeviewMY.m3u8
-        
+        sed -i '1i #EXTM3U' FreeviewMY.m3u8
+        sed -i '/^\s*$/d' FreeviewMY.m3u8
         # mewatchsg
         rm -f mewatchsg.m3u8 && wget https://raw.githubusercontent.com/samleong123/mewatchsg/main/mewatchsg_drm_wv_url.m3u8 -O mewatchsg.m3u8
+        sed -i '1i #EXTM3U' mewatchsg.m3u8
+        sed -i '/^\s*$/d' mewatchsg.m3u8
 
-        
-    
+          # 整合源
+         rm -f IPTV.m3u && touch IPTV.m3u
+         cat FreeviewMY.m3u8 >> IPTV.m3u
+         cat mewatchsg.m3u8 >> IPTV.m3u
+         sed -i '/#EXTM3U/d' IPTV.m3u
+         sed -i '1i #EXTM3U' IPTV.m3u
+         sed -i '/^\s*$/d' IPTV.m3u
 
-        # 整合源
-        rm -f IPTV.m3u && touch IPTV.m3u
-        cat my.m3u >> IPTV.m3u
-        cat FreeviewMY.m3u8 >> IPTV.m3u
-        cat mewatchsg.m3u8 >> IPTV.m3u
-
-
+          # 节目源
+          rm -f EPG.xml && wget https://cutt.ly/FreeviewMY-EPG-1 -O EPG.xml
+          rm -f EPG-1.xml && wget https://cutt.ly/FreeviewMY-EPG-2 -O EPG-1.xml
+          rm -f EPG-2.xml && wget https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml -O EPG-2.xml
+          rm -f EPG-3.xml && wget https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml -O EPG-3.xml
+          echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > README.md
        
 
     - name: Clean
