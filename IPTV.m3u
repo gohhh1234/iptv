@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://gohhh1234.github.io/iptv/EPG.xml,https://gohhh1234.github.io/iptv/EPG-1.xml,https://gohhh1234.github.io/iptv/EPG-2.xml,https://gohhh1234.github.io/iptv/EPG-3.xml"
 #EXTINF:-1 tvg-chno="101" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM1.png" group-title="Family/Kids",RTM TV 1
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
