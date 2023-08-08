@@ -32,7 +32,7 @@ jobs:
          cat FreeviewMY.m3u8 >> IPTV.m3u
          cat mewatchsg.m3u8 >> IPTV.m3u
          sed -i '/#EXTM3U/d' IPTV.m3u
-         sed -i '1i #EXTM3U' IPTV.m3u
+         sed -i '1i #EXTM3U x-tvg-url="https://gohhh1234.github.io/iptv/EPG.xml,https://gohhh1234.github.io/iptv/EPG-1.xml,https://gohhh1234.github.io/iptv/EPG-2.xml,https://gohhh1234.github.io/iptv/EPG-3.xml"' IPTV.m3u
          sed -i '/^\s*$/d' IPTV.m3u
 
           # 节目源
