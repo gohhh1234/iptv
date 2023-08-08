@@ -1,31 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="马来西亚",TV1
-https://live01.gohkh9.eu.org/live.php?id=TV1
-#EXTINF:-1 group-title="马来西亚",TV2
-https://live01.gohkh9.eu.org/live.php?id=TV2
-#EXTINF:-1 group-title="马来西亚",TV3
-https://live01.gohkh9.eu.org/live.php?id=TV3
-#EXTINF:-1 group-title="马来西亚",TV Okey
-https://live01.gohkh9.eu.org/live.php?id=Okey
-#EXTINF:-1 group-title="马来西亚",BERITA RTM
-https://live01.gohkh9.eu.org/live.php?id=BERITA
-#EXTINF:-1 group-title="马来西亚",DidikTVKPM
-https://live01.gohkh9.eu.org/live.php?id=DidikTV
-#EXTINF:-1 group-title="马来西亚",TV6
-https://live01.gohkh9.eu.org/live.php?id=TV6
-#EXTINF:-1 group-title="马来西亚",八度空间
-https://live01.gohkh9.eu.org/live.php?id=tv8
-#EXTINF:-1 group-title="马来西亚",TV9
-https://live01.gohkh9.eu.org/live.php?id=TV9
-#EXTINF:-1 group-title="马来西亚",GOSHOP
-https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
-#EXTINF:-1 group-title="马来西亚",DEWAN RAKYAT
-https://live01.gohkh9.eu.org/live.php?id=DEWAN
-#EXTINF:-1 group-title="马来西亚",SUKAN RTM
-https://live01.gohkh9.eu.org/live.php?id=SUKAN
-#EXTINF:-1 group-title="马来西亚",DEWAN NEGARA
-https://live01.gohkh9.eu.org/live.php?id=DEWAN#EXTM3U x-tvg-url="https://cutt.ly/FreeviewMY-EPG-1,https://cutt.ly/FreeviewMY-EPG-2"
-
 #EXTINF:-1 tvg-chno="101" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM1.png" group-title="Family/Kids",RTM TV 1
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
@@ -88,11 +61,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
 #EXTINF:-1 tvg-chno="121" tvg-id="SUKETV.my" tvg-name="SUKETV.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/SUKETV.png" group-title="Family/Kids",SUKE TV
 #EXTVLCOPT:network-caching=1000
 https://live.mana2.my/SukeTv/manifest.mpd
-
 #EXTINF:-1 tvg-chno="201" tvg-id="MyCinemaEurope" tvg-name="MyCinemaEurope" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/MyCinemaEuropeAsia.png" group-title="Movies",My Cinema Europe
 #EXTVLCOPT:network-caching=1000
 https://live.mana2.my/MyCinemaEurope/manifest.mpd
-
 #EXTINF:-1 tvg-chno="501" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/FashionTV.png" group-title="Lifestyle",FashionTV
 #EXTVLCOPT:network-caching=1000
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
@@ -111,7 +82,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-das
 #EXTINF:-1 tvg-chno="507" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/naturestreamtv.png" group-title="Wellness",NatureStream.tv
 #EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/naturestreamtv/master.m3u8
-
 #EXTINF:-1 tvg-chno="601" tvg-id="Berita RTM" tvg-name="Berita RTM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/Berita_RTM.png" group-title="News",Berita RTM
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd?id=5
@@ -157,7 +127,6 @@ https://ythls.onrender.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q.m3u8
 #EXTINF:-1 tvg-chno="615" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/ted.png" group-title="World",TED
 #EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ted/master.m3u8
-
 #EXTINF:-1 tvg-chno="701" tvg-id="Sukan RTM" tvg-name="Sukan RTM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/Sukan_RTM.png" group-title="Sports",Sukan RTM
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd?id=4
@@ -170,7 +139,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-chno="704" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/MotorRacingTV.png" group-title="Sports",MotorRacing TV
 #EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
-
 #EXTINF:-1 tvg-chno="901" tvg-id="Nasional FM" tvg-name="Nasional FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/RTM-NasionalFM.png" group-title="Radio",RTM Radio Nasional
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC
@@ -257,35 +225,26 @@ https://stream.rcs.revma.com/nzgauqq1v7zuv
 https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC
 #EXTINF:-1 tvg-chno="929" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RadioIKIM.png" group-title="Radio",Radio IKIM
 #EXTVLCOPT:network-caching=1000
-https://live.mana2.my/RadioIkim/manifest.mpd#EXTM3U x-tvg-url="https://github.com/AqFad2811/epg/raw/main/singapore.xml" url-tvg="https://github.com/AqFad2811/epg/raw/main/singapore.xml" refresh="1440" max-conn="1" refresh="24"
-
-#EXTM3U
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZGcFI3RzY1YTBXb05US2F4cGc1TlhjanRQTUN2VS1xU0ltX1VZSFdRU1B5YmRyMHUtakdSNVdid3g1eHMzLXZlbDZINFZGNFpEeVlzU29jYkNyQXRKTzhZZWhWcjdKdGp4Y3pYU2ZlOVZCVEUydWMxWUNPbmFpN3d5Q0xYUVZYZ2xpODN0UXgzX2lRVndWakVtMnIzM3pZWmdJWnQxTXVTcGNsQlo2MDMxU003UjNfQW1sOC1IQ2J3U3pVRHctSHVWVVZGQnhmUF9FNUl6VEM1TUk0Z21nT2FnSzc5MFAyMlBzWUpKUHM4aFViSHRvLVlZbE0tQlpuRktmeHJIV0RvX2xZMS03bUg0UV83TmYxTFN4ZEx4X0JnUklnbExPdEdvdlJSbURDNm04aVRVVUo5QkdrbFU2X3FCZ0p2SDNtQUE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMTYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoNV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkZwUjdHNjVhMFdvTlRLYXhwZzVOWGNqdFBNQ3ZVLXFTSW1fVVlIV1FTUHliZHIwdS1qR1I1V2J3eDV4czMtdmVsNkg0VkY0WkR5WXNTb2NiQ3JBdEpPOFllaFZyN0p0anhjelhTZmU5VkJURTJ1YzFZQ09uYWk3d3lDTFhRVlhnbGk4M3RReDNfaVFWd1ZqRW0ycjMzellaZ0ladDFNdVNwY2xCWjYwMzFTTTdSM19BbWw4LUhDYndTelVEdy1IdVZVVkZCeGZQX0U1SXpUQzVNSTRnbWdPYWdLNzkwUDIyUHNZSkpQczhoVWJIdG8tWVlsTS1CWm5GS2Z4ckhXRG9fbFkxLTdtSDRRXzdOZjFMU3hkTHhfQmdSSWdsTE90R292UlJtREM2bThpVFVVSjlCR2tsVTZfcUJnSnZIM21BQT09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=uZ%2bXQtSsd1qcTF1h3q7c%2bSMHk0o%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZBZWZKZGVBZF9iQmJrczJFZ2Y1WVIzVnE5UzVJeUdnUHktUXpkZ3prQUFsX2hYMFg3X3RWREl3ODhlYXpVTUl6NktKbFh2Tm5uWi1jQ2FXbFY2SnJZdnVTTVVGa1ZYZy1wU3BGLUM0ZTNRd09uN1ZZcEtWQkpWRlduMEZzUzg4M29mYXNmTzFMV1BXSWtrdDZBUmZTQThKeUVoX3A0U0ZfcjY5Y2diNnFIaGRRNkZvV20wYzV2ZVJhaHl0bVdTaHdaZGNaUjR5aEtKUUo3cDJUcC1jQndDZTRSU3hJQVVydFV2RkRrRWdvYlp4WkplSXRuMkk5eWozUFJnTVptQWJsR2kwcnBDNGRWOXlab1FCTzlQY3lqXzJQYjI1OWllUnRaN3dON0h2X09nTzlWS1dFT3JEeFZONXcxakwtbEhFYWc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMjQiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoOF9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkFlZkpkZUFkX2JCYmtzMkVnZjVZUjNWcTlTNUl5R2dQeS1RemRnemtBQWxfaFgwWDdfdFZESXc4OGVhelVNSXo2S0psWHZObm5aLWNDYVdsVjZKcll2dVNNVUZrVlhnLXBTcEYtQzRlM1F3T243VllwS1ZCSlZGV24wRnNTODgzb2Zhc2ZPMUxXUFdJa2t0NkFSZlNBOEp5RWhfcDRTRl9yNjljZ2I2cUhoZFE2Rm9XbTBjNXZlUmFoeXRtV1Nod1pkY1pSNHloS0pRSjdwMlRwLWNCd0NlNFJTeElBVXJ0VXZGRGtFZ29iWnhaSmVJdG4ySTl5ajNQUmdNWm1BYmxHaTBycEM0ZFY5eVpvUUJPOVBjeWpfMlBiMjU5aWVSdFo3d043SHZfT2dPOVZLV0VPckR4Vk41dzFqTC1sSEVhZz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=ywmsiP%2bAyHs9uAAgeg7rLxwJurE%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel 8" tvg-chno="Channel 8" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776034%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=75&Height=101&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8 / 8 频道
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZPbUxzZ2FfUlRXSnF0bkhDYi10dmlYamtyTVJ0cEtDbkFXdndCY1lRLUJnd09nX3JqVnZPbDJqc0FUanJLb2c0UzNNc3Z5aDFYVElvTHFZeGIzQXZ3a013c3NnTEZmS3g3TFJiWTVraW40WXE2Z3JwTWdpX0Z3WnVxQlJFeHQyaWxMMGVmNkxuUXlDUjAxMmR5WEdMY0xwU25OdXFoMU53OWdZTHdybGhBc2JBU3RPOVIxVmVwM09ncWxMcFBiY1c0eUFZa0ttVEt6ZVZhT0VtOTJKcFp0c1Zvekw4LUUyZ1FxaVV6ODVfR0h3cHJJVHZzUkhwYWdldkhqSnlQOTdWbmg2clhwdThzdVF5OHVMWWFocnJyQml6VzdMbHB2T2hMcWw0OE1qSTh3NiZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNTciLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoVV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZk9tTHNnYV9SVFdKcXRuSENiLXR2aVhqa3JNUnRwS0NuQVd2d0JjWVEtQmd3T2dfcmpWdk9sMmpzQVRqcktvZzRTM01zdnloMVhUSW9McVl4YjNBdndrTXdzc2dMRmZLeDdMUmJZNWtpbjRZcTZncnBNZ2lfRndadXFCUkV4dDJpbEwwZWY2TG5ReUNSMDEyZHlYR0xjTHBTbk51cWgxTnc5Z1lMd3JsaEFzYkFTdE85UjFWZXAzT2dxbExwUGJjVzR5QVlrS21US3plVmFPRW05MkpwWnRzVm96TDgtRTJnUXFpVXo4NV9HSHdwcklUdnNSSHBhZ2V2SGpKeVA5N1ZuaDZyWHB1OHN1UXk4dUxZYWhycnJCaXpXN0xscHZPaExxbDQ4TWpJOHc2IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=BYGuFq9kWZk%2fvX9hp9CZ880wcFE%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel U" tvg-chno="Channel U" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776040%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U / U 频道
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZBWEFaX3BNQXlyX2s4YWhQaXFKZmdEcEdJU09XY3B0YklyRkxKWVB2XzVoeHp3eGtMVWVtc05aQ1hsOFZXMEU4dFgxWjV3MVRUbldFdk5HVGU3cXRqRzl1aDZVSXo1UHA5SjRnMVVmWF9DVnB5SHd0ZE5IVjJhRm94WFN5b3VfOFNnRUVRYTRmSmNkQUNaYUNyTFpudEJlWnRRTTZwWGV2WjZCOGFoakxjekViTkFXQUptMm5zWElLOWRvNExSZkNOaDAtSzc4emhMcklUMHA4clNEYkFaaldCdllKVThycVBoNExuSUdWRGMxNXN1RGtub2lXcWVUVlV2aEV0azh1bE9Xcng3NFh0QWhqYlR5WG0yLXFaOHlDa0wxQWY4ZUJweDZCNkVUMDBSMGtPZUpPaDMtamZEZ2tuQkwxWUN6cXc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNDkiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NuYVNfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZBWEFaX3BNQXlyX2s4YWhQaXFKZmdEcEdJU09XY3B0YklyRkxKWVB2XzVoeHp3eGtMVWVtc05aQ1hsOFZXMEU4dFgxWjV3MVRUbldFdk5HVGU3cXRqRzl1aDZVSXo1UHA5SjRnMVVmWF9DVnB5SHd0ZE5IVjJhRm94WFN5b3VfOFNnRUVRYTRmSmNkQUNaYUNyTFpudEJlWnRRTTZwWGV2WjZCOGFoakxjekViTkFXQUptMm5zWElLOWRvNExSZkNOaDAtSzc4emhMcklUMHA4clNEYkFaaldCdllKVThycVBoNExuSUdWRGMxNXN1RGtub2lXcWVUVlV2aEV0azh1bE9Xcng3NFh0QWhqYlR5WG0yLXFaOHlDa0wxQWY4ZUJweDZCNkVUMDBSMGtPZUpPaDMtamZEZ2tuQkwxWUN6cXc9PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=GbnvifUiNXgx155VQbX7T%2bC1GLw%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776042%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=78&Height=96&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZOcTdCcWszSVdRTDlxUFlySkM0MnMxLUpwaUhqU0Jqc3doc0stUmhBVDBlc1FZb21CbWpOVUR5YVI2ZGxHdExTbkZwYTF4dGhMN0dZWURfUmpiWDBkWlNaZ01hcWZzdXJzU25aR3VJZEhkUGJrOUVzWUttaUFZa3Fvd19IM1gxbmdOYndib2dTSEdKM3dqRzlpbEdtWkM4bjZPVlNTTzM0UkJxd2pzc0JQTmVFV1VnR19pMkRqaEZLUkhpbnRvNVEzTWZoZWlYVkstSjVIZjR3dWdvUUdkRG93c0h1Y1E0dGJGSVVvQlNzcnpDZEk3bGw2WHJuNzEyNHRCNTlFZHBCQk1JeURpSHRXZ0JRZ1VpOHlVYXBUUnZ5Yl9LalJoOUxUek84T2tYN2RtQkF2NnVXbkplcU1hV2wtTW9CNXRubDZYMUdMRktjcUFoVkxrU2dyaUJtYVU9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZOcTdCcWszSVdRTDlxUFlySkM0MnMxLUpwaUhqU0Jqc3doc0stUmhBVDBlc1FZb21CbWpOVUR5YVI2ZGxHdExTbkZwYTF4dGhMN0dZWURfUmpiWDBkWlNaZ01hcWZzdXJzU25aR3VJZEhkUGJrOUVzWUttaUFZa3Fvd19IM1gxbmdOYndib2dTSEdKM3dqRzlpbEdtWkM4bjZPVlNTTzM0UkJxd2pzc0JQTmVFV1VnR19pMkRqaEZLUkhpbnRvNVEzTWZoZWlYVkstSjVIZjR3dWdvUUdkRG93c0h1Y1E0dGJGSVVvQlNzcnpDZEk3bGw2WHJuNzEyNHRCNTlFZHBCQk1JeURpSHRXZ0JRZ1VpOHlVYXBUUnZ5Yl9LalJoOUxUek84T2tYN2RtQkF2NnVXbkplcU1hV2wtTW9CNXRubDZYMUdMRktjcUFoVkxrU2dyaUJtYVU9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=DploOProUqgUq5Mnyot6faorxWI%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271375229%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Suria
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZNbXV5T1oyRHJSMDN6RFBib0VhT3ktS2R5a1VZNGJXdzZLTm9PbUpHeXUxTm1GUDQ1SUZRbE9BM3EyX1MtZXI5aEFCMzJ2SXlRTndtZzJaOTN6bjBncXZ6RzlyR3BYYUQ4ODBaNWZ1a3BnR3NibVBhQVZCQ1E2T0lUa3F3WTl4dlNkRkpwU2F4V3ZCVVh2QXk3UEZGcEtTSmFrdTE5XzEwcEVWWmFBdVdPS2FJdUdsVENZTXBscmU3MWxHM25XbkM1MHpDYkJBcndmR1VCU3FyNmh4WjZRQ0w5TC15LVp6QlpOaVZsQlFXQkFtWWZvMFNsNGJfNXpjOGt4QlJEUzExMkRfZzdiTWJHX08tcDNVb05fR0lyOEdvbzhQVlJUVkQ5eEsyTk9rTVNPXyZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMDgiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3Zhc2FudGhhbV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZk1tdXlPWjJEclIwM3pEUGJvRWFPeS1LZHlrVVk0Yld3NktOb09tSkd5dTFObUZQNDVJRlFsT0EzcTJfUy1lcjloQUIzMnZJeVFOd21nMlo5M3puMGdxdnpHOXJHcFhhRDg4MFo1ZnVrcGdHc2JtUGFBVkJDUTZPSVRrcXdZOXh2U2RGSnBTYXhXdkJVWHZBeTdQRkZwS1NKYWt1MTlfMTBwRVZaYUF1V09LYUl1R2xUQ1lNcGxyZTcxbEczblduQzUwekNiQkFyd2ZHVUJTcXI2aHhaNlFDTDlMLXktWnpCWk5pVmxCUVdCQW1ZZm8wU2w0Yl81emM4a3hCUkRTMTEyRF9nN2JNYkdfTy1wM1VvTl9HSXI4R29vOFBWUlRWRDl4SzJOT2tNU09fIiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=aGNm5xfNlOWFq2AgnGWUET0pR8E%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
