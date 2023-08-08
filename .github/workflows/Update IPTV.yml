@@ -26,9 +26,14 @@ jobs:
         rm -f mewatchsg.m3u8 && wget https://raw.githubusercontent.com/samleong123/mewatchsg/main/mewatchsg_drm_wv_url.m3u8 -O mewatchsg.m3u8
         sed -i '1i #EXTM3U' mewatchsg.m3u8
         sed -i '/^\s*$/d' mewatchsg.m3u8
+        # my
+        rm -f my.m3u && wget https://live02.gohkh9.eu.org/m3u/my.m3u -O my.m3u
+        sed -i '1i #EXTM3U' my.m3u
+        sed -i '/^\s*$/d' my.m3u
 
           # 整合源
          rm -f IPTV.m3u && touch IPTV.m3u
+         cat my.m3u >> IPTV.m3u
          cat FreeviewMY.m3u8 >> IPTV.m3u
          cat mewatchsg.m3u8 >> IPTV.m3u
          sed -i '/#EXTM3U/d' IPTV.m3u
