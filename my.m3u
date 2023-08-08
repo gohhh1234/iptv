@@ -19,7 +19,7 @@ https://live01.gohkh9.eu.org/live.php?id=tv8
 #EXTINF:-1 tvg-chno="109" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/MPB_9.png" group-title="马来西亚",Media Prima TV9
 https://live01.gohkh9.eu.org/live.php?id=TV9
 #EXTINF:-1 group-title="马来西亚",GOSHOP
-https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
+https://live02.gohkh9.eu.org/php/GOSHOP.php?id=480
 #EXTINF:-1 group-title="马来西亚",DEWAN RAKYAT
 https://live01.gohkh9.eu.org/live.php?id=DEWAN
 #EXTINF:-1 group-title="马来西亚",SUKAN RTM
