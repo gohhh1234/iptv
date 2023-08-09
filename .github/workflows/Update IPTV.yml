@@ -36,12 +36,12 @@ jobs:
         sed -i 's/#EXTINF:-1/#EXTINF:-1 group-title="TW"/g' tw.m3u
         sed -i '/^\s*$/d' tw.m3u
         # my
-        rm -f cn_cctv.m3u && wget https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cctv.m3u -O cn_cctv.m3u
-        rm -f cn.m3u && wget https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u -O cn.m3u
-        cat cn_cctv.m3u >> iptv-org.m3u
-        cat cn.m3u >> iptv-org.m3u
-        sed -i '1i #EXTM3U' iptv-org.m3u
-        sed -i 's/#EXTINF:-1/#EXTINF:-1 group-title="CN"/g' iptv-org.m3u
+        rm -f bestv.m3u && wget https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u -O bestv.m3u
+        rm -f sxg.m3u && wget https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u -O sxg.m3u
+        
+        cat bestv.m3u >> iptv-org.m3u
+        cat sxg.m3u >> iptv-org.m3u
+        sed -i 's/live.goodiptv.club/live02.gohkh9.eu.org /g' iptv-org.m3u
         sed -i '/^\s*$/d' iptv-org.m3u
 
           # 整合源
