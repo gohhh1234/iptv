@@ -1,1 +1,1 @@
-Auto Update IPTV in 2023-08-09 04:15:53 GMT+08:00
+https://gohhh1234.github.io/iptv/IPTV.m3u
