@@ -33,6 +33,7 @@ jobs:
          # my
         rm -f tw.m3u && wget https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u -O tw.m3u
         sed -i '1i #EXTM3U' tw.m3u
+        sed -i 's/#EXTINF:-1/#EXTINF:-1 group-title="TW"/g' tw.m3u
         sed -i '/^\s*$/d' tw.m3u
 
           # 整合源
