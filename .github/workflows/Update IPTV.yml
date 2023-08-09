@@ -35,6 +35,14 @@ jobs:
         sed -i '1i #EXTM3U' tw.m3u
         sed -i 's/#EXTINF:-1/#EXTINF:-1 group-title="TW"/g' tw.m3u
         sed -i '/^\s*$/d' tw.m3u
+        # my
+        rm -f cn_cctv.m3u && wget https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn_cctv.m3u -O cn_cctv.m3u
+        rm -f cn.m3u && wget https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u -O cn.m3u
+        cat cn_cctv.m3u >> iptv-org.m3u
+        cat cn.m3u >> iptv-org.m3u
+        sed -i '1i #EXTM3U' iptv-org.m3u
+        sed -i 's/#EXTINF:-1/#EXTINF:-1 group-title="CN"/g' iptv-org.m3u
+        sed -i '/^\s*$/d' iptv-org.m3u
 
           # 整合源
          rm -f IPTV.m3u && touch IPTV.m3u
@@ -42,6 +50,7 @@ jobs:
          cat FreeviewMY.m3u8 >> IPTV.m3u
          cat mewatchsg.m3u8 >> IPTV.m3u
          cat tw.m3u >> IPTV.m3u
+         cat iptv-org.m3u >> IPTV.m3u
          sed -i '/#EXTM3U/d' IPTV.m3u
          sed -i '1i #EXTM3U x-tvg-url="https://gohhh1234.github.io/iptv/EPG.xml,https://gohhh1234.github.io/iptv/EPG-1.xml,https://gohhh1234.github.io/iptv/EPG-2.xml,https://gohhh1234.github.io/iptv/EPG-3.xml"' IPTV.m3u
         
