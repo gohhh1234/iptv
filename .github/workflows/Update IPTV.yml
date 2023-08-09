@@ -30,12 +30,17 @@ jobs:
         rm -f my.m3u && wget https://live02.gohkh9.eu.org/m3u/my.m3u -O my.m3u
         sed -i '1i #EXTM3U' my.m3u
         sed -i '/^\s*$/d' my.m3u
+         # my
+        rm -f tw.m3u && wget https://raw.githubusercontent.com/iptv-org/iptv/master/streams/tw.m3u -O tw.m3u
+        sed -i '1i #EXTM3U' tw.m3u
+        sed -i '/^\s*$/d' tw.m3u
 
           # 整合源
          rm -f IPTV.m3u && touch IPTV.m3u
          cat my.m3u >> IPTV.m3u
          cat FreeviewMY.m3u8 >> IPTV.m3u
          cat mewatchsg.m3u8 >> IPTV.m3u
+         cat tw.m3u >> IPTV.m3u
          sed -i '/#EXTM3U/d' IPTV.m3u
          sed -i '1i #EXTM3U x-tvg-url="https://gohhh1234.github.io/iptv/EPG.xml,https://gohhh1234.github.io/iptv/EPG-1.xml,https://gohhh1234.github.io/iptv/EPG-2.xml,https://gohhh1234.github.io/iptv/EPG-3.xml"' IPTV.m3u
         
