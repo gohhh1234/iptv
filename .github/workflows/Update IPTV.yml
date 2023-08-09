@@ -36,7 +36,7 @@ jobs:
         sed -i 's/#EXTINF:-1/#EXTINF:-1 group-title="TW"/g' tw.m3u
         sed -i '/^\s*$/d' tw.m3u
         # my
-        rm -f bestv.m3u && wget https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u -O bestv.m3u
+        rm -f cqyx.m3u && wget https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u -O cqyx.m3u
         rm -f sxg.m3u && wget https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u -O sxg.m3u
         rm -f iptv-org.m3u && touch iptv-org.m3u
         cat bestv.m3u >> iptv-org.m3u
