@@ -38,10 +38,10 @@ jobs:
         # my
         rm -f bestv.m3u && wget https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u -O bestv.m3u
         rm -f sxg.m3u && wget https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u -O sxg.m3u
-        
+        rm -f iptv-org.m3u && touch iptv-org.m3u
         cat bestv.m3u >> iptv-org.m3u
         cat sxg.m3u >> iptv-org.m3u
-        sed -i 's/live.goodiptv.club/live02.gohkh9.eu.org /g' iptv-org.m3u
+        sed -i 's/live.goodiptv.club/live02.gohkh9.eu.org/g' iptv-org.m3u
         sed -i '/^\s*$/d' iptv-org.m3u
 
           # 整合源
