@@ -1,8 +1,8 @@
 name: Update IPTV txt
 
 on:
-#   schedule:
-#     - cron: 0 0 6,17,23 * * ? 
+   schedule:
+     - cron: 0 0/12 * * * 
   workflow_dispatch:
 
 jobs:
@@ -24,7 +24,7 @@ jobs:
         
         # 月光宝盒
         rm -f bhzb.txt && wget https://gitcode.net/ygbh66/test/-/raw/master/bhzb.txt -O bhzb.txt
-        sed -i 's/_1688,#genre#/,#genre#/' bhzb.txt
+        sed  '/_/d' bhzb.txt
         sed -i '/彩虹頻道/,$d' bhzb.txt
         
         
