@@ -16,7 +16,7 @@ jobs:
       id: date
       run: echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S')"
 
-    - name: Update
+    - name: IPTV
       run: |       
         # FreeviewMY
         rm -f FreeviewMY.m3u8 && wget https://raw.githubusercontent.com/itszairi/FreeviewMY/main/FreeviewMY.m3u8 -O FreeviewMY.m3u8
@@ -53,7 +53,9 @@ jobs:
          cat iptv-org.m3u >> IPTV.m3u
          sed -i '/#EXTM3U/d' IPTV.m3u
          sed -i '1i #EXTM3U x-tvg-url="https://gohhh1234.github.io/iptv/EPG.xml,https://gohhh1234.github.io/iptv/EPG-1.xml,https://gohhh1234.github.io/iptv/EPG-2.xml,https://gohhh1234.github.io/iptv/EPG-3.xml"' IPTV.m3u
-        
+    
+    - name: EPG
+      run: |        
 
           # 节目源
           rm -f EPG.xml && wget https://cutt.ly/FreeviewMY-EPG-1 -O EPG.xml
