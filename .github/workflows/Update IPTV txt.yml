@@ -25,7 +25,7 @@ jobs:
         
         # 月光宝盒
         rm -f bhzb.txt && wget https://gitcode.net/ygbh66/test/-/raw/master/bhzb.txt -O bhzb.txt
-        sed  '/_/d' bhzb.txt
+        sed -i '/_/d' bhzb.txt
         sed -i '/彩虹頻道/,$d' bhzb.txt
         
         
