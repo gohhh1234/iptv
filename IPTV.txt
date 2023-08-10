@@ -8573,7 +8573,7 @@ dema,http://ye23.win/iptv/korea2021.php?id=dema
 回复VIP,http://52bsj.vip:81/api/v3/file/get/150072/bhmb.mp4?sign=_4e-Ee3syld4ymzrMxxL3C0yLPsKGphmfQmAKdcpgME%3D%3A0
 获取密码,http://52bsj.vip:81/api/v3/file/get/150072/bhmb.mp4?sign=_4e-Ee3syld4ymzrMxxL3C0yLPsKGphmfQmAKdcpgME%3D%3A0
 
-🌙弯弯测试,#genre#
+🌙弯弯测试_1688,#genre#
 民视,mitv://generationnexxxt.com:19806/412a0c47c1014e7d85da7d2d38631eb7
 台视,mitv://generationnexxxt.com:19806/d12a80dfeb36488db100bbca6c6378e1
 大爱,mitv://generationnexxxt.com:19806/371fa10b16a84b5ca01f5bcd18ac7726
@@ -8745,7 +8745,7 @@ EYETV戏剧台,mitv://generationnexxxt.com:19806/adc2a4ea6a77409cb91369152f0bace
 东森新闻台,mitv://generationnexxxt.com:19806/6696ee8482ca482aa501f886efbadad0
 镜新闻,mitv://generationnexxxt.com:19806/6ef8600b028640f49ad6cd73fee386ae
 
-🌈GA测试,#genre#
+🌈GA测试_1688,#genre#
 港台電視31,mitv://generationnexxxt.com:19806/bb366f445cec4722b21fdd69fb052834
 港台电视32,mitv://generationnexxxt.com:19806/cf1a2072c9d94514ba98c4b37895daf4
 HOYTV,mitv://generationnexxxt.com:19806/793006c6727f44169d4e77a35ab8f880
@@ -8781,7 +8781,7 @@ HandsUp,mitv://generationnexxxt.com:19806/e78b4e2900154414a93f2ccd57a18d04
 HOY资讯台,mitv://generationnexxxt.com:19806/277e07151c874174b35d4d3ce7d772a2
 黄金翡翠台,mitv://generationnexxxt.com:19806/aa014240bbec4e91990ca9a7f57875fd
 
-🐼馬來西亞测试,#genre#
+🐼馬來西亞测试_1688,#genre#
 TV1,mitv://generationnexxxt.com:19806/6ed0226aee704cb6ba7b0faf1088407f
 TV2,mitv://generationnexxxt.com:19806/69d668a50a2c4d55bc1adfbdf2f29bf7
 TV3,mitv://generationnexxxt.com:19806/fa74ead583154a9692291aeb75eb5bb2
@@ -8851,7 +8851,7 @@ HITSMovies,mitv://generationnexxxt.com:19806/873a153ee838437fa797e4b3c401d958
 beINSports2,mitv://generationnexxxt.com:19806/0d857c6ac77d4cd58f0153c47a6804d5
 GolfChannel,mitv://generationnexxxt.com:19806/f91a855bf6ce47e2b2911917a4b3d5ef
 
-💘新加坡测试,#genre#
+💘新加坡测试_1688,#genre#
 天映频道,mitv://generationnexxxt.com:19806/4b5e8ec28cf24208baa663599d6cc1f5
 中天亚洲台,mitv://generationnexxxt.com:19806/0ca9f16b087d4fe8bd97852c47a222b7
 TVB星河,mitv://generationnexxxt.com:19806/8c81917b79d247f3a60857411973d9a5
@@ -8883,7 +8883,7 @@ TVBS亚洲,mitv://generationnexxxt.com:19806/3ee34cdd82744fb39ef758059e7d2704
 NBA,mitv://generationnexxxt.com:19806/6fcac440f84e4d6b8a6ebeed5d393dba
 beINSports2,mitv://generationnexxxt.com:19806/0d857c6ac77d4cd58f0153c47a6804d5
 
-☁️新闻测试,#genre#
+☁️新闻测试_1688,#genre#
 无线新闻台,mitv://generationnexxxt.com:19806/7f1fcd854c8042b69ca1d2917a50ae8f
 无线新闻台,mitv://generationnexxxt.com:19806/ae343d41c7764bc6aac0e0d66a7b7733
 无线财经体育资讯台,mitv://generationnexxxt.com:19806/7a492b815c2a43fe97a9f6275006ae50
@@ -8936,12 +8936,12 @@ CP24,mitv://generationnexxxt.com:19806/6186394bd1ff4b8b9757d542a9ca2e4b
 TheWeatherNetwork,mitv://generationnexxxt.com:19806/c556ed82dcc2453dabd398273651d952
 TheWeatherChannel,mitv://generationnexxxt.com:19806/499917ffa94444328d65744d929c1eb3
 
-🎵音乐测试,#genre#
+🎵音乐测试_1688,#genre#
 MusicJapanTV,mitv://generationnexxxt.com:19806/7bbfd7a0233d4861943f8488dc21e075
 MezzoLive,mitv://generationnexxxt.com:19806/80375e2d54ef488f830a5e10b31fe47c
 CLASSICA古典乐,mitv://generationnexxxt.com:19806/8376bac949044fc4a7f7c30b8b9f6c35
 
-🎾体育测试,#genre#
+🎾体育测试_1688,#genre#
 CCTV5,mitv://generationnexxxt.com:19806/98957b0750c14f18abda694462ab9904
 CCTV5+,mitv://generationnexxxt.com:19806/7b1fada6a2d74be0a549cc767b1f6d90
 魅力足球,mitv://generationnexxxt.com:19806/ecd44a5fe8c94d12abd14d0762d6b838
@@ -8999,7 +8999,7 @@ SkySportsCricket,mitv://generationnexxxt.com:19806/d342ec6589c24499b5f806408bea4
 SkySportsAction,mitv://generationnexxxt.com:19806/d627b2c21c264a13afa935d214060989
 GolfChannel,mitv://generationnexxxt.com:19806/f91a855bf6ce47e2b2911917a4b3d5ef
 
-🐼知识测试,#genre#
+🐼知识测试_1688,#genre#
 CCTV9,mitv://generationnexxxt.com:19806/285ffc4f61df4970a30856868692a805
 国家地理频道,mitv://generationnexxxt.com:19806/229d40efa0c54fdc98f5ba46141ef079
 探索频道,mitv://generationnexxxt.com:19806/e7de8eb7942e4d72a52cd4467c7f7e68
@@ -9026,7 +9026,7 @@ LoveNature,mitv://generationnexxxt.com:19806/1138e7f99188489d80fe4b12516581a4
 亚洲旅游台,mitv://generationnexxxt.com:19806/a068d4f14c5e487aa0582feec88d4d45
 EYETV旅游台,mitv://generationnexxxt.com:19806/d4459f83cffa4a798fcd1d0a0a6bbf52
 
-🎥电影测试,#genre#
+🎥电影测试_1688,#genre#
 CCTV6,mitv://generationnexxxt.com:19806/6ba86ebf6131449da50828be35158d55
 天映频道,mitv://generationnexxxt.com:19806/4b5e8ec28cf24208baa663599d6cc1f5
 天映经典,mitv://generationnexxxt.com:19806/c7cf6992ae514b7e9a92164e4cac30e2
@@ -9076,7 +9076,7 @@ EYETV戏剧台,mitv://generationnexxxt.com:19806/adc2a4ea6a77409cb91369152f0bace
 爱尔达影剧台,mitv://generationnexxxt.com:19806/ac2f700992734a578b38655b30fb5166
 亚洲剧台,mitv://generationnexxxt.com:19806/ddd1f7ef6ccc486eb861a1215115d7d2
 
-💞GA测试1,#genre#
+💞GA测试1_1688,#genre#
 thai3,http://198.16.100.90:8278/tpbs_pat/playlist.m3u8?tid=MF9F9580758695807586&ct=19249&tsum=e2992a8627dbfd1cb4ac975efe0a195a
 itv 2,http://198.16.100.90:8278/itv2_antik/playlist.m3u8?tid=ME1E6151053761510537&ct=19249&tsum=1ef927017460bcb40a504bbebc9eecb8
 iNews 新闻台,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
@@ -9704,16 +9704,11 @@ CETV1,http://222.71.90.218:8888/newlive/live/hls/48/live.m3u8
 新疆卫视,http://125.210.152.19:9120/live/hszx-xjtv-h264.m3u8
 北京纪实,http://125.210.152.19:9120/live/hszx-bjjs-h264.m3u8
 兵团卫视,http://125.210.152.19:9120/live/hszx-bttv-h264.m3u8
-都市频道,http://jycb.f3322.net:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-民生频道,http://jycb.f3322.net:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-法治频道,http://jycb.f3322.net:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-电视剧频道,http://jycb.f3322.net:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-新闻频道,http://jycb.f3322.net:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-移动戏曲,http://jycb.f3322.net:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-文博,http://jycb.f3322.net:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-戏曲,http://jycb.f3322.net:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-功夫,http://jycb.f3322.net:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-百姓调解,http://jycb.f3322.net:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+动漫秀场,https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
 
 香港,#genre#
 翡翠台,http://r.jdshipin.com/qClQf
@@ -9913,27 +9908,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 
-少儿动画,#genre#
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-猫和老鼠,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
-童年经典,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
-玩具乐园,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_175_600_t10/c54_lb_175_600_t10.m3u8?key=051d9240247766709d65dde3fcd5cd7bb
-怀旧动画,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
-巧虎,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_135_600_t10/c55_lb_135_600_t10.m3u8?key=0f2a06793124310bcefefdf4e48b17f9a
-宝宝课堂,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key=0b292c335e5837e94abaa8d3135e83ce3
-奥特曼,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95
-名侦探柯南,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
-动画小天地,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
-兔小贝尔歌,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_136_600_t10/c54_lb_136_600_t10.m3u8?key=0b292c335e5837e94ae056154862a578b
-儿童乐园,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_215_600_t10/c57_lb_215_600_t10.m3u8?key=0b292c335e5837e943410c2bfa7a7387e
-儿歌大全,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_242_600_t10/c57_lb_242_600_t10.m3u8?key=0f2a06793124310bc8499ebf63370c51a
-倒霉熊,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da
-亲子小游戏,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_178_600_t10/c56_lb_178_600_t10.m3u8?key=0b292c335e5837e94ffc1113a2140b54
-亲子启蒙,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
-熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
+
 
 直播中国,#genre#
 直播中国精编直播,http://gcksc.v.kcdnvip.com/gc/wgw05_1/index.m3u8

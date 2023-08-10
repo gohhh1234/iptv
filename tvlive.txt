@@ -225,16 +225,11 @@ CETV1,http://222.71.90.218:8888/newlive/live/hls/48/live.m3u8
 新疆卫视,http://125.210.152.19:9120/live/hszx-xjtv-h264.m3u8
 北京纪实,http://125.210.152.19:9120/live/hszx-bjjs-h264.m3u8
 兵团卫视,http://125.210.152.19:9120/live/hszx-bttv-h264.m3u8
-都市频道,http://jycb.f3322.net:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-民生频道,http://jycb.f3322.net:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-法治频道,http://jycb.f3322.net:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-电视剧频道,http://jycb.f3322.net:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-新闻频道,http://jycb.f3322.net:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-移动戏曲,http://jycb.f3322.net:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-文博,http://jycb.f3322.net:85/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-戏曲,http://jycb.f3322.net:85/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-功夫,http://jycb.f3322.net:85/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-百姓调解,http://jycb.f3322.net:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+动漫秀场,https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
 
 香港,#genre#
 翡翠台,http://r.jdshipin.com/qClQf
@@ -434,27 +429,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
 老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
 
-少儿动画,#genre#
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-猫和老鼠,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c52_lb_83_600_t10/c52_lb_83_600_t10.m3u8?key=0b292c335e5837e94e2f0ba45f46717fa
-童年经典,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_211_600_t10/c57_lb_211_600_t10.m3u8?key=0f2a06793124310bce6ba95fc0ac76131
-玩具乐园,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_175_600_t10/c54_lb_175_600_t10.m3u8?key=051d9240247766709d65dde3fcd5cd7bb
-怀旧动画,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c53_lb_86_600_t10/c53_lb_86_600_t10.m3u8?key=0b292c335e5837e943a226d3c381f872a
-巧虎,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_135_600_t10/c55_lb_135_600_t10.m3u8?key=0f2a06793124310bcefefdf4e48b17f9a
-宝宝课堂,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key=0b292c335e5837e94abaa8d3135e83ce3
-奥特曼,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_210_600_t10/c57_lb_210_600_t10.m3u8?key=0b292c335e5837e94abe4b846218bbc95
-名侦探柯南,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_157_600_t10/c54_lb_157_600_t10.m3u8?key=0b292c335e5837e948e91dd5d11efa525
-动画小天地,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c55_lb_139_600_t10/c55_lb_139_600_t10.m3u8?key=0f2a06793124310bc475d77d809f3ab51
-兔小贝尔歌,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_136_600_t10/c54_lb_136_600_t10.m3u8?key=0b292c335e5837e94ae056154862a578b
-儿童乐园,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_215_600_t10/c57_lb_215_600_t10.m3u8?key=0b292c335e5837e943410c2bfa7a7387e
-儿歌大全,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_242_600_t10/c57_lb_242_600_t10.m3u8?key=0f2a06793124310bc8499ebf63370c51a
-倒霉熊,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c54_lb_140_600_t10/c54_lb_140_600_t10.m3u8?key=0f2a06793124310bccc587b5da61b57da
-亲子小游戏,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c56_lb_178_600_t10/c56_lb_178_600_t10.m3u8?key=0b292c335e5837e94ffc1113a2140b54
-亲子启蒙,http://lvbaiducdncmn.inter.iqiyi.com/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key=0f2a06793124310bc21adebc9f02a9735
-熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
+
 
 直播中国,#genre#
 直播中国精编直播,http://gcksc.v.kcdnvip.com/gc/wgw05_1/index.m3u8
