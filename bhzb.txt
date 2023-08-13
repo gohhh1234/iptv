@@ -1,5 +1,5 @@
 🌙月光宝盒,#genre#
-凤凰中文台,http://113.117.74.47:8081/hls/37/index.m3u8
+凤凰中文台,mitv://generationnexxxt.com:19806/64c36a5f0004e71afd2c92c363640e6c
 凤凰资讯台,mitv://generationnexxxt.com:19806/c25ff00d1f62473190819062e87bb70d
 凤凰香港台,mitv://generationnexxxt.com:19806/eba2c91eb6c54e51b78036d9412a355c
 翡翠台,mitv://generationnexxxt.com:19806/6986050f9a7a48fc8df8e2637d10b610
@@ -709,23 +709,6 @@ Fashion4K,https://fash2043.cloudycdn.services/slive/ftv月光宝盒ftv月光宝�
 连续剧4K,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012月光宝盒1.m3u8
-🌈【SiTV】,#genre#
-五星体育,http://112.25.48.69/live/program/live/ssty/4000000/mnf.m3u8
-动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
-极品汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
-欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
-游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
-生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
-都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-幸福彩,http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8
-劲爆体育,http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
-魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
-金色频道,http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8
-七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
-东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
-靓妆,http://39.135.138.58:18890/PLTV/88888910/224/3221225509/index.m3u8?fmt=ts2hls
 🌈4K8K,#genre#
 CCTV4K超高清,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000266303.m3u8
 CCTV4K,http://lxajh.top/iptv/cctv.php?id=cctv4k
