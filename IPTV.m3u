@@ -25,8 +25,46 @@ https://live01.gohkh9.eu.org/live.php?id=DEWAN
 https://live01.gohkh9.eu.org/live.php?id=SUKAN
 #EXTINF:-1 group-title="马来西亚",DEWAN NEGARA
 https://live01.gohkh9.eu.org/live.php?id=DEWAN
-#EXTINF:-1 group-title="fm",goxuan
-https://astro3.rastream.com/astro-goxuan.web.hls/playlist.m3u8?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTIwMTI3NjAsImlhdCI6MTY5MTkyNjM2MCwib2lkIjoiZXJhLXlvdXR1YmUifQ.W6qJt5K1m21tvJsVWaQHupCPj_RpiLuS51fMHxdhuFI
+#EXTINF:-1 group-title="goxuan",goxuan
+https://astro3.rastream.com/astro-goxuan?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTIwMTI3NjAsImlhdCI6MTY5MTkyNjM2MCwib2lkIjoiZXJhLXlvdXR1YmUifQ.W6qJt5K1m21tvJsVWaQHupCPj_RpiLuS51fMHxdhuFI
+#EXTINF:-1 group-title="goxuan",goxuan-trending
+https://astro3.rastream.com/astro-goxuan-trending?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTIwMTI3NjAsImlhdCI6MTY5MTkyNjM2MCwib2lkIjoiZXJhLXlvdXR1YmUifQ.W6qJt5K1m21tvJsVWaQHupCPj_RpiLuS51fMHxdhuFI
+#EXTINF:-1 group-title="goxuan",goxuan-kpop
+https://astro1.rastream.com/astro-goxuan-kpop?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTIwMTI3NjAsImlhdCI6MTY5MTkyNjM2MCwib2lkIjoiZXJhLXlvdXR1YmUifQ.W6qJt5K1m21tvJsVWaQHupCPj_RpiLuS51fMHxdhuFI
+#EXTINF:-1 group-title="goxuan",goxuan-goemo
+https://astro1.rastream.com/astro-goxuan-goemo?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTIwMTI3NjAsImlhdCI6MTY5MTkyNjM2MCwib2lkIjoiZXJhLXlvdXR1YmUifQ.W6qJt5K1m21tvJsVWaQHupCPj_RpiLuS51fMHxdhuFI
+#EXTINF:-1 group-title="goxuan",goxuan-tiktok
+https://astro3.rastream.com/astro-goxuan-tiktok?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTIwMTI3NjAsImlhdCI6MTY5MTkyNjM2MCwib2lkIjoiZXJhLXlvdXR1YmUifQ.W6qJt5K1m21tvJsVWaQHupCPj_RpiLuS51fMHxdhuFI
+#EXTINF:-1 group-title="melody",melody
+https://astro3.rastream.com/melody
+#EXTINF:-1 group-title="melody",melody-love
+https://astro3.rastream.com/astro-melody-love?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTIwMTcwNTEsImlhdCI6MTY5MTkzMDY1MSwib2lkIjoiZXJhLXlvdXR1YmUifQ.K5IUNUFFrnNq_swp8tlUZnaqxfQTFtiIINxs7VShT4g
+#EXTINF:-1 group-title="melody",melody-90,
+https://astro3.rastream.com/astro-melody-90?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTIwMTg2NDcsImlhdCI6MTY5MTkzMjI0Nywib2lkIjoiZXJhLXlvdXR1YmUifQ.QXdh-rwQFFQRxP5GGyLAOMZYm_2FawYDSVyqv5_vPUs
+#EXTINF:-1 group-title="melody",melody-ost
+https://astro3.rastream.com/astro-melody-ost?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTIwMTcwNTEsImlhdCI6MTY5MTkzMDY1MSwib2lkIjoiZXJhLXlvdXR1YmUifQ.K5IUNUFFrnNq_swp8tlUZnaqxfQTFtiIINxs7VShT4g
+#EXTINF:-1 group-title="melody",melody-70
+https://audio1.syok.my/astro-melody-70?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTIwMTcwNTEsImlhdCI6MTY5MTkzMDY1MSwib2lkIjoiZXJhLXlvdXR1YmUifQ.K5IUNUFFrnNq_swp8tlUZnaqxfQTFtiIINxs7VShT4g
+#EXTINF:-1 group-title="melody",melody-80
+https://astro3.rastream.com/astro-melody-80?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTIwMTg2NDcsImlhdCI6MTY5MTkzMjI0Nywib2lkIjoiZXJhLXlvdXR1YmUifQ.QXdh-rwQFFQRxP5GGyLAOMZYm_2FawYDSVyqv5_vPUs
+#EXTINF:-1 group-title="my",myfm
+https://astro1.rastream.com/myfm
+#EXTINF:-1 group-title="my",myfm-kk
+https://astro1.rastream.com/amp-myfm-kk
+#EXTINF:-1 group-title="my",myfm-kch
+https://astro2.rastream.com/amp-myfm-kch
+#EXTINF:-1 group-title="my",my-upbeat
+https://astro2.rastream.com/astro-my-upbeat?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTIwMTI3NjAsImlhdCI6MTY5MTkyNjM2MCwib2lkIjoiZXJhLXlvdXR1YmUifQ.W6qJt5K1m21tvJsVWaQHupCPj_RpiLuS51fMHxdhuFI
+#EXTINF:-1 group-title="my",my-pop
+https://astro2.rastream.com/astro-my-pop?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTIwMTg2NDcsImlhdCI6MTY5MTkzMjI0Nywib2lkIjoiZXJhLXlvdXR1YmUifQ.QXdh-rwQFFQRxP5GGyLAOMZYm_2FawYDSVyqv5_vPUs
+#EXTINF:-1 group-title="my",my-rock
+https://astro3.rastream.com/astro-my-rock?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTIwMTkxNDMsImlhdCI6MTY5MTkzMjc0Mywib2lkIjoiZXJhLXlvdXR1YmUifQ.ZyPdIwbZJaYLk1Rpmk8m9FiyyDn109jNfbMO_wzspOY
+#EXTINF:-1 group-title="my",my-kara
+https://astro3.rastream.com/astro-my-kara?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTIwMTkxNDMsImlhdCI6MTY5MTkzMjc0Mywib2lkIjoiZXJhLXlvdXR1YmUifQ.ZyPdIwbZJaYLk1Rpmk8m9FiyyDn109jNfbMO_wzspOY
+#EXTINF:-1 group-title="my",my-positive
+https://astro3.rastream.com/astro-my-positive?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTIwMTk1MTQsImlhdCI6MTY5MTkzMzExNCwib2lkIjoiZXJhLXlvdXR1YmUifQ.b1O5MSHL0qzqLPvEDg06_iY-GIFxOQ3Ee2dZzzUTd-Y
+#EXTINF:-1 group-title="my",my-loveuu
+https://astro3.rastream.com/astro-my-loveuu?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTIwMTk1MTQsImlhdCI6MTY5MTkzMzExNCwib2lkIjoiZXJhLXlvdXR1YmUifQ.b1O5MSHL0qzqLPvEDg06_iY-GIFxOQ3Ee2dZzzUTd-Y
 #EXTINF:-1 tvg-chno="101" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM1.png" group-title="Family/Kids",RTM TV 1
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
