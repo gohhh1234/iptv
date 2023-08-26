@@ -25,46 +25,48 @@ https://live01.gohkh9.eu.org/live.php?id=DEWAN
 https://live01.gohkh9.eu.org/live.php?id=SUKAN
 #EXTINF:-1 group-title="马来西亚",DEWAN NEGARA
 https://live01.gohkh9.eu.org/live.php?id=DEWAN
-#EXTINF:-1 group-title="goxuan",goxuan
-https://astro3.rastream.com/astro-goxuan?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
-#EXTINF:-1 group-title="goxuan",goxuan-trending
-https://astro3.rastream.com/astro-goxuan-trending?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
-#EXTINF:-1 group-title="goxuan",goxuan-kpop
-https://astro1.rastream.com/astro-goxuan-kpop?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
-#EXTINF:-1 group-title="goxuan",goxuan-goemo
-https://astro1.rastream.com/astro-goxuan-goemo?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
-#EXTINF:-1 group-title="goxuan",goxuan-tiktok
-https://astro3.rastream.com/astro-goxuan-tiktok?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
-#EXTINF:-1 group-title="melody",melody
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/goxuan/updated/square_md.png" group-title="FM",goxuan
+https://astro3.rastream.com/astro-goxuan.iphone?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/goxuan_trending/square_md_2022.png" group-title="FM",goxuan-trending
+https://astro3.rastream.com/astro-goxuan-trending.iphone?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/goxuan_gokpop/owh_kpop/square_md.png" group-title="FM",goxuan-kpop
+https://astro1.rastream.com/astro-goxuan-kpop.iphone?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/goxuan-goemo/emo_so_what/square_md.png" group-title="FM",goxuan-goemo
+https://astro1.rastream.com/astro-goxuan-goemo.iphone?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/goxuan_tiktok/TIKTOK/square_md.png" group-title="FM",goxuan-tiktok
+https://astro3.rastream.com/astro-goxuan-tiktok.iphone?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/melody/square_md.jpg" group-title="FM",melody
 https://astro3.rastream.com/melody
-#EXTINF:-1 group-title="melody",melody-love
-https://astro3.rastream.com/astro-melody-love?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
-#EXTINF:-1 group-title="melody",melody-90,
-https://astro3.rastream.com/astro-melody-90?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
-#EXTINF:-1 group-title="melody",melody-ost
-https://astro3.rastream.com/astro-melody-ost?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
-#EXTINF:-1 group-title="melody",melody-70
-https://astro3.rastream.com/astro-melody-70?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
-#EXTINF:-1 group-title="melody",melody-80
-https://astro3.rastream.com/astro-melody-80?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
-#EXTINF:-1 group-title="my",myfm
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/melody-love/square_md.png" group-title="FM",melody-love
+https://astro3.rastream.com/astro-melody-love.iphone?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/melody-90/square_md.png" group-title="FM",melody-90,
+https://astro3.rastream.com/astro-melody-90.iphone?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/melody-ost/square_md.png" group-title="FM",melody-ost
+https://astro3.rastream.com/astro-melody-ost.iphone?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/melody-70/square_md.png" group-title="FM",melody-70
+https://astro3.rastream.com/astro-melody-70.iphone?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/melody-80/square_md.png" group-title="FM",melody-80
+https://astro3.rastream.com/astro-melody-80.iphone?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/my/square_md.jpg" group-title="FM",myfm
 https://astro1.rastream.com/myfm
-#EXTINF:-1 group-title="my",myfm-kk
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/my-sabah/square_md.jpg" group-title="FM",myfm-kk
 https://astro1.rastream.com/amp-myfm-kk
-#EXTINF:-1 group-title="my",myfm-kch
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/my-sarawak/square_md.jpg" group-title="FM",myfm-kch
 https://astro2.rastream.com/amp-myfm-kch
-#EXTINF:-1 group-title="my",my-upbeat
-https://astro2.rastream.com/astro-my-upbeat?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
-#EXTINF:-1 group-title="my",my-pop
-https://astro2.rastream.com/astro-my-pop?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
-#EXTINF:-1 group-title="my",my-rock
-https://astro3.rastream.com/astro-my-rock?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
-#EXTINF:-1 group-title="my",my-kara
-https://astro3.rastream.com/astro-my-kara?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
-#EXTINF:-1 group-title="my",my-positive
-https://astro3.rastream.com/astro-my-positive?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
-#EXTINF:-1 group-title="my",my-loveuu
-https://astro3.rastream.com/astro-my-loveuu?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/my-upbeat/square_md.png" group-title="FM",my-upbeat
+https://astro2.rastream.com/astro-my-upbeat.iphone?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/my-pop/square_md.png" group-title="FM",my-pop
+https://astro2.rastream.com/astro-my-pop.iphone?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/my-rock/square_md.png" group-title="FM",my-rock
+https://astro3.rastream.com/astro-my-rock.iphone?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/my-kara/square_md.png" group-title="FM",my-kara
+https://astro3.rastream.com/astro-my-kara.iphone?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/my-positive/square_md.png" group-title="FM",my-positive
+https://astro3.rastream.com/astro-my-positive.iphone?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/my-love/square_md.png" group-title="FM",my-loveuu
+https://astro3.rastream.com/astro-my-loveuu.iphone?authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTMxNDA0MDcsImlhdCI6MTY5MzA1NDAwNywib2lkIjoiZXJhLXlvdXR1YmUifQ.lZOKv_nB1nUprEzzEUO97VtkJzGkWcKQ1xp1bzslHeU
+#EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/afo-cn/square_lg.jpg" group-title="FM",afo-cn
+https:\\stream.rcs.revma.com\7x3gv2y4bshvv
 #EXTINF:-1 tvg-chno="101" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM1.png" group-title="Family/Kids",RTM TV 1
 #EXTVLCOPT:network-caching=1000
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
