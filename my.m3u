@@ -68,3 +68,17 @@ http://ingest2.astro4.rastream.com/astro-my-positive
 http://ingest2.astro4.rastream.com/astro-my-loveuu
 #EXTINF:-1 tvg-logo="https://media2.fishtank.my/stations/afo-cn/square_lg.jpg" group-title="FM",afo-cn
 https://stream.rcs.revma.com/7x3gv2y4bshvv
+#EXTINF:-1 tvg-logo="https://radio-online.my/storage/radios/8398/45324/conversions/10FgMaDBdb79yQJbu5wFdsXiJCLoTB-metaOTg4LnBuZw==--lg.webp" group-title="FM",FM988
+https://live02.gohkh9.eu.org/php/FM.php?ch=988
+#EXTINF:-1 tvg-logo="https://radio-online.my/storage/radios/8405/49150/conversions/qBUuUZGINcruPngAcqHGAxGAHCzxTb-metaYWlmbWxvZ28ucG5n--lg.webp" group-title="FM",AI FM
+https://live02.gohkh9.eu.org/php/FM.php?ch=AIFM
+#EXTINF:-1 tvg-logo="https://www.moneyfm893.sg/wp-content/assets/1/img/NAV_01_Logo_963.svg" group-title="FM",96.3FM
+https://live02.gohkh9.eu.org/php/FM.php?ch=96.3FM
+#EXTINF:-1 tvg-logo="https://radio-online.my/storage/radios/22691/63018/conversions/Xawwjx2VE6JRCVzyiqz1Qdph3vLD6m-metaODgzamlhLnBuZw==--lg.webp" group-title="FM",88.3JIA
+https://live02.gohkh9.eu.org/php/FM.php?ch=88.3JIA
+#EXTINF:-1 tvg-logo="https://radio-online.my/storage/radios/19705/62445/conversions/f1w4L32Kj8FX878KLQhWYaEiStXfE2-metaeWVzOTMzLnBuZw==--lg.webp" group-title="FM",Y.E.S 933
+https://live02.gohkh9.eu.org/php/FM.php?ch=Radio Y.E.S
+#EXTINF:-1 tvg-logo="https://radio-online.my/storage/radios/19793/62447/conversions/BBlOe6SqyHdkpZvFIARX2SUT20FykY-metabG92ZTk3Mi5wbmc=--lg.webp" group-title="FM",Love972
+https://live02.gohkh9.eu.org/php/FM.php?ch=Radio Love
+#EXTINF:-1 tvg-logo="https://radio-online.my/storage/radios/23829/65641/gZ7chElwmXn8MFN3VO7Os1mO8fJwKL-metadWZtMTAzLnBuZw==-.png" group-title="FM",UFM
+https://live02.gohkh9.eu.org/php/FM.php?ch=Radio UFM
