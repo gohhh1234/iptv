@@ -307,168 +307,86 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC
 #EXTINF:-1 tvg-chno="929" tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RadioIKIM.png" group-title="Radio",Radio IKIM
 #EXTVLCOPT:network-caching=1000
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZOT0lUZ2pmUmUxLXZfaUxUWThNeFBJSXBHei1faE1Bd2pLTVpacDZ1UlVxQ1ZDQTQyN1lSM0VUbU1VOU5vT1RUZ0ljbnFVV3VSUU4tbWIxZTBDZk56UkNIaU1xLUFDa2NQd0RDcm5Lc3hpREV5Y0hFV2RhTC1RUk5reW9yOGVNNTVEdmZaOEJGSTdoRms0dksyWXNTSEFiel9DNGZHWnhLU3AxVlNSRFpKUWZYRkQzbEZSSm94TDl2VE90eG9vV3ZqWUhiRV9feG5VQkxabmZpM3lLaU5PZFpXbUtSR18ySHRQcTVJNkk2WkQycEp2SXllSk5xWWF4Uzl5NXR6UXYyNXhkODNWM0lqNk4wS3lMSXBPbGNzSzdDX2NIUDRMdGNKcE1EeDdfNXJCMHlPajByS3lSM3lJQWVDTmJBNzNKaFpVWmdHN0l5d3YwTVV2X3k2enV6aUU9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDExNiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmTk9JVGdqZlJlMS12X2lMVFk4TXhQSUlwR3otX2hNQXdqS01aWnA2dVJVcUNWQ0E0MjdZUjNFVG1NVTlOb09UVGdJY25xVVd1UlFOLW1iMWUwQ2ZOelJDSGlNcS1BQ2tjUHdEQ3JuS3N4aURFeWNIRVdkYUwtUVJOa3lvcjhlTTU1RHZmWjhCRkk3aEZrNHZLMllzU0hBYnpfQzRmR1p4S1NwMVZTUkRaSlFmWEZEM2xGUkpveEw5dlRPdHhvb1d2allIYkVfX3huVUJMWm5maTN5S2lOT2RaV21LUkdfMkh0UHE1STZJNlpEMnBKdkl5ZUpOcVlheFM5eTV0elF2MjV4ZDgzVjNJajZOMEt5TElwT2xjc0s3Q19jSFA0THRjSnBNRHg3XzVyQjB5T2owckt5UjN5SUFlQ05iQTczSmhaVVpnRzdJeXd2ME1Vdl95Nnp1emlFPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=TLm9O1u%2f2LTmHtQyvZeBcXHvOMs%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZJN1JaWmFId0pRNE1aWWxmbkdyMWl4TjVZbWFvRWt3Y01FSGhQeWlCenBSVEhZa1ZLVGkzcFNBTVBYZ1lQN1FaTFZYN21LenM3LTNQblFmcE5iT2V6M0VGeGFyVjRlZDRuN2ZGR0Znb0diU3pPNUNzSXF1TWxqdlFWMzFmVEtFX2N5MVBseDhXVmt2ZEhRREpZcjFpNE0tNHlKQ3lDS2dQQlZjUDNjMUJvWlRWRHZyOUxtb0g2ZkZkQ1dwd19Ycll5dDl5Nnlwa1QtZEp4Y1RvdW1lcklMdVctSWd4cG1LWi01amNRSUJPUmdNaTh3c2pTSmhLQlItRlBNUnlMb1FfV2oxWEYxdlB5T2hoanp6clpRajVHWGMtM0pGSFdVRi1EMHB6X2JFZjRQS1pFQml3WWpYdF9lUTZVVks5OE50UGc9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMTYiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoNV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkk3UlpaYUh3SlE0TVpZbGZuR3IxaXhONVltYW9Fa3djTUVIaFB5aUJ6cFJUSFlrVktUaTNwU0FNUFhnWVA3UVpMVlg3bUt6czctM1BuUWZwTmJPZXozRUZ4YXJWNGVkNG43ZkZHRmdvR2JTek81Q3NJcXVNbGp2UVYzMWZUS0VfY3kxUGx4OFdWa3ZkSFFESllyMWk0TS00eUpDeUNLZ1BCVmNQM2MxQm9aVFZEdnI5TG1vSDZmRmRDV3B3X1hyWXl0OXk2eXBrVC1kSnhjVG91bWVySUx1Vy1JZ3hwbUtaLTVqY1FJQk9SZ01pOHdzalNKaEtCUi1GUE1SeUxvUV9XajFYRjF2UHlPaGhqenpyWlFqNUdYYy0zSkZIV1VGLUQwcHpfYkVmNFBLWkVCaXdZalh0X2VRNlVWSzk4TnRQZz09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=UhuKCt3bdThLI44cdSgzNgeoENY%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel 5" tvg-chno="Channel 5" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776036%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 5
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/316288/assetType/media/assetFileId/5754116/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMWnV3eVRPYUllUVJXS19kWjdUNGlJSmU2ZmxKTW1UOF9aNDRnNXBPSlcyS1VfaUhRLTRLeldBcEhFRFRIelJmRFBQcFhpUG05bzhqdE5ZeEhNa3R6c2Z2aDc4TGZUckFWRWVldlBuSV9wYW9OUXVPUUltZklNb1BsWVFUZFJmWUpiOVZUTU1QZ2wyenlBSjBNV25QUm4xWDVNM1pUR0RRV3c1bXEtTzBfY2wzMUl1LUljbk9KRUtHVjRJRWxpbWNCSkNnTHdPNHRaQXhKTTBaMUdpQUQzYzBSYzAxVWZUZ0lBalpoc0tlcjM0UW1JN1ZjbTZxNlJwcjFSYmZONU9ZSFBFYU5qQ183VFhaektmNlNMUmk1OXBCOWdCcFk3TGlrcnFYU3RRMFh3dEw2YUl0ckdsVFlQOVBlVllVbzNIdjdFdnNROEVXRjJDb2FxcVpONkJ0dXc9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEyNCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmTFp1d3lUT2FJZVFSV0tfZFo3VDRpSUplNmZsSk1tVDhfWjQ0ZzVwT0pXMktVX2lIUS00S3pXQXBIRURUSHpSZkRQUHBYaVBtOW84anROWXhITWt0enNmdmg3OExmVHJBVkVlZXZQbklfcGFvTlF1T1FJbWZJTW9QbFlRVGRSZllKYjlWVE1NUGdsMnp5QUowTVduUFJuMVg1TTNaVEdEUVd3NW1xLU8wX2NsMzFJdS1JY25PSkVLR1Y0SUVsaW1jQkpDZ0x3TzR0WkF4Sk0wWjFHaUFEM2MwUmMwMVVmVGdJQWpaaHNLZXIzNFFtSTdWY202cTZScHIxUmJmTjVPWUhQRWFOakNfN1RYWnpLZjZTTFJpNTlwQjlnQnBZN0xpa3JxWFN0UTBYd3RMNmFJdHJHbFRZUDlQZVZZVW8zSHY3RXZzUThFV0YyQ29hcXFaTjZCdHV3PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=RcDndvJl%2bSw%2bZztbCX%2bV5OA4Psc%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZLV1dDWGtvdG1fMVdrTkhLZWk2czBzYURkQUxVRFFQbXZ0enlvSFVCQVVUTXJkZm56QkdtOTdpalRka1FyRHA3UlJMVldNSXhWRkhxenNOZlZDSFFiQlBfQTZLb3VTQ3BnY0JLN1Z5dENPUWRncmpuQ2VMN2hFbktnbjI3a3YwNlQtVUVZd282MW5POUtQWG81S2xlUk5QSWFqLTVYVTY3LXdzbkxfUG1YZy10aHJBc1NuZlVkci13aWRnOGN6SWNpdERnU0dCazFrclJDN3hXWGkydFBsSzlsbk9kSHNjc2ZpZUgwRWhmTGJDcElRODBYZk9aaXQwRnFMQlhhcG9qeUtGMV94TVpGc3psazlnYjNsam1mM2ZFczJPTkVDcDNoZ3pSVy1wMzktMlhWUVZYcDJNOXQtWVBKeUphSWdIX3JLUE1aV2lrb0VKQ05jWGtJMGZBSjQ9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEyNCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmS1dXQ1hrb3RtXzFXa05IS2VpNnMwc2FEZEFMVURRUG12dHp5b0hVQkFVVE1yZGZuekJHbTk3aWpUZGtRckRwN1JSTFZXTUl4VkZIcXpzTmZWQ0hRYkJQX0E2S291U0NwZ2NCSzdWeXRDT1FkZ3JqbkNlTDdoRW5LZ24yN2t2MDZULVVFWXdvNjFuTzlLUFhvNUtsZVJOUElhai01WFU2Ny13c25MX1BtWGctdGhyQXNTbmZVZHItd2lkZzhjekljaXREZ1NHQmsxa3JSQzd4V1hpMnRQbEs5bG5PZEhzY3NmaWVIMEVoZkxiQ3BJUTgwWGZPWml0MEZxTEJYYXBvanlLRjFfeE1aRnN6bGs5Z2IzbGptZjNmRXMyT05FQ3AzaGd6UlctcDM5LTJYVlFWWHAyTTl0LVlQSnlKYUlnSF9yS1BNWldpa29FSkNOY1hrSTBmQUo0PSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=EJToIguCDzLgr49fkuefl%2bCgOUA%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel 8" tvg-chno="Channel 8" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776034%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=75&Height=101&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel 8 / 8 频道
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/260581/assetType/media/assetFileId/5754124/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZDRTQ3bkRqT0hjNWc1MVowRnRyZ3NBaG9CRWZNY1djaXJPN2s0N3AzYk4zR0J2NXFqZmZtV1F3YlVZSmVyNzBMVmlmTFNPdUE2T0Zyc1drQ2YxUHYtQjVwa1lVa1RkN1hnTm1JYnhfaHF6S3c4eEJzakZjUHE5Mks5WFc3X0Z6Q1p3NFFlSk5ZS1d3V24xdTh3N2dKTG83Si0zb21sb1ppd0tKM2w0N3VoN29kS2pWR3NhZzNpNi1IQUNPempnR25FTWlkU0Jhd1JIZ3FzTS1fdklzWU9IdThPRWFldm9zN1AtbEdyc1k5NllaRlktNWhnMmdVSjZRLWNDRzUtdkZCZW45TmUtd2xLeGFPc05tNU9ERzdZWl9YNUd1SjRCV3JlRUVzSGxlX2JQdFR4WVRUOUotMHNmcXIwMm92YUgxcHBaeUkyZldUQk41UlBNS1p0MHlQNmM9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE1NyIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmQ0U0N25Eak9IYzVnNTFaMEZ0cmdzQWhvQkVmTWNXY2lyTzdrNDdwM2JOM0dCdjVxamZmbVdRd2JVWUplcjcwTFZpZkxTT3VBNk9GcnNXa0NmMVB2LUI1cGtZVWtUZDdYZ05tSWJ4X2hxekt3OHhCc2pGY1BxOTJLOVhXN19GekNadzRRZUpOWUtXd1duMXU4dzdnSkxvN0otM29tbG9aaXdLSjNsNDd1aDdvZEtqVkdzYWczaTYtSEFDT3pqZ0duRU1pZFNCYXdSSGdxc00tX3ZJc1lPSHU4T0VhZXZvczdQLWxHcnNZOTZZWkZZLTVoZzJnVUo2US1jQ0c1LXZGQmVuOU5lLXdsS3hhT3NObTVPREc3WVpfWDVHdUo0QldyZUVFc0hsZV9iUHRUeFlUVDlKLTBzZnFyMDJvdmFIMXBwWnlJMmZXVEJONVJQTUtadDB5UDZjPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=tWDZA4S0TnZW1HkOybpehLaGiwI%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZPdVpaNkFyVDJ6T1FDWDMza0ZaOGExRmVpWFdVYjdVYnBnRXBnOUJrMHZBTGdqNHZzZFNzbUJMTDA2RXBsdnRGSk4zT3QyckYzQ0ltM2R2NllzTHJTbFZXQjVURlFVd1BlV293bWhxdkVtOWQ4MmRoSlRKVWNpUE5vLXBUeURuUmNkcjNCbmpGUjlwMlBzTFpTSFBrRmlzcW9keXg4UmQ4NUhuRUo0NG5fU2tGN3ZQM2tFTjU0aVdNSHU4XzBvVjFiTlRZNWdURmRPOGRDQU56UHJFNmVpQjBGWXBfTGJySEVVWXRrTmJ1Z1NUdFpLVlNvTURWa0dOMDY2cUV1Yzl3cjNQYi1SaVpUd0RWZVEwd0tsaGNUN2std1E2ejZLVFhYTlpBZ3dhUjJJNkU3aDVfM2JKanNBZWRhako2aHFFUlE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxNTciLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoVV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZk91Wlo2QXJUMnpPUUNYMzNrRlo4YTFGZWlYV1ViN1VicGdFcGc5QmswdkFMZ2o0dnNkU3NtQkxMMDZFcGx2dEZKTjNPdDJyRjNDSW0zZHY2WXNMclNsVldCNVRGUVV3UGVXb3dtaHF2RW05ZDgyZGhKVEpVY2lQTm8tcFR5RG5SY2RyM0JuakZSOXAyUHNMWlNIUGtGaXNxb2R5eDhSZDg1SG5FSjQ0bl9Ta0Y3dlAza0VONTRpV01IdThfMG9WMWJOVFk1Z1RGZE84ZENBTnpQckU2ZWlCMEZZcF9MYnJIRVVZdGtOYnVnU1R0WktWU29NRFZrR04wNjZxRXVjOXdyM1BiLVJpWlR3RFZlUTB3S2xoY1Q3ay13UTZ6NktUWFhOWkFnd2FSMkk2RTdoNV8zYkpqc0FlZGFqSjZocUVSUT09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=QRVQ5I4Ee5%2b6yy4LpIrxY5gU%2baE%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Channel U" tvg-chno="Channel U" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776040%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=114&Height=114&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Channel U / U 频道
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/330332/assetType/media/assetFileId/5754157/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZMMXF2LUFCeTZWZjFCQWVRa2VaeWh3elZ0dFdMdFNoSUNGYTAyVzVlXzEyLTZ3dkIyajlqUlk2SlM5NndnRHk0SEw2SERyNkhOd3J6a0QtVnQwV1R0R3p5VDI2Z3JNZ0EyVFplWGpPLVhCbEVldTdRcnR0azRBOFhKVDV1ZHlOSlVjeWFEcU03c3BUcExoQjV0UWtqY1ZpWlhKVWlnRTJhQnJZaXRhelYxdEJCbngxYUd1ak90amdJd2JpaUFtX254Z1dFZm5GUnFBbjNzcGt5ZU1sdFdKMzFFOFFyel8zdmR6MzBLV1VrU3ZNLXRTelJXak9Tek5ZTDZTMVpycFdzem1kU3AyVzNFd0VOS0NxSDktY1JGSWh1SVhiMXNlWmFIOFNLMkNyZ3BWbjhtM0ZUbk5BUUJzaTJVUXVreW1MT2tpVHdLSy1FTXB1bjF0d3JudGwxSGQwN0dXOFRQWHVEX3Q2bE80NkVJakcmY29udGV4dFR5cGU9bm9uZSZpZD01NzU0MTQ5IiwiYWNjb3VudF9pZCI6MjA4MjMxMSwiY29udGVudF9pZCI6ImZ0YV9jbmFTX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmTDFxdi1BQnk2VmYxQkFlUWtlWnlod3pWdHRXTHRTaElDRmEwMlc1ZV8xMi02d3ZCMmo5alJZNkpTOTZ3Z0R5NEhMNkhEcjZITndyemtELVZ0MFdUdEd6eVQyNmdyTWdBMlRaZVhqTy1YQmxFZXU3UXJ0dGs0QThYSlQ1dWR5TkpVY3lhRHFNN3NwVHBMaEI1dFFramNWaVpYSlVpZ0UyYUJyWWl0YXpWMXRCQm54MWFHdWpPdGpnSXdiaWlBbV9ueGdXRWZuRlJxQW4zc3BreWVNbHRXSjMxRThRcnpfM3ZkejMwS1dVa1N2TS10U3pSV2pPU3pOWUw2UzFacnBXc3ptZFNwMlczRXdFTktDcUg5LWNSRklodUlYYjFzZVphSDhTSzJDcmdwVm44bTNGVG5OQVFCc2kyVVF1a3ltTE9raVR3S0stRU1wdW4xdHdybnRsMUhkMDdHVzhUUFh1RF90NmxPNDZFSWpHIiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=CJYw0QR9G271iku%2fSx9Um2opSxw%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFMnlCQ2hEcXFCVXdVc2FlLUo1MGdzcUwyeTJrVFQzQVZXU3l6dmZNRUlxWFBUVHVTeFo2X21zbFlidVBEQXJVQnRiQkdNNXNTaHpXZ05RcXFvZDhjS1Q5clBtdHYxbjVvTEgwcXlDaXJ2WDVYMGRhMHl6dUhJRjdKbG5OWlNNQXJzc1Y3czMtLXZ2SV9OSURFMWpDWVZPR0RrenNxUjdwakRRMGFNS0J0dTJ0UWxQSFhjODBKd0lNR0JtTDVnVnB0Mmgyb2JUUHRPWXRMUC1EUmt2UGMxblhfTU9oXy1qeVhTOWR5Z3AxenlmTXc3bWU4X0lyeWFIbjhrbkZ6bkxDci1COFZYTDFtbTVkdE5GMnllSG80ejdQYnpMYVZwV1o1ZV9tS0gwVHdBdVZmbmpFWS00c2xEcllCMl9uRkxGM3VuYjI3LTlOeVY1cnpFQjl4V3VOQWM9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDE0OSIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfY25hU19kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkUyeUJDaERxcUJVd1VzYWUtSjUwZ3NxTDJ5MmtUVDNBVldTeXp2Zk1FSXFYUFRUdVN4WjZfbXNsWWJ1UERBclVCdGJCR001c1NoeldnTlFxcW9kOGNLVDlyUG10djFuNW9MSDBxeUNpcnZYNVgwZGEweXp1SElGN0psbk5aU01BcnNzVjdzMy0tdnZJX05JREUxakNZVk9HRGt6c3FSN3BqRFEwYU1LQnR1MnRRbFBIWGM4MEp3SU1HQm1MNWdWcHQyaDJvYlRQdE9ZdExQLURSa3ZQYzFuWF9NT2hfLWp5WFM5ZHlncDF6eWZNdzdtZThfSXJ5YUhuOGtuRnpuTENyLUI4VlhMMW1tNWR0TkYyeWVIbzR6N1BiekxhVnBXWjVlX21LSDBUd0F1VmZuakVZLTRzbERyWUIyX25GTEYzdW5iMjctOU55VjVyekVCOXhXdU5BYz0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=08V6fyGZatWAdczC1lqjY%2f3XONw%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776042%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=78&Height=96&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",CNA
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/197985/assetType/media/assetFileId/5754149/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFbWhvM3Y1RnJDdF9QRlRIVEJmYTdoLTJ5VlV5c3ZDcTBPNV9mM1dHc1VnaVBsalZmM3ZadExrOGpFMmt1cHV2YkdEWUcxT2xRODZjRXhEako0MzZURXl1S2RkeEk3d0VsaXA5Q29JeDBkeGdLVjkta0FPR21XWTZwZi1JbGdZZUxGeXZkc2d0dkhuT0NDS2F2UDNqWHZQamNyaFlvdUJEc1NCeWxYVlJ2Nk94M1BwZGNxbk1kZXlMUG9oRW5zRWlFYmo4UU5EenZnLUxhVWlPZHdQLXN4akd1X3ZuQk1WSGRRbk5xOURwcHZ5VTVieGxvMXNGTWt1THN1Zmg1Wmh3SWc5Wk9PX0JrQTNQY0NRSEk2XzJFeExLVElCLUJUaXR2T3pqUDVnQnBtY1dmMUwzSmxuWlNDT0R4WjJleU4xM3ppZ284T0hFXzlWalpnMFItMVZuMG89JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZFbWhvM3Y1RnJDdF9QRlRIVEJmYTdoLTJ5VlV5c3ZDcTBPNV9mM1dHc1VnaVBsalZmM3ZadExrOGpFMmt1cHV2YkdEWUcxT2xRODZjRXhEako0MzZURXl1S2RkeEk3d0VsaXA5Q29JeDBkeGdLVjkta0FPR21XWTZwZi1JbGdZZUxGeXZkc2d0dkhuT0NDS2F2UDNqWHZQamNyaFlvdUJEc1NCeWxYVlJ2Nk94M1BwZGNxbk1kZXlMUG9oRW5zRWlFYmo4UU5EenZnLUxhVWlPZHdQLXN4akd1X3ZuQk1WSGRRbk5xOURwcHZ5VTVieGxvMXNGTWt1THN1Zmg1Wmh3SWc5Wk9PX0JrQTNQY0NRSEk2XzJFeExLVElCLUJUaXR2T3pqUDVnQnBtY1dmMUwzSmxuWlNDT0R4WjJleU4xM3ppZ284T0hFXzlWalpnMFItMVZuMG89IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=dV3F0y8x%2fdmGRm57AtfvcXxhKhU%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZJYmZ2QUV5Tm1lRmlmY2xzckMxcXA1VV9ybjlZY3ZDaFJ5eDVvV1Nubk5rZS02eUV2X2RwR0V5VTFNQTY1VjRFY2prQi05QVU5Z0NHVmVWMEZ6cEN1N0VTWmN0NXE5QlVsQWt3WUNqeHFsdlRRVlBsQ29tN2NJRDdQR2JVVS1sRUh6OEFubjQwVkZVX09XdDdWRlJkbHJ6dnBBWXdWazliUUMyVnZoWTlGeXJhU1BzR3FPejhrQkdTbVhWRHlyZ09oWWRWQUdRR09nVEV6NmY0TWctT0h3cmFPVGFLeTJxLWRfa3lRY09kallUNWhRRTNLRm84SXRWc2tMblBEeWJEbjhSM0xKQXlnXzlNT1hpdHJpczR6cWI4YkJTd3B6OXpDMTZsTHp0V1VmejRSOXJKc3FBNTFzZ0twS1pGbUhyZ2ZjMUxYWGYwTDZVclI1SGdjbV9xamc9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDA2NiIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF90dl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZJYmZ2QUV5Tm1lRmlmY2xzckMxcXA1VV9ybjlZY3ZDaFJ5eDVvV1Nubk5rZS02eUV2X2RwR0V5VTFNQTY1VjRFY2prQi05QVU5Z0NHVmVWMEZ6cEN1N0VTWmN0NXE5QlVsQWt3WUNqeHFsdlRRVlBsQ29tN2NJRDdQR2JVVS1sRUh6OEFubjQwVkZVX09XdDdWRlJkbHJ6dnBBWXdWazliUUMyVnZoWTlGeXJhU1BzR3FPejhrQkdTbVhWRHlyZ09oWWRWQUdRR09nVEV6NmY0TWctT0h3cmFPVGFLeTJxLWRfa3lRY09kallUNWhRRTNLRm84SXRWc2tMblBEeWJEbjhSM0xKQXlnXzlNT1hpdHJpczR6cWI4YkJTd3B6OXpDMTZsTHp0V1VmejRSOXJKc3FBNTFzZ0twS1pGbUhyZ2ZjMUxYWGYwTDZVclI1SGdjbV9xamc9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=T1bO5c5S7hsHa23JfDAnw2CS4ME%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271375229%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=300&Height=300&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Suria
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237652/assetType/media/assetFileId/5754066/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZBZktpTzlLanNha2xuMmJjWlcxcHZhaXgzMDBJeHR3UThKRUtPdHkwSk1UclFHWnNxcXZkUUxVZ0VRcjYtcXJWQTVyaGpPVHhwT3VPMEpoTFNvSkd0MkxBZXlxUmtrdTdjSXNIZDNNV29VeE92czZ0YzNWN19TcEs0bDhvWmZqcVdCNUp6MkNLNDA0UDJJN29DQWhNZnBiNmcxOS1TMUZ1dktGOGZRekJBZjZTSnp2RGVmSFlHclR6cUpZLUVkRDRfeXYtNkVGaXVhUzRZeC1PM05veFVTVXQzM05BanAyZHJzVlc0UWY3bzNmQkFHWXJxdHpKNlp3Y2Zldks1QU0tOXZwU1cybkV2ekUyMmlrUFIxTjFBQkxLWnc0LU1PRXMzRFRXa24xOXlJMmtOdmZMSHNyQnNPSUtRYUY0WWp4UFE9PSZjb250ZXh0VHlwZT1ub25lJmlkPTU3NTQxMDgiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX3Zhc2FudGhhbV9kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkFmS2lPOUtqc2FrbG4yYmNaVzFwdmFpeDMwMEl4dHdROEpFS090eTBKTVRyUUdac3FxdmRRTFVnRVFyNi1xclZBNXJoak9UeHBPdU8wSmhMU29KR3QyTEFleXFSa2t1N2NJc0hkM01Xb1V4T3ZzNnRjM1Y3X1NwSzRsOG9aZmpxV0I1SnoyQ0s0MDRQMkk3b0NBaE1mcGI2ZzE5LVMxRnV2S0Y4ZlF6QkFmNlNKenZEZWZIWUdyVHpxSlktRWRENF95di02RUZpdWFTNFl4LU8zTm94VVNVdDMzTkFqcDJkcnNWVzRRZjdvM2ZCQUdZcnF0eko2WndjZmV2SzVBTS05dnBTVzJuRXZ6RTIyaWtQUjFOMUFCTEtadzQtTU9FczNEVFdrbjE5eUkya052ZkxIc3JCc09JS1FhRjRZanhQUT09IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=Y24dYagZ%2bxu5gff5w08s9ROok3c%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZBQzZFdmppZ3VLTHoybElxZC1BYzBzSTlIbnY2V2Q2Z2c5RVhTWTZBSFZfQ3hBOU1Vd29qbkZHUDZIQnZXbFNhaWxNV2FodDl2T3VZcWZCNUVlUzJ4blI1QXZ5V3V6OExtZ0tpRGZhZVlMd0g0WFRaZFFuZXVLMzFsY2xwMWtfNUxTMWVnZ0lkSUUtXzVUeHVtMk5Ub2xzUDJVajU4dTJpelRQVW9sR2lqX0NkdExLRjFjc0ZOQTllVk95VWVrdkZRV2ZmNDlYMVNpaVdHM3hjbTA2Rjg3eGl4Z2wxdWt4cWtVSDJVYzRkelFQcTM3RXpsOEtwdW5JM0VJMFdKX05Hc0xHR1VpOXFEUHJGQWpNaXFodTY4VnE3WEE3TUloMHVhb1lGYU5mUzROWVM3M2dmcWtTWW1NN0UwUjAxSlUzalp5dlRKZy0zVmc0d3hidnhtUXdvS0k9JmNvbnRleHRUeXBlPW5vbmUmaWQ9NTc1NDEwOCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJmdGFfdmFzYW50aGFtX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmQUM2RXZqaWd1S0x6MmxJcWQtQWMwc0k5SG52NldkNmdnOUVYU1k2QUhWX0N4QTlNVXdvam5GR1A2SEJ2V2xTYWlsTVdhaHQ5dk91WXFmQjVFZVMyeG5SNUF2eVd1ejhMbWdLaURmYWVZTHdINFhUWmRRbmV1SzMxbGNscDFrXzVMUzFlZ2dJZElFLV81VHh1bTJOVG9sc1AyVWo1OHUyaXpUUFVvbEdpal9DZHRMS0YxY3NGTkE5ZVZPeVVla3ZGUVdmZjQ5WDFTaWlXRzN4Y20wNkY4N3hpeGdsMXVreHFrVUgyVWM0ZHpRUHEzN0V6bDhLcHVuSTNFSTBXSl9OR3NMR0dVaTlxRFByRkFqTWlxaHU2OFZxN1hBN01JaDB1YW9ZRmFOZlM0TllTNzNnZnFrU1ltTTdFMFIwMUpVM2paeXZUSmctM1ZnNHd4YnZ4bVF3b0tJPSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjE0N30%3d&signature=46Z2VSvcpvVWBLk7HhgJHUC%2fcN4%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format=%27png%27&Quality=85&ImageId=%271776032%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=129&Height=63&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",Vasantham
 https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/partnerId/147/assetId/237653/assetType/media/assetFileId/5754108/contextType/PLAYBACK/isAltUrl/False/a.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZIMEFEQmpzZkY2WFpxTFg3WUo2NmstY3N0bW1TZ3dqQVIyb0dfVkdhRy1TSkNocndZaU1ONkZRWmdRZEV0WlhIWEVyeUh2THpDaU9mOF8ybFBFclhHeEUzMHZUWjFtSmIzNjVGMHhJOEM2ekZJbDhRenFqN2tKdHRTZVg1MDJub2gteExvRW1CWlVVNnlZOGpBSzlsWk44b3ZIT19MRjVZMHJoc1ExSlJvODNlTlFaOHUxOG5hYnBoNHJ5Q254c1ZOV0daVkt6OE5uMUpZMXQ5WkJGMkdrOTlfZWhfUWt6QjdFU1BGNU14LWswU3Z6dU9KMFJsdm1pZHBEM3dxQXhTSmhvMjdHNzVmVFZOeXE1QlFLQ19CeHAyMG1ESGJfZUFEcklYY2lxd1c1WnNfSUg2YmRmdnUtWndoYXFhcjNUYmVpdEVoVmZWV2JrUzFWYnZMRzExOW89JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTIzNjYzMjAiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiYWRob2Nfb2t0b2xpZGF5c19kYXNoX3R2X2RybSIsImZpbGVzIjoiIiwidXNlcl90b2tlbiI6ImRqSjhNVFEzZkgwQURCanNmRjZYWnFMWDdZSjY2ay1jc3RtbVNnd2pBUjJvR19WR2FHLVNKQ2hyd1lpTU42RlFaZ1FkRXRaWEhYRXJ5SHZMekNpT2Y4XzJsUEVyWEd4RTMwdlRaMW1KYjM2NUYweEk4QzZ6RklsOFF6cWo3a0p0dFNlWDUwMm5vaC14TG9FbUJaVVU2eVk4akFLOWxaTjhvdkhPX0xGNVkwcmhzUTFKUm84M2VOUVo4dTE4bmFicGg0cnlDbnhzVk5XR1pWS3o4Tm4xSlkxdDlaQkYyR2s5OV9laF9Ra3pCN0VTUEY1TXgtazBTdnp1T0owUmx2bWlkcEQzd3FBeFNKaG8yN0c3NWZUVk55cTVCUUtDX0J4cDIwbURIYl9lQURySVhjaXF3VzVac19JSDZiZGZ2dS1ad2hhcWFyM1RiZWl0RWhWZlZXYmtTMVZidkxHMTE5bz0iLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjoxNDd9&signature=RK7krbgMRRxsskH2LSTa%2bcOUFq8%3d
+#KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZFR2p3bkFyTEV1a2xYNU5Cdm9JaE11ekRMVG9jaTRiOE1lMzliRjZVU2swbF9Jc1h3ckFzZ0ZpMENBcFNhRnBRb19vOEdHUmJwdVNVM192NjlnXzRvVkwxTVdFTFhvc3FvSGlUb0dYUzJZMHV1MDJBSG83dV9sZWwxYTdZQWxERFE2ZXozTkNraEZSOWROMXBHLXRhazIzYjJSaHlkWHp3aFc0UW9NY2Z6NjZJOENTZ1FTbHFybEgxUk9zM01iVHFnZWxDa1FyNkhVWV9ocFdhcHhQQ3U3Vnc3aFhnZkJLSDBaWUpkQURMMkdkOVVrT2pQcGh2NzV6NWhfdC1hM2tua0dmdmY4NTZXd3JkaXZrTmlSS25rN05zdTByMW8wZllCdGYzem5ZRmRDZUlxYVdMaWRmYzc2UVNQYWplSm85Q3BjNFlNT1VsalladXBSYVg5OFFRV2ViQjZva1lMb1FfX01QQ1J0cC1zamImY29udGV4dFR5cGU9bm9uZSZpZD0xMjM2NjMyMCIsImFjY291bnRfaWQiOjIwODIzMTEsImNvbnRlbnRfaWQiOiJhZGhvY19va3RvbGlkYXlzX2Rhc2hfdHZfZHJtIiwiZmlsZXMiOiIiLCJ1c2VyX3Rva2VuIjoiZGpKOE1UUTNmRUdqd25BckxFdWtsWDVOQnZvSWhNdXpETFRvY2k0YjhNZTM5YkY2VVNrMGxfSXNYd3JBc2dGaTBDQXBTYUZwUW9fbzhHR1JicHVTVTNfdjY5Z180b1ZMMU1XRUxYb3Nxb0hpVG9HWFMyWTB1dTAyQUhvN3VfbGVsMWE3WUFsRERRNmV6M05Da2hGUjlkTjFwRy10YWsyM2IyUmh5ZFh6d2hXNFFvTWNmejY2SThDU2dRU2xxcmxIMVJPczNNYlRxZ2VsQ2tRcjZIVVlfaHBXYXB4UEN1N1Z3N2hYZ2ZCS0gwWllKZEFETDJHZDlVa09qUHBodjc1ejVoX3QtYTNrbmtHZnZmODU2V3dyZGl2a05pUktuazdOc3UwcjFvMGZZQnRmM3puWUZkQ2VJcWFXTGlkZmM3NlFTUGFqZUpvOUNwYzRZTU9VbGpZWnVwUmFYOThRUVdlYkI2b2tZTG9RX19NUENSdHAtc2piIiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=MIDpvE3bdJU06TTnW96MzKDlC4k%3d
 #EXTINF:-1 group-title="Mediacorp SG" tvg-id="oktolidays.sg" tvg-chno="oktolidays.sg" tvg-logo="https://production.togglestatic.com/shain/v1/dataservice/ResizeImage/%24value?Format='png'&Quality=85&ImageId='4132072'&EntityType='Item'&EntityId='258705'&Width=237&Height=237&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",Oktolidays
-#EXTINF:-1 group-title="TW" tvg-id="AsiaTravelTV.tw",Asia Travel (720p)
-http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?ct=19225&tid=MF2F4967516549675165&tsum=3b56404a8f861c7fef6ac79a798e4a8c
 #EXTINF:-1 group-title="TW" tvg-id="BeautifulLifeTV.tw",Beautiful Life TV
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="CartoonNetworkTaiwan.tw",Cartoon Network Taiwan (CN卡通频道) (720p)
-http://50.7.220.74:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
-#EXTINF:-1 group-title="TW" tvg-id="CTiAsia.tw",CTi Asia (中天亞洲台) (720p)
-http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?ct=19226&tid=MC3C8838319088383190&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
-#EXTINF:-1 group-title="TW" tvg-id="CTiEntertainment.tw",CTi Entertainment (中天娛樂台) (720p)
-http://50.7.220.74:8278/ctient/playlist.m3u8?ct=17874&tid=m6780c60bd34a13540795&tsum=06089e289a460b0685447b7656d550e3
 #EXTINF:-1 group-title="TW" tvg-id="CTiNews.tw",CTi News (中天新聞台)
 https://ythls.onrender.com/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
 #EXTINF:-1 group-title="TW" tvg-id="CTiVariety.tw",CTi Variety (中天綜合台) (720p)
 http://23.237.10.66:16372
-#EXTINF:-1 group-title="TW" tvg-id="CTiVariety.tw",CTi Variety (中天綜合台) (720p)
-http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b741f290b2
-#EXTINF:-1 group-title="TW" tvg-id="CTS.tw",CTS HD (華視) (720p)
-http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
 #EXTINF:-1 group-title="TW" tvg-id="CTSNews.tw",CTS News (華視新聞資訊) [Geo-blocked]
 http://seb.sason.top/sc/hsxw_fhd.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="CTV.tw",CTV (CTV中視) (720p)
-http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
-#EXTINF:-1 group-title="TW" tvg-id="CTVClassic.tw",CTV Classic (中視經典台) (720p)
-http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?ct=18335&tid=mffe9aaf8765f&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 #EXTINF:-1 group-title="TW" tvg-id="DaAi1.tw",DaAi1 (大愛1) (720p)
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="TW" tvg-id="DaAi2.tw",DaAi2 (大愛2) (720p)
 https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 #EXTINF:-1 group-title="TW" tvg-id="DaliTV.tw",Dali TV (大立電視台) (720p)
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="EBCDrama.tw",EBC Drama (東森戏剧台) (720p)
-http://198.16.64.10:8278/ettvdrama/playlist.m3u8?ct=19225&tid=ME1E3883142638831426&tsum=12c87a5fab65a0ba071cebce86313f45
-#EXTINF:-1 group-title="TW" tvg-id="EBCFinancialNews.tw",EBC Financial News (東森財經新聞台) (720p)
-http://50.7.220.74:8278/ettvcaijing_twn/playlist.m3u8?ct=17874&tid=m999b5a0f7fca17599138&tsum=345085d2d6d4401fdb3da968dfee5a54
 #EXTINF:-1 group-title="TW" tvg-id="EBCFinancialNews.tw",EBC Financial News (東森財經新聞台) (1080p) [Not 24/7]
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="EBCForeignMovie.tw",EBC Foreign Movie (東森洋片台) (720p)
-http://50.7.220.74:8278/ettvwestern/playlist.m3u8?ct=17874&tid=mfdfc048e6c2416337202&tsum=cad39b26202d525ea820bee1d69e545f
-#EXTINF:-1 group-title="TW" tvg-id="EBCMovie.tw",EBC Movie (東森電影台) (720p)
-http://50.7.220.74:8278/ettvmovie/playlist.m3u8?ct=19225&tid=MDED1943740419437404&tsum=120834a4218c4b5c3bb19efb8116f859
 #EXTINF:-1 group-title="TW" tvg-id="EBCNews.tw",EBC News (東森新聞台) (1080p) [Not 24/7]
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="EBCSuper.tw",EBC Super (東森超視台) (720p)
-http://198.16.64.10:8278/ettvsuper/playlist.m3u8?ct=19225&tid=MA4A3005409230054092&tsum=c5d89f66fa1a8bcd26f482d4a370def5
-#EXTINF:-1 group-title="TW" tvg-id="EBCVariety.tw",EBC Variety (東森綜合台) (720p)
-http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?ct=17874&tid=m65c4e525f24617101171&tsum=663db593cfeefc92ce4b5d7461988f3f
-#EXTINF:-1 group-title="TW" tvg-id="EBCYOYO.tw",EBC Yoyo (東森幼幼台) (720p)
-http://50.7.220.74:8278/yoyo_twn/playlist.m3u8?ct=17874&tid=m84c9b210bc7f11269156&tsum=51340c8fb7ca02ab978ee0791843501d
 #EXTINF:-1 group-title="TW" tvg-id="EBCYOYO.tw",EBC Yoyo (東森幼幼台)
 https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ebcyoyo.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="EraNews.tw",Era News (年代新聞台) (720p)
-http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
-#EXTINF:-1 group-title="TW" tvg-id="ETTVNews.tw",ETTV News (720p)
-http://50.7.220.74:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
-#EXTINF:-1 group-title="TW" tvg-id="FTV.tw",FTV (民視) (720p)
-http://50.7.220.74:8278/ftvhd_taiwan/playlist.m3u8?ct=18335&tid=m15b424641a89&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
 #EXTINF:-1 group-title="TW" tvg-id="FTV.tw",FTV (民視) (720p) [Not 24/7]
 http://seb.sason.top/ptv/ftv.php?id=ms
-#EXTINF:-1 group-title="TW" tvg-id="FTVNews.tw",FTV News (民視新聞台) (720p)
-http://198.16.64.10:8278/ftvnew_taiwan/playlist.m3u8?ct=19226&tid=ME4E4172771041727710&tsum=7b91c7af6212419479b392ff575e0689
 #EXTINF:-1 group-title="TW" tvg-id="FTVNews.tw",FTV News (民視新聞台)
 https://ythls.onrender.com/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 #EXTINF:-1 group-title="TW" tvg-id="FTVOne.tw",FTV One (民視第一台) (720p) [Not 24/7]
 http://seb.sason.top/ptv/ftv.php?id=dy
-#EXTINF:-1 group-title="TW" tvg-id="FTVTaiwan.tw",FTV Taiwan (民視台灣台) (720p)
-http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?ct=19226&tid=MDFD8196635981966359&tsum=b82639ac8b4590b4206effe348e2f9c2
 #EXTINF:-1 group-title="TW" tvg-id="FTVTaiwan.tw",FTV Taiwan (民視台灣台) (720p) [Not 24/7]
 http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:-1 group-title="TW" tvg-id="GlobalNews.tw",Global News
 http://ythls.onrender.com/channel/UCp2f7tGJGN6R9Muxipem8Nw.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="Good2.tw",Good2 (好消息2台) (720p)
-http://198.16.64.10:8278/good2_twn/playlist.m3u8?ct=19225&tid=ME9E3966510439665104&tsum=a2788b2ccea04a8a8082d663fb7838e5
 #EXTINF:-1 group-title="TW" tvg-id="Good2.tw",GOOD TV CH2 真理台 (720p)
 https://live.streamingfast.net/osmflivech2.m3u8
 #EXTINF:-1 group-title="TW" tvg-id="GoodTV.tw",GOOD TV CH1 綜合台 (720p) [Not 24/7]
 https://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="GTV1.tw",GTV1 (八大第1台) (720p)
-http://50.7.220.74:8278/badafirst/playlist.m3u8?ct=17874&tid=mb8efded78b4e12042621&tsum=028ad819cd9a0f949a043d652fa3e164
-#EXTINF:-1 group-title="TW" tvg-id="GTVDrama.tw",GTV Drama (八大戏剧台) (720p)
-http://50.7.220.74:8278/badadrama/playlist.m3u8?ct=19225&tid=ME4E4734124647341246&tsum=c4e596572a79ad99675ee2137d1cc43d
-#EXTINF:-1 group-title="TW" tvg-id="GTVEntertainment.tw",GTV Entertainment (八大综合台) (720p)
-http://50.7.220.74:8278/badazhonghe/playlist.m3u8?ct=19225&tid=MC7C4692263546922635&tsum=ffdc7a6397b511103e0df0b92e678790
-#EXTINF:-1 group-title="TW" tvg-id="HBOTaiwan.tw",HBO HD Taiwan (720p)
-http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?ct=19225&tid=ME9E5260921952609219&tsum=a904cd480db106670befb11d14149fce
-#EXTINF:-1 group-title="TW" tvg-id="HollywoodMovieChannel.tw",Hollywood (720p)
-http://50.7.220.74:8278/hollywoodmovies_twn/playlist.m3u8?ct=19225&tid=MECE5611281156112811&tsum=ad8884ee16b04f885f24bae98fc5fb9f
 #EXTINF:-1 group-title="TW" tvg-id="IndigenousTV.tw",Indigenous TV (720p)
 http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="LSTimeMovie.tw",LS Time Movie (720p)
-http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?ct=18335&tid=md05ab4002297&tsum=ebe4254ee0e073c2d3c9789e679c00a5
-#EXTINF:-1 group-title="TW" tvg-id="LTVDrama.tw",LTV Drama (龙华戏剧) (720p)
-http://198.16.64.10:8278/lunghuaxiju_twn/playlist.m3u8?ct=19226&tid=MBAB4709384347093843&tsum=a2a7258f8565588e10b8da2f26ba8039
-#EXTINF:-1 group-title="TW" tvg-id="NationalGeographicTaiwan.tw",National Geographic HD (720p)
-http://50.7.220.74:8278/natgeohd_twn/playlist.m3u8?ct=17874&tid=ma1f0b9808d5014467661&tsum=73dfb91284f5b1358251546e6f03da3d
-#EXTINF:-1 group-title="TW" tvg-id="PTS.tw",PTS (公视) (720p)
-http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
 #EXTINF:-1 group-title="TW" tvg-id="SETiNews.tw",SET iNews
 https://ythls.onrender.com/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="SETNews.tw",SET News (三立新聞) (720p)
-http://50.7.220.74:8278/sanlixiju_twn/playlist.m3u8?ct=19226&tid=MBDB8405357084053570&tsum=78944c0951d21a699e46fff4318a3799
 #EXTINF:-1 group-title="TW" tvg-id="SETNews.tw",SET News (三立新聞) (1080p) [Geo-blocked]
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="SETTaiwan.tw",SET Taiwan (三立臺灣台) (720p)
-http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?ct=17874&tid=m92ccadc4dc3718157816&tsum=3570a8198ca0fb7ebb803807e38b33fb
-#EXTINF:-1 group-title="TW" tvg-id="SportcastGolf2.tw",Sportcast Golf 2 (博斯高球2) (720p)
-http://198.16.64.10:8278/bosigolf2_twn/playlist.m3u8?ct=19225&tid=MF5F9848925298489252&tsum=2600464749aadbcd55d1c32ec071e36e
 #EXTINF:-1 group-title="TW" tvg-id="TaiwanIndigenousTV.tw",Taiwan Indigenous TV (原住民電視) (720p)
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 #EXTINF:-1 group-title="TW" tvg-id="TaiwanPlusTV.tw",Taiwan Plus (1080p)
 https://ythls.onrender.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="TTV.tw",TTV (台视) (720p)
-http://50.7.220.74:8278/ttv_taiwan/playlist.m3u8?ct=17874&tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970
 #EXTINF:-1 group-title="TW" tvg-id="TTVNews.tw",TTV News (台视新聞台)
 https://ythls.onrender.com/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="TVBS.tw",TVBS HD (720p)
-http://50.7.220.74:8278/tvbs/playlist.m3u8?ct=19226&tid=MDED5111960351119603&tsum=49931e2d3885c468d56ffae2c2db9e6e
 #EXTINF:-1 group-title="TW" tvg-id="TVBSAsia.tw",TVBS Asia (1080p)
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="TVBSEntertainmentChannel.tw",TVBS Entertainment Channel (TVBS歡樂台) (720p)
-http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
-#EXTINF:-1 group-title="TW" tvg-id="TVBSNews.tw",TVBS News (TVBS新聞台) (720p)
-http://50.7.220.74:8278/tvbs_n/playlist.m3u8?ct=19226&tid=MEFE5283322452833224&tsum=5f4e9bb0782ab3aae36328763cba2ffd
 #EXTINF:-1 group-title="TW" tvg-id="TVBSNews.tw",TVBS News (TVBS新聞台) [Geo-blocked]
 http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 #EXTINF:-1 group-title="TW" tvg-id="TVBSNews.tw",TVBS News (TVBS新聞台)
 https://ythls.onrender.com/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="UniqueSatelliteTV.tw",Unique Satellite TV (非凡新聞台) (720p)
-http://50.7.220.74:8278/feifannews_twn/playlist.m3u8?ct=17874&tid=m050e7aad65f614336734&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-#EXTINF:-1 group-title="TW" tvg-id="VideolandMovie.tw",Videoland Movie (緯來電影台) (720p)
-http://50.7.220.74:8278/videolandmovie/playlist.m3u8?ct=18335&tid=ma2dac66da407&tsum=9a5a39559f64a71081ef9b3a85f2886c
-#EXTINF:-1 group-title="TW" tvg-id="VideolandSports.tw",Videoland Sports (720p)
-http://50.7.220.74:8278/videolandsport/playlist.m3u8?ct=19226&tid=MA6A1192684511926845&tsum=0b7ca9a61e7371df68108a27dc358c68
 #EXTINF:-1 group-title="TW" tvg-id="WXTV.tw",唯心電視 (480p)
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="",Cinemax Taiwan (720p)
-http://50.7.220.74:8278/cinemax_twn/playlist.m3u8?ct=17874&tid=mf18038aaba6311485855&tsum=63ee6bcdb705ee72ea3d0f0d84ed6df1
 #EXTINF:-1 group-title="TW" tvg-id="",GOOD TV CH3 真情部落格 短版 (720p)
 https://live.streamingfast.net/osmflivech3.m3u8
 #EXTINF:-1 group-title="TW" tvg-id="",GOOD TV CH5 共享觀點 短版 (720p) [Not 24/7]
@@ -523,14 +441,8 @@ https://live.streamingfast.net/osmflivech47.m3u8
 https://live.streamingfast.net/osmflivech49.m3u8
 #EXTINF:-1 group-title="TW" tvg-id="",GOOD TV CH50 國際講員 中文發音 (720p) [Not 24/7]
 https://live.streamingfast.net/osmflivech50.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="",KLT Golden TV International (KLT靖天国际台) (720p)
-http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8?ct=19226&tid=ME4E7632479576324795&tsum=9922eeed6392b21e1710ba791cc599d6
 #EXTINF:-1 group-title="TW" tvg-id="",MNews (鏡電視新聞台)
 https://ythls.onrender.com/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
-#EXTINF:-1 group-title="TW" tvg-id="",SET Variety (三立綜合台) (720p)
-http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?ct=17874&tid=m3362167a08a014596868&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-#EXTINF:-1 group-title="TW" tvg-id="",Star Chinese Movies HD (星卫HD电影台) (720p)
-http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?ct=17874&tid=ma80888ed462f18082236&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
 #EXTINF:-1 group-title="TW" tvg-id="",立法院IVOD直播交通委員會 (450p)
 https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8
 #EXTINF:-1 group-title="TW" tvg-id="",立法院IVOD直播內政委員會 (450p)
