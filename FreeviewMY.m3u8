@@ -143,6 +143,30 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-chno="704" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/MotorRacingTV.png" group-title="Sports",MotorRacing TV
 #EXTVLCOPT:network-caching=1000
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motorracing/master.m3u8
+#EXTINF:-1 tvg-chno="711" tvg-logo="https://sukanasia2022.rtm.gov.my/_next/static/media/saluran-1.e6d2b3e1.svg",RTM 2023 Asian Games 1
+#EXTGRP:[*] Pop-up Channels
+#EXTVLCOPT:network-caching=1000
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/manifest.mpd
+#EXTINF:-1 tvg-chno="712" tvg-logo="https://sukanasia2022.rtm.gov.my/_next/static/media/saluran-2.90b563ba.svg",RTM 2023 Asian Games 2
+#EXTGRP:[*] Pop-up Channels
+#EXTVLCOPT:network-caching=1000
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/manifest.mpd
+#EXTINF:-1 tvg-chno="713" tvg-logo="https://sukanasia2022.rtm.gov.my/_next/static/media/saluran-3.2ef7a3fb.svg",RTM 2023 Asian Games 3
+#EXTGRP:[*] Pop-up Channels
+#EXTVLCOPT:network-caching=1000
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/manifest.mpd
+#EXTINF:-1 tvg-chno="714" tvg-logo="https://sukanasia2022.rtm.gov.my/_next/static/media/saluran-4.3146c5db.svg",RTM 2023 Asian Games 4
+#EXTGRP:[*] Pop-up Channels
+#EXTVLCOPT:network-caching=1000
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/manifest.mpd
+#EXTINF:-1 tvg-chno="715" tvg-logo="https://sukanasia2022.rtm.gov.my/_next/static/media/saluran-5.6b9e3428.svg",RTM 2023 Asian Games 5
+#EXTGRP:[*] Pop-up Channels
+#EXTVLCOPT:network-caching=1000
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/manifest.mpd
+#EXTINF:-1 tvg-chno="716" tvg-logo="https://sukanasia2022.rtm.gov.my/_next/static/media/saluran-6.0c3e5ba7.svg",RTM 2023 Asian Games 6
+#EXTGRP:[*] Pop-up Channels
+#EXTVLCOPT:network-caching=1000
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag6/manifest.mpd
 #EXTINF:-1 tvg-chno="901" tvg-id="Nasional FM" tvg-name="Nasional FM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/radio/local/RTM/RTM-NasionalFM.png" group-title="Radio",RTM Radio Nasional
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/NASIONAL_FMAAC
