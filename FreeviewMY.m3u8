@@ -85,15 +85,19 @@ https://live.mana2.my/SukeTv/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 https://live.mana2.my/MyCinemaEurope/manifest.mpd
-#EXTINF:-1 tvg-chno="501" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/FashionTV.png",FashionTV
+#EXTINF:-1 tvg-chno="202" tvg-id="SonyPix.in" tvg-name="SonyPix.in" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/plus/movies/SonyPix.png",Sony Pix
+#EXTGRP:ii. Movies
+#EXTVLCOPT:network-caching=1000
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:-1 tvg-chno="501" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/plus/variety/FashionTV.png",FashionTV
 #EXTGRP:iii. Variety
 #EXTVLCOPT:network-caching=1000
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-chno="502" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/FashionTV.png",FashionTV Singapore
 #EXTGRP:iii. Variety
 #EXTVLCOPT:network-caching=1000
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg13_hd_gmt__vm6_43433_default_1597_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-chno="503" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/FashionTV.png",FashionTV Paris L'Original
+#EXTINF:-1 tvg-chno="503" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/plus/variety/FashionTVPlus.png",FashionTV+ Paris L'Original
 #EXTGRP:iii. Variety
 #EXTVLCOPT:network-caching=1000
 https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
@@ -305,28 +309,89 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/SURIA_FMAAC
 #EXTGRP:vi. Radio
 #EXTVLCOPT:network-caching=1000
 https://live.mana2.my/RadioIkim/manifest.mpd
-################################################################## TEST ####################################################################################
-#EXTINF:-1 tvg-chno="711" tvg-logo="https://sukanasia2022.rtm.gov.my/_next/static/media/saluran-1.e6d2b3e1.svg",RTM 2023 Asian Games 1
-#EXTGRP:[*] Pop-up Channels
+#################### PLUS ####################
+#EXTINF:-1 tvg-chno="1001" tvg-id="RTBAneka.bn" tvg-name="RTBAneka" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/plus/sea-fta/RTB_Aneka.png",RTB Aneka 🇧🇳
+#EXTGRP:[*] PLUS/SEA's FTA Channels
 #EXTVLCOPT:network-caching=1000
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/index.m3u8
-#EXTINF:-1 tvg-chno="712" tvg-logo="https://sukanasia2022.rtm.gov.my/_next/static/media/saluran-2.90b563ba.svg",RTM 2023 Asian Games 2
-#EXTGRP:[*] Pop-up Channels
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+#EXTINF:-1 tvg-chno="1002" tvg-id="RTBSukmaindera.bn" tvg-name="RTBSukmaindera" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/plus/sea-fta/RTB_Sukmaindera.png",RTB Sukmaindera 🇧🇳
+#EXTGRP:[*] PLUS/SEA's FTA Channels
 #EXTVLCOPT:network-caching=1000
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/index.m3u8
-#EXTINF:-1 tvg-chno="713" tvg-logo="https://sukanasia2022.rtm.gov.my/_next/static/media/saluran-3.2ef7a3fb.svg",RTM 2023 Asian Games 3
-#EXTGRP:[*] Pop-up Channels
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+#EXTINF:-1 tvg-chno="1101" tvg-id="Ch 5.sg" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/plus/sea-fta/Mediacorp_Channel_5.svg",Mediacorp Channel 5 🇸🇬
+#EXTGRP:[*] PLUS/SEA's FTA Channels
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/316e8644-f2c1-4a8c-80b5-4cadf397f4c9
+https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
+#EXTINF:-1 tvg-chno="1102" tvg-id="Ch 8.sg" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/plus/sea-fta/Mediacorp_Channel_8.svg",Mediacorp Channel 8 🇸🇬
+#EXTGRP:[*] PLUS/SEA's FTA Channels
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/536e68ce-e1f2-493c-9095-a83932d06cdf
+https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
+#EXTINF:-1 tvg-chno="1103" tvg-id="Ch U.sg" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/plus/sea-fta/Mediacorp_Channel_U.svg",Mediacorp Channel U 🇸🇬
+#EXTGRP:[*] PLUS/SEA's FTA Channels
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/0eca714c-3695-4b08-9705-2e2a62cbe1b6
+https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
+#EXTINF:-1 tvg-chno="1104" tvg-id="Suria.sg" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/plus/sea-fta/Mediacorp_Suria.svg",Mediacorp Suria 🇸🇬
+#EXTGRP:[*] PLUS/SEA's FTA Channels
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/d8ed7731-7bc7-4993-9f9d-c98ba9291b5c
+https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
+#EXTINF:-1 tvg-chno="1105" tvg-id="Vasantham.sg" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/plus/sea-fta/Mediacorp_Vasantham.svg",Mediacorp Vasantham 🇸🇬
+#EXTGRP:[*] PLUS/SEA's FTA Channels
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://run.mocky.io/v3/2263da79-3818-41f1-9ec4-eff68fd5466c
+https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
+#################### BACKUPS ####################
+#EXTINF:-1 tvg-chno="10000" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM1.png",RTM TV1 (v1)
+#EXTGRP:[*] BACKUP/myFreeview
 #EXTVLCOPT:network-caching=1000
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/index.m3u8
-#EXTINF:-1 tvg-chno="714" tvg-logo="https://sukanasia2022.rtm.gov.my/_next/static/media/saluran-4.3146c5db.svg",RTM 2023 Asian Games 4
-#EXTGRP:[*] Pop-up Channels
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 tvg-chno="10000" tvg-id="TV1" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM1.png",RTM TV1 (v2)
+#EXTGRP:[*] BACKUP/myFreeview
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
 #EXTVLCOPT:network-caching=1000
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/index.m3u8
-#EXTINF:-1 tvg-chno="715" tvg-logo="https://sukanasia2022.rtm.gov.my/_next/static/media/saluran-5.6b9e3428.svg",RTM 2023 Asian Games 5
-#EXTGRP:[*] Pop-up Channels
+https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default.mpd
+#EXTINF:-1 tvg-chno="10000" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main//channel-logos/RTM2.png",RTM TV2 (v1)
+#EXTGRP:[*] BACKUP/myFreeview
 #EXTVLCOPT:network-caching=1000
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/index.m3u8
-#EXTINF:-1 tvg-chno="716" tvg-logo="https://sukanasia2022.rtm.gov.my/_next/static/media/saluran-6.0c3e5ba7.svg",RTM 2023 Asian Games 6
-#EXTGRP:[*] Pop-up Channels
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+#EXTINF:-1 tvg-chno="10000" tvg-id="TV2" tvg-name="TV2" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main//channel-logos/RTM2.png",RTM TV2 (v2)
+#EXTGRP:[*] BACKUP/myFreeview
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5027/
 #EXTVLCOPT:network-caching=1000
-https://d30aylox5wvifh.cloudfront.net/event/smil:ag6/index.m3u8
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default.mpd
+#EXTINF:-1 tvg-chno="10000" tvg-id="Okey" tvg-name="Okey" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM_Okey.png",RTM Okey (v1)
+#EXTGRP:[*] BACKUP/myFreeview
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+#EXTINF:-1 tvg-chno="10000" tvg-id="Okey" tvg-name="Okey" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM_Okey.png",RTM Okey (v2)
+#EXTGRP:[*] BACKUP/myFreeview
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/5072/
+#EXTVLCOPT:network-caching=1000
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default.mpd
+#EXTINF:-1 tvg-chno="10000" tvg-id="Sukan RTM" tvg-name="Sukan RTM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/Sukan_RTM.png",Sukan RTM (v1)
+#EXTGRP:[*] BACKUP/myFreeview
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+#EXTINF:-1 tvg-chno="10000" tvg-id="Berita RTM" tvg-name="Berita RTM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/Berita_RTM.png",Berita RTM (v1)
+#EXTGRP:[*] BACKUP/myFreeview
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+#EXTINF:-1 tvg-chno="10000" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM6.png",RTM TV6 (v1)
+#EXTGRP:[*] BACKUP/myFreeview
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+#EXTINF:-1 tvg-chno="10000" tvg-id="Dewan Rakyat" tvg-name="Dewan Rakyat" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMP_DewanRakyat.png",RTM Parlimen Dewan Rakyat (v1)
+#EXTGRP:[*] BACKUP/myFreeview
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
+#EXTINF:-1 tvg-chno="10000" tvg-id="Dewan Negara" tvg-name="Dewan Negara" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTMP_DewanNegara.png",RTM Parlimen Dewan Negara (v1)
+#EXTGRP:[*] BACKUP/myFreeview
+#EXTVLCOPT:network-caching=1000
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
+#################### TEST ####################
