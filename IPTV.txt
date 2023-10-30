@@ -123,86 +123,44 @@ Star Chinese Movies HD (星卫HD电影台) (720p),http://50.7.220.74:8278/xingwe
 立法院IVOD直播財政委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
 立法院IVOD直播院會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
 🌙月光宝盒,#genre#
-TVB翡翠台,p2p://108.181.20.159:42458/611079ef0004e86f173fbef01a0b5d2c
-TVB翡翠台 H.265,p2p://108.181.20.159:42458/60334ecb000bc48ab759e3b20e6c720b
-TVB J2,p2p://108.181.20.159:42458/603381bc000c683bb820e1461d323227
-TVB J2 H.265,p2p://108.181.20.159:42458/635608f100043f27eaffd77323921b39
-TVB无线新闻,p2p://108.181.20.159:42458/60334ca700039553b75184ff03433fad
-TVB无线新闻 H.265,p2p://108.181.20.159:42458/627806e90008d15887d2b1eb4fe1076f
-TVB财体资讯,p2p://108.181.20.159:42458/5ffbee4900066c0ddf0b8b84423c06f3
-TVB财体资讯 H.265,p2p://108.181.20.159:42458/611d989d0005244a4a7f24d111282ffb
-TVB明珠,p2p://108.181.20.159:42458/611d99f3000116024a845bb9627404c9
-TVB明珠 H.265,p2p://108.181.20.159:42458/602f1ba9000814efa6f2970333d309d9
-Viu TV,p2p://108.181.20.159:42458/611d99820007a67c4a82a3fe3cc749de
-VIU TV H.265,p2p://108.181.20.159:42458/5fed3234000c7a49a57dbd6e14af358f
-VIU 6,p2p://108.181.20.159:42458/5fed31e7000736e2a57c8f4c14d55d36
-有线直播新闻,p2p://108.181.20.159:42458/64ff4f0e000d7954168179ff031e6108
-香港国际财经,p2p://108.181.20.159:42458/64838620000cd8ed32fb0d6a414411f7
-HOY资讯,p2p://108.181.20.159:42458/648378c5000994f732c6e11c048379ef
-HOY TV,p2p://108.181.20.159:42458/62184bc3000cd48f11e47b06202b7e18
-TVB娱乐新闻,p2p://108.181.20.159:42458/5fe7f68d000e73d9910d2a86341258f7
-黄金翡翠台,p2p://108.181.20.159:42458/6318b1a2000966bbfb65f1ac1ddf1e54
-凤凰香港,http://193.233.206.48:8090/live/rx1/358/42de93423dc0f0062a60a09afff70d11/index.m3u8
-凤凰卫视,http://193.233.206.48:8090/live/rx3/2291/1f879248cae6ded1cbb4aa43daa15cba/index.m3u8
-凤凰卫视,http://193.233.206.48:8090/live/rx1/2812/f3f1b5a0c603ec0e7b016d36e110c175/index.m3u8
-凤凰资讯,http://193.233.206.48:8090/live/rx3/2292/d810e714a752752d55ac9541541a7ae4/index.m3u8
-凤凰资讯,http://193.233.206.48:8090/live/rx1/2811/11599481d8b22d575edc99c72d089368/index.m3u8
-星空卫视,http://193.233.206.48:8090/live/rx1/56/c27af029e2f50868051fea2a53ec04f3/index.m3u8
-民视,http://193.233.206.48:8090/live/rx4/26/0bb68afaa2010b3b0dc639873b9695b8/index.m3u8
-民视,http://193.233.206.48:8090/live/rx1/336/c600ea75e49a4f280d11cbcc7b38b94d/index.m3u8
-民视,http://193.233.206.48:8090/live/rx1/2805/bc0da2ab74f7a07b823c24a1a854926c/index.m3u8
-台视,http://193.233.206.48:8090/live/rx1/27/c97668adabe141e44ba9e447617106b3/index.m3u8
-台视,http://193.233.206.48:8090/live/rx1/326/027eeed8cfe55d0d533fa80892de3060/index.m3u8
-台视,http://193.233.206.48:8090/live/rx3/312/d5ffa08e7210d17241a4e4bcfa02e9ac/index.m3u8
-中视,http://193.233.206.48:8090/live/rx1/333/d5b549453dd6d76aa3375078f53e09b3/index.m3u8
-中视,http://193.233.206.48:8090/live/rx3/1041/74f88349451df582a1e49bbaf07051c6/index.m3u8
-华视,http://193.233.206.48:8090/live/rx1/32/3ef1b20278340ec4e2448275cb645e79/index.m3u8
-华视,http://193.233.206.48:8090/live/rx3/2282/dd385d2677e584d0efe21c79431e2d05/index.m3u8
-公视,http://193.233.206.48:8090/live/rx1/86/73131a307e18f2ce9efe7e90757b919b/index.m3u8
-卫视电影,http://193.233.206.48:8090/live/rx1/93/51f213c75edf565c67ea542afd18d73b/index.m3u8
-卫视电影,http://193.233.206.48:8090/live/rx3/2799/675441e439fe054f69da0ed1074b3cae/index.m3u8
-东森电影,http://193.233.206.48:8090/live/rx1/350/dba5c12ccdbfb14761aac130066aff01/index.m3u8
-东森电影,http://193.233.206.48:8090/live/rx1/2720/3da64494c13b88ad4dc11699ec2ad1ae/index.m3u8
-纬来电影,http://193.233.206.48:8090/live/rx1/2728/de99ac6588f009b9c462b53a0872e10c/index.m3u8
-东森洋片,http://193.233.206.48:8090/live/rx1/1128/800a325c1a003c00c56dfdcca6e4b78c/index.m3u8
-好莱坞电影,http://193.233.206.48:8090/live/rx1/37/179d06305029cad7b3eb00efb0de5d04/index.m3u8
-爱尔达影剧,http://193.233.206.48:8090/live/rx1/500/841eb93370d3248e65322dade3494e95/index.m3u8
-CineMAX,http://193.233.206.48:8090/live/rx3/346/dbaefe624b079ccb3957a67391b85e5d/index.m3u8
-star world（原FOX）,http://193.233.206.48:8090/live/rx1/384/645baaceaea81cde1bcc3a92eb447095/index.m3u8
-靖天映画,http://193.233.206.48:8090/live/rx1/349/f05b14b78f119dead4e637745eb74dcc/index.m3u8
-靖洋戏剧,http://193.233.206.48:8090/live/rx1/319/b3392b9be264a462b519822d3a90ee8d/index.m3u8
-纬来精彩,http://193.233.206.48:8090/live/rx1/2280/a9146645007029683b2de9fce8eb8eb9/index.m3u8
-EYE戏剧,http://193.233.206.48:8090/live/rx1/191/09730dee4f3492cfe7363e5d002e55cc/index.m3u8
-三立戏剧,http://193.233.206.48:8090/live/rx1/64/eead8d964392e5a43299aa02cc934ab8/index.m3u8
-龙华偶像,http://193.233.206.48:8090/live/rx1/385/ded7c8a4664d12384b961252aa461d7a/index.m3u8
-霹雳台湾,http://193.233.206.48:8090/live/rx1/1339/995f90f3239b7d9c0fd009b5394fb4b4/index.m3u8
-靖天电影,http://193.233.206.48:8090/live/rx1/110/1e57e8294bfbc464a5295c183435df22/index.m3u8
-美亚电影,http://193.233.206.48:8090/live/rx1/375/743e329e59dcc0b3466afb0d88941616/index.m3u8
-民视影剧,http://193.233.206.48:8090/live/rx1/1023/cce937799f6cc8fc012ed968beaf521f/index.m3u8
-HBO Hits,http://193.233.206.48:8090/live/rx1/330/84793ca99e4dd14d5946466b4f8a745c/index.m3u8
-HBO Family FHD,http://193.233.206.48:8090/live/rx4/2598/1297cbc78dc44466b3c78dea28f2e0ce/index.m3u8
-HBO Family HD,http://193.233.206.48:8090/live/rx4/2599/c0477cd0007e8c06e3382cd3e1c2c11f/index.m3u8
-HBO Family SD,http://193.233.206.48:8090/live/rx4/2600/7ce283b9cd00a6cb15a1fba920c1929c/index.m3u8
-HBO FHD,http://193.233.206.48:8090/live/rx4/2601/395c56ef72392fd777d9ca6214931de3/index.m3u8
-HBO HD,http://193.233.206.48:8090/live/rx4/2602/4e2221c263d0bae9c44095b97670ef35/index.m3u8
-HBO Hits FHD,http://193.233.206.48:8090/live/rx4/2603/9f4aacde137f1963155e9f4e7b96d2dc/index.m3u8
-HBO Hits HD,http://193.233.206.48:8090/live/rx4/2604/9562d443a28dcef020ccfa86bd1de7ea/index.m3u8
-HBO Hits SD,http://193.233.206.48:8090/live/rx4/2605/26a7cc71f4ae5822574ec44f77ef08f9/index.m3u8
-HBO SD,http://193.233.206.48:8090/live/rx4/2606/00985e19791d33d3cd22df0f0857841e/index.m3u8
-HBO Signature FHD,http://193.233.206.48:8090/live/rx4/2607/6268ed9713401f4e183b8c114ab8fb3b/index.m3u8
-HBO Signature HD,http://193.233.206.48:8090/live/rx4/2608/7f0d0e468f52153014532386aa68e054/index.m3u8
-HBO Signature SD,http://193.233.206.48:8090/live/rx4/2609/a6bbb04c8505f48eee677fae15f9ca28/index.m3u8
-IMC SD,http://193.233.206.48:8090/live/rx4/2612/3d4a6f32a7cb5a905c1059c95c849646/index.m3u8
-KIX,http://193.233.206.48:8090/live/rx4/2615/053ccfcab60dc502dd8a3bb557eb499e/index.m3u8
-LifeTime,http://193.233.206.48:8090/live/rx4/2616/c07b793bd5048f90bbf54e40fecb0f0a/index.m3u8
-Star Chinese Movies Legend,http://193.233.206.48:8090/live/rx3/2618/d3bdba61f9c3b31482ed22c86ab5019b/index.m3u8
-Thrill,http://193.233.206.48:8090/live/rx3/2620/60588c9c5dfab02932461d9dfd931bfa/index.m3u8
-Warner TV,http://193.233.206.48:8090/live/rx3/2621/0914be92932bea560acf3471633bcd4c/index.m3u8
-Animal Planet,http://193.233.206.48:8090/live/rx3/2622/547d4230c649983455525e3641a4818a/index.m3u8
-Da Vinci Learning,http://193.233.206.48:8090/live/rx3/2624/74e0ed446ca881d4663b0e25295d93d8/index.m3u8
-Discovery Asia,http://193.233.206.48:8090/live/rx3/2625/1fa562eb131d51da5d1bcfd1e04a78af/index.m3u8
-History,http://193.233.206.48:8090/live/rx3/2629/9bbe5849fc1dff716efd94969fe62de1/index.m3u8
-History,http://193.233.206.48:8090/live/rx3/2630/2ea933dc97921f4eedef2ed32280c5bc/index.m3u8
+凤凰中文,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+凤凰资讯,http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+翡翠台,https://pi.0472.org/tv/fct.php?auth=2310201855
+明珠台,https://pi.0472.org/tv/mzt.php?auth=2310201855
+澳视澳门,https://pi.0472.org/tv/asam.php?auth=2310201855
+澳亚卫视,https://pi.0472.org/tv/aoya.php?auth=2310201855
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+莲花卫视,https://cntv.sbs/tv/lhws.php
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist月光宝盒w1266569526.m3u8
+风云剧场,http://hls.live.cqccn.com/月光宝盒月光宝盒cl/cg:live/月光宝盒月光宝盒c/fyjcHD/月光宝盒月光宝盒op/default/月光宝盒月光宝盒f/index.m3u8
+风云音乐,http://hls.live.cqccn.com/月光宝盒月光宝盒cl/cg:live/月光宝盒月光宝盒c/fyyyHD/月光宝盒月光宝盒op/default/月光宝盒月光宝盒f/index.m3u8
+风云足球,http://hls.live.cqccn.com/月光宝盒月光宝盒cl/cg:live/月光宝盒月光宝盒c/fyzqHD/月光宝盒月光宝盒op/default/月光宝盒月光宝盒f/index.m3u8
+央视台球,http://hls.live.cqccn.com/月光宝盒月光宝盒cl/cg:live/月光宝盒月光宝盒c/ystqHD/月光宝盒月光宝盒op/default/月光宝盒月光宝盒f/index.m3u8
+怀旧剧场,http://hls.live.cqccn.com/月光宝盒月光宝盒cl/cg:live/月光宝盒月光宝盒c/hjjcHD/月光宝盒月光宝盒op/default/月光宝盒月光宝盒f/index.m3u8
+第一剧场,http://hls.live.cqccn.com/月光宝盒月光宝盒cl/cg:live/月光宝盒月光宝盒c/diyijuchangHD/月光宝盒月光宝盒op/default/月光宝盒月光宝盒f/index.m3u8
+高尔夫网球,http://hls.live.cqccn.com/月光宝盒月光宝盒cl/cg:live/月光宝盒月光宝盒c/golfHD/月光宝盒月光宝盒op/default/月光宝盒月光宝盒f/index.m3u8
+文化精品,http://hls.live.cqccn.com/月光宝盒月光宝盒cl/cg:live/月光宝盒月光宝盒c/yswhHD/月光宝盒月光宝盒op/default/月光宝盒月光宝盒f/index.m3u8
+兵器科技,http://hls.live.cqccn.com/月光宝盒月光宝盒cl/cg:live/月光宝盒月光宝盒c/bqkjHD/月光宝盒月光宝盒op/default/月光宝盒月光宝盒f/index.m3u8
+华语影院,https://cntv.sbs/tv?auth=2310201855&id=hyyy
+电竞天堂,https://cntv.sbs/tv?auth=2310201855&id=djtt
+青春动漫,https://cntv.sbs/tv?auth=2310201855&id=qcdm
+星光影院,https://cntv.sbs/tv?auth=2310201855&id=xgyy
+谍战剧场,https://cntv.sbs/tv?auth=2310201855&id=dzjc
+全球大片,https://cntv.sbs/tv?auth=2310201855&id=qqdp
+热门剧场,https://cntv.sbs/tv?auth=2310201855&id=rmjc
+热门综艺,https://cntv.sbs/tv?auth=2310201855&id=rmzy
+戏曲精选,https://cntv.sbs/tv?auth=2310201855&id=xqjx
+健康养生,https://cntv.sbs/tv?auth=2310201855&id=jkys
+百变课堂,https://cntv.sbs/tv?auth=2310201855&id=bbkt
+宝宝动画,https://cntv.sbs/tv?auth=2310201855&id=bbdh
+百视通体育1,https://cntv.sbs/tv?auth=2310201855&id=sport1
+百视通体育2,https://cntv.sbs/tv?auth=2310201855&id=sport2
+百视通体育3,https://cntv.sbs/tv?auth=2310201855&id=sport3
+百视通体育4,https://cntv.sbs/tv?auth=2310201855&id=sport4
+百视通体育5,https://cntv.sbs/tv?auth=2310201855&id=sport5
+百视通体育6,https://cntv.sbs/tv?auth=2310201855&id=sport6
+百视通体育7,https://cntv.sbs/tv?auth=2310201855&id=sport7
+
 三立台湾台,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile月光宝盒0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile月光宝盒0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
 三立都会台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile月光宝盒0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile月光宝盒0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 
