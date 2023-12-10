@@ -5549,31 +5549,59 @@ IPTV-5+,http://ct.whosayssowhat.top:4022/udp/239.77.0.176:5146
 
 
 央视,#genre#
-CCTV-1 综合,https://live.goodiptv.club/api/sxg.php?id=CCTV-1H265_4000
-CCTV-2 财经,https://live.goodiptv.club/api/sxg.php?id=CCTV-2H265_4000
-CCTV-3 综艺,https://live.goodiptv.club/api/sxg.php?id=CCTV-3H265_4000
-CCTV-4 中文国际,https://live.goodiptv.club/api/sxg.php?id=CCTV-4H265_4000
-CCTV-5 体育,https://live.goodiptv.club/api/sxg.php?id=CCTV-5H265_4000
-CCTV-5+ 体育赛事,https://live.goodiptv.club/api/sxg.php?id=CCTV-5plusH265_4000
-CCTV-6 电影,https://live.goodiptv.club/api/sxg.php?id=CCTV-6H265_4000
-CCTV-7 国防军事,https://live.goodiptv.club/api/sxg.php?id=CCTV-7H265_4000
-CCTV-8 电视剧,https://live.goodiptv.club/api/sxg.php?id=CCTV-8H265_4000
-CCTV-9 纪录,https://live.goodiptv.club/api/sxg.php?id=CCTV-9H265_4000
-CCTV-10 科教,https://live.goodiptv.club/api/sxg.php?id=CCTV-10H265_4000
-CCTV-11 戏曲,https://live.goodiptv.club/api/sxg.php?id=CCTV-11-H265_4000
-CCTV-12 社会与法,https://live.goodiptv.club/api/sxg.php?id=CCTV-12H265_4000
-CCTV-13 新闻,https://live.goodiptv.club/api/sxg.php?id=CCTV-xw_4000
-CCTV-14 少儿,https://live.goodiptv.club/api/sxg.php?id=CCTV-14H265_4000
-CCTV-15 音乐,https://live.goodiptv.club/api/sxg.php?id=CCTV-15-yyH265_4000
-CCTV-16 奥林匹克,https://live.goodiptv.club/api/sxg.php?id=CCTV-16_4000
-CCTV-16 奥林匹克 4K,https://live.goodiptv.club/api/sxg.php?id=CCTV-16-4K_8000
-CCTV-17 农业农村,https://live.goodiptv.club/api/sxg.php?id=CCTV-17_4000
-CCTV-4K 超高清,https://live.goodiptv.club/api/sxg.php?id=ys4Kcq_2000
+CCTV1,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=
+CCTV2,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=
+CCTV3,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&encrypt=
+CCTV4,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/51/index.m3u8?&encrypt=
+CCTV5,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?&encrypt=
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+CCTV6,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=
+CCTV7,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/57/index.m3u8?&encrypt=
+CCTV8,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/1000/index.m3u8?&encrypt=
+CCTV9,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/57/index.m3u8?&encrypt=
+CCTV10,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?&encrypt=
+CCTV11,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd/57/20200103/index.m3u8?&encrypt=
+CCTV12,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv12hd/57/index.m3u8?&encrypt=
+CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV14,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv14hd/3000/index.m3u8?&encrypt=
+CCTV15,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/57/index.m3u8?&encrypt=
+CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV17,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv17hd/57/index.m3u8?&encrypt=
+
+CCTV1,https://live.goodiptv.club/api/sxg.php?id=CCTV-1H265_4000
+CCTV2,https://live.goodiptv.club/api/sxg.php?id=CCTV-2H265_4000
+CCTV3,https://live.goodiptv.club/api/sxg.php?id=CCTV-3H265_4000
+CCTV4,https://live.goodiptv.club/api/sxg.php?id=CCTV-4H265_4000
+CCTV5,https://live.goodiptv.club/api/sxg.php?id=CCTV-5H265_4000
+CCTV5+,https://live.goodiptv.club/api/sxg.php?id=CCTV-5plusH265_4000
+CCTV6,https://live.goodiptv.club/api/sxg.php?id=CCTV-6H265_4000
+CCTV7,https://live.goodiptv.club/api/sxg.php?id=CCTV-7H265_4000
+CCTV8,https://live.goodiptv.club/api/sxg.php?id=CCTV-8H265_4000
+CCTV9,https://live.goodiptv.club/api/sxg.php?id=CCTV-9H265_4000
+CCTV10,https://live.goodiptv.club/api/sxg.php?id=CCTV-10H265_4000
+CCTV11,https://live.goodiptv.club/api/sxg.php?id=CCTV-11-H265_4000
+CCTV12,https://live.goodiptv.club/api/sxg.php?id=CCTV-12H265_4000
+CCTV13,https://live.goodiptv.club/api/sxg.php?id=CCTV-xw_4000
+CCTV14,https://live.goodiptv.club/api/sxg.php?id=CCTV-14H265_4000
+CCTV15,https://live.goodiptv.club/api/sxg.php?id=CCTV-15-yyH265_4000
+CCTV16,https://live.goodiptv.club/api/sxg.php?id=CCTV-16_4000
+CCTV16 4K,https://live.goodiptv.club/api/sxg.php?id=CCTV-16-4K_8000
+CCTV17,https://live.goodiptv.club/api/sxg.php?id=CCTV-17_4000
+CCTV4K,https://live.goodiptv.club/api/sxg.php?id=ys4Kcq_2000
 
 各种卫视,#genre#
-4K超高清电影 4K,https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
-欢笑剧场4K,https://live.goodiptv.club/api/sxg.php?id=hxjc-4k_8000
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+湖南卫视,http://hlsbkmgsplive.miguvideo.com/wd-hunanhd-1200/index.m3u8?&encrypt=
+东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/600/index.m3u8?&encrypt=
+广东卫视,http://hlsbkmgsplive.miguvideo.com/ws_w/2018/gdws/gdws2000/2000/index.m3u8?&encrypt=
+江苏卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/2500/index.m3u8?&encrypt=
+河南卫视,http://hlsbkmgsplive.miguvideo.com/wd-henanwssd-600/index.m3u8?&encrypt=
+湖北卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/hubeiwshd/1000/index.m3u8?&encrypt=
+辽宁卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/1000/index.m3u8?&encrypt=
+南方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?&encrypt=
+青海卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/qinghai/1000/index.m3u8?&encrypt=
+甘肃卫视,http://hlsbkmgsplive.miguvideo.com/envivo_v/2018/SD/gansu/1000/index.m3u8?&encrypt=
+西藏卫视,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/xizang/1000/index.m3u8?&encrypt=
 凤凰中文,https://live.goodiptv.club/api/sxg.php?id=test1_4000
 凤凰资讯,https://live.goodiptv.club/api/sxg.php?id=test2_4000
 浙江卫视,https://live.goodiptv.club/api/sxg.php?id=zjwsH265_4000
@@ -5607,6 +5635,8 @@ CCTV-4K 超高清,https://live.goodiptv.club/api/sxg.php?id=ys4Kcq_2000
 天津卫视,https://live.goodiptv.club/api/sxg.php?id=tjwsH265_4000
 西藏卫视,https://live.goodiptv.club/api/sxg.php?id=xzwsH264_2000
 云南卫视,https://live.goodiptv.club/api/sxg.php?id=ynws_4000
+4K超高清电影 4K,https://live.goodiptv.club/api/sxg.php?id=emdy4k_8000
+欢笑剧场4K,https://live.goodiptv.club/api/sxg.php?id=hxjc-4k_8000
 
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
