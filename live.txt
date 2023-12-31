@@ -8,7 +8,6 @@ DidikTVKPM,https://live01.gohkh9.eu.org/live.php?id=DidikTV
 TV6,https://live01.gohkh9.eu.org/live.php?id=TV6
 八度空间,https://live01.gohkh9.eu.org/live.php?id=tv8
 TV9,https://live01.gohkh9.eu.org/live.php?id=TV9
-GOSHOP,https://agsplayback01.astro.com.my/CH2/master_GOSHOP2_04.m3u8
 DEWAN RAKYAT,https://live01.gohkh9.eu.org/live.php?id=DEWAN RAKYAT
 SUKAN RTM,https://live01.gohkh9.eu.org/live.php?id=SUKAN RTM
 DEWAN NEGARA,https://live01.gohkh9.eu.org/live.php?id=DEWAN NEGARA
