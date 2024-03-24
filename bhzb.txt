@@ -1,5 +1,9 @@
 🌙月光宝盒,#genre#
-重温经典,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+重温经典,http://140.249.247.156/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+国际少儿频道,https://livesec.mudu.tv/watch/fb3vzu.m3u8
+CCTV6,http://ygbh.cloudns.ch/1905.php?id=cctv6
+1905国外电影,http://ygbh.cloudns.ch/1905.php?id=1905b
+1905国内电影,http://ygbh.cloudns.ch/1905.php?id=1905a
 華視,rtmp://f13h.mine.nu/sat/tv111
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,rtmp://f13h.mine.nu/sat/tv071
@@ -7,13 +11,6 @@
 緯來日本,rtmp://f13h.mine.nu/sat/tv771
 緯來育樂,rtmp://f13h.mine.nu/sat/tv701
 緯來體育,rtmp://f13h.mine.nu/sat/tv721
-BRTV8K,http://ygbh.cloudns.ch/北京.php?id=brtv8k
-纪实科教,http://ygbh.cloudns.ch/北京.php?id=bjjskj
-北京影视,http://ygbh.cloudns.ch/北京.php?id=bjys
-北京财经,http://ygbh.cloudns.ch/北京.php?id=bjcj
-北京卡酷,http://ygbh.cloudns.ch/北京.php?id=bjkk
-北京生活,http://ygbh.cloudns.ch/北京.php?id=bjsh
-北京新闻,http://ygbh.cloudns.ch/北京.php?id=bjxw
 CCTV1,http://125.210.152.19:9121/live/hzgq-cctv1gq-h264.m3u8
 CCTV2,http://125.210.152.19:9121/live/hzgq-cctv2gq-h264.m3u8
 CCTV3,http://125.210.152.19:9121/live/hzgq-cctv3gq-h264.m3u8
