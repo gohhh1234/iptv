@@ -121,1132 +121,1409 @@ Star Chinese Movies HD (星卫HD电影台) (720p),http://50.7.220.74:8278/xingwe
 立法院IVOD直播經濟委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
 立法院IVOD直播財政委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
 立法院IVOD直播院會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
-#EXTM3U
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE local
+{
 
-#EXTINF:-1 group-title="臺灣 Taiwan",AXN
-https://guot55.serv00.net/Smatrv.php?id=axn月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",CINEMAX
-https://guot55.serv00.net/Smatrv.php?id=cinemax月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",EYE戲劇
-https://guot55.serv00.net/Smatrv.php?id=eyetvxiju月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",EYE旅遊
-https://guot55.serv00.net/Smatrv.php?id=eyetvtravel月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",HBO
-https://guot55.serv00.net/Smatrv.php?id=hbohd月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",HBO Family
-https://guot55.serv00.net/Smatrv.php?id=fyi月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",好萊塢電影台
-https://guot55.serv00.net/Smatrv.php?id=hollywoodmovies月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",MTV Live
-https://guot55.serv00.net/Smatrv.php?id=mtvhd月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",TLC旅遊生活
-https://guot55.serv00.net/Smatrv.php?id=tlc月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",東森新聞
-https://guot55.serv00.net/Smatrv.php?id=ettvnews
-#EXTINF:-1 group-title="臺灣 Taiwan",TVBS HD
-https://guot55.serv00.net/Smatrv.php?id=tvbs
-#EXTINF:-1 group-title="臺灣 Taiwan",TVBS新聞台
-https://guot55.serv00.net/Smatrv.php?id=tvbs月光宝盒n
-#EXTINF:-1 group-title="臺灣 Taiwan",TVBS歡樂台
-https://guot55.serv00.net/Smatrv.php?id=tvbshuanle月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",三立台灣台
-https://guot55.serv00.net/Smatrv.php?id=sanlitaiwan
-#EXTINF:-1 group-title="臺灣 Taiwan",三立戲劇台
-https://guot55.serv00.net/Smatrv.php?id=sanlixiju月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",三立綜合台
-https://guot55.serv00.net/Smatrv.php?id=sanlizhonghe
-#EXTINF:-1 group-title="臺灣 Taiwan",中天亞洲台
-https://guot55.serv00.net/Smatrv.php?id=ctiasia月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",中天娱樂
-https://guot55.serv00.net/Smatrv.php?id=ctient
-#EXTINF:-1 group-title="臺灣 Taiwan",中天新聞HD
-https://guot55.serv00.net/Smatrv.php?id=ctinews
-#EXTINF:-1 group-title="臺灣 Taiwan",中天綜合
-https://guot55.serv00.net/Smatrv.php?id=ctizhonghe
-#EXTINF:-1 group-title="臺灣 Taiwan",亞洲旅遊台
-https://guot55.serv00.net/Smatrv.php?id=asiatravel月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",亞洲美食
-https://guot55.serv00.net/Smatrv.php?id=afc月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",八大戲劇
-https://guot55.serv00.net/Smatrv.php?id=badadrama
-#EXTINF:-1 group-title="臺灣 Taiwan",八大第一
-https://guot55.serv00.net/Smatrv.php?id=badafirst
-#EXTINF:-1 group-title="臺灣 Taiwan",八大綜合
-https://guot55.serv00.net/Smatrv.php?id=badazhonghe
-#EXTINF:-1 group-title="臺灣 Taiwan",公視
-https://guot55.serv00.net/Smatrv.php?id=ctv月光宝盒taiwan
-#EXTINF:-1 group-title="臺灣 Taiwan",民視
-https://guot55.serv00.net/Smatrv.php?id=ftvhd月光宝盒taiwan
-#EXTINF:-1 group-title="臺灣 Taiwan",民視第一台
-https://guot55.serv00.net/Smatrv.php?id=lunghuajingdian月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",民視台灣台
-https://guot55.serv00.net/Smatrv.php?id=ftvtaiwan月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",民視新聞台
-https://guot55.serv00.net/Smatrv.php?id=ftvnew月光宝盒taiwan
-#EXTINF:-1 group-title="臺灣 Taiwan",台視
-https://guot55.serv00.net/Smatrv.php?id=ttv月光宝盒taiwan
-#EXTINF:-1 group-title="臺灣 Taiwan",台視新聞台
-https://guot55.serv00.net/Smatrv.php?id=ttvnews月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",中視
-https://guot55.serv00.net/Smatrv.php?id=zhongshihd月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",中視新聞台
-https://guot55.serv00.net/Smatrv.php?id=zhongshinews月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",中視經典
-https://guot55.serv00.net/Smatrv.php?id=zhongshi月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",華視
-https://guot55.serv00.net/Smatrv.php?id=ctshd月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",華藝綜合
-https://guot55.serv00.net/Smatrv.php?id=weishichinese月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",大愛一台
-https://guot55.serv00.net/Smatrv.php?id=daai月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",寰宇新聞台
-https://guot55.serv00.net/Smatrv.php?id=huanyuxinwen月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",寰宇財經台
-https://guot55.serv00.net/Smatrv.php?id=huanyutaiwan月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",年代新聞台
-https://guot55.serv00.net/Smatrv.php?id=niandainews月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",愛爾達影劇
-https://guot55.serv00.net/Smatrv.php?id=eltayingju月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",愛爾達體育 1
-https://guot55.serv00.net/Smatrv.php?id=eltasport月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",愛爾達體育 2
-https://guot55.serv00.net/Smatrv.php?id=eltasport2月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",愛爾達體育 3
-https://guot55.serv00.net/Smatrv.php?id=eltasport3月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",ELEVEN 1
-https://guot55.serv00.net/Smatrv.php?id=golfchannel月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",博斯網球
-https://guot55.serv00.net/Smatrv.php?id=bositennis月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",博斯運動1
-https://guot55.serv00.net/Smatrv.php?id=bosisport1月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",博斯運動2
-https://guot55.serv00.net/Smatrv.php?id=bosisport2月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",博斯高球1
-https://guot55.serv00.net/Smatrv.php?id=bosigolf1月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",博斯高球2
-https://guot55.serv00.net/Smatrv.php?id=bosigolf2月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",探索亞洲
-https://guot55.serv00.net/Smatrv.php?id=discoverytwn月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",探索動力
-https://guot55.serv00.net/Smatrv.php?id=discoveryturbo月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",國家地理
-https://guot55.serv00.net/Smatrv.php?id=natgeohd月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",野生動物
-https://guot55.serv00.net/Smatrv.php?id=natgeowild月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",動物星球
-https://guot55.serv00.net/Smatrv.php?id=animalplanet月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",時尚
-https://guot55.serv00.net/Smatrv.php?id=fashiontv月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",Discovery Asia
-https://guot55.serv00.net/Smatrv.php?id=discoverytwn月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",Discovery HD
-https://guot55.serv00.net/Smatrv.php?id=discoveryhd月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",東森戲劇
-https://guot55.serv00.net/Smatrv.php?id=ettvdrama
-#EXTINF:-1 group-title="臺灣 Taiwan",東森洋片
-https://guot55.serv00.net/Smatrv.php?id=ettvwestern
-#EXTINF:-1 group-title="臺灣 Taiwan",東森綜合
-https://guot55.serv00.net/Smatrv.php?id=ettvzhonghe
-#EXTINF:-1 group-title="臺灣 Taiwan",東森財經新聞
-https://guot55.serv00.net/Smatrv.php?id=ettvcaijing月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",東森電影
-https://guot55.serv00.net/Smatrv.php?id=ettvmovie
-#EXTINF:-1 group-title="臺灣 Taiwan",緯來日本台
-https://guot55.serv00.net/Smatrv.php?id=videolandjapan
-#EXTINF:-1 group-title="臺灣 Taiwan",緯來體育台
-https://guot55.serv00.net/Smatrv.php?id=videolandsport
-#EXTINF:-1 group-title="臺灣 Taiwan",美亞電影
-https://guot55.serv00.net/Smatrv.php?id=meiyamovie月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",BBC World News
-https://guot55.serv00.net/Smatrv.php?id=bbcnews月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",Bloomberg News
-https://guot55.serv00.net/Smatrv.php?id=bloomberg月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",Fox News
-https://guot55.serv00.net/Smatrv.php?id=foxnews月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",阿里郎
-https://guot55.serv00.net/Smatrv.php?id=arirang月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",CN卡通
-https://guot55.serv00.net/Smatrv.php?id=momo1月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",靖天卡通台
-https://guot55.serv00.net/Smatrv.php?id=jingtiancartoon月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",靖天國際台
-https://guot55.serv00.net/Smatrv.php?id=jingtianintl月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",非凡新聞台
-https://guot55.serv00.net/Smatrv.php?id=feifannews月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",龍祥時代
-https://guot55.serv00.net/Smatrv.php?id=lungxiangtime月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",龍華偶像
-https://guot55.serv00.net/Smatrv.php?id=lunghuaidol月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",龍華戲劇
-https://guot55.serv00.net/Smatrv.php?id=lunghuaxiju月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",龍華洋片
-https://guot55.serv00.net/Smatrv.php?id=lunghuawestern月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",龍華經典
-https://guot55.serv00.net/Smatrv.php?id=lunghuajingdian月光宝盒twn
-#EXTINF:-1 group-title="臺灣 Taiwan",龍華電影
-https://guot55.serv00.net/Smatrv.php?id=xingwei月光宝盒movie
-#EXTINF:-1 group-title="馬來西亞 Malaysia",TV1
-https://guot55.serv00.net/Smatrv.php?id=TV1
-#EXTINF:-1 group-title="馬來西亞 Malaysia",TV1(備用)
-https://guot55.serv00.net/Smatrv.php?id=TV1月光宝盒backup
-#EXTINF:-1 group-title="馬來西亞 Malaysia",TV2
-https://guot55.serv00.net/Smatrv.php?id=TV2
-#EXTINF:-1 group-title="馬來西亞 Malaysia",TV3
-https://guot55.serv00.net/Smatrv.php?id=TV3
-#EXTINF:-1 group-title="馬來西亞 Malaysia",TV3(備用)
-https://guot55.serv00.net/Smatrv.php?id=tv3月光宝盒twn
-#EXTINF:-1 group-title="馬來西亞 Malaysia",NTV7
-https://guot55.serv00.net/Smatrv.php?id=NTV7
-#EXTINF:-1 group-title="馬來西亞 Malaysia",TV8
-https://guot55.serv00.net/Smatrv.php?id=TV8
-#EXTINF:-1 group-title="馬來西亞 Malaysia",TV9
-https://guot55.serv00.net/Smatrv.php?id=TV9
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Warna
-https://guot55.serv00.net/Smatrv.php?id=Warna-O
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Warna(備用)
-https://guot55.serv00.net/Smatrv.php?id=Warna
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Ria
-https://guot55.serv00.net/Smatrv.php?id=Ria-0
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Ria(備用)
-https://guot55.serv00.net/Smatrv.php?id=Ria49
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Ria-3
-https://guot55.serv00.net/Smatrv.php?id=Ria月光宝盒quanjia
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Al-Hijrah
-https://guot55.serv00.net/Smatrv.php?id=Alhijrah
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Al-Hijrah(備用)
-https://guot55.serv00.net/Smatrv.php?id=Alhijrah月光宝盒backup
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Awani
-https://guot55.serv00.net/Smatrv.php?id=Awani
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Bernama
-https://guot55.serv00.net/Smatrv.php?id=Bernama
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Prima
-https://guot55.serv00.net/Smatrv.php?id=Prima-0
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Prima(備用)
-https://guot55.serv00.net/Smatrv.php?id=Prima49
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Ceria
-https://guot55.serv00.net/Smatrv.php?id=Ceria
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Astro MTV
-https://guot55.serv00.net/Smatrv.php?id=AstroMTV
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Mecca Live HD
-https://guot55.serv00.net/Smatrv.php?id=quran月光宝盒mido
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Madinah HD
-https://guot55.serv00.net/Smatrv.php?id=sunnah月光宝盒mido
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Oasis
-https://guot55.serv00.net/Smatrv.php?id=Oasis
-#EXTINF:-1 group-title="馬來西亞 Malaysia",HBO HD
-https://guot55.serv00.net/Smatrv.php?id=Hbo
-#EXTINF:-1 group-title="馬來西亞 Malaysia",HBO Signature
-https://guot55.serv00.net/Smatrv.php?id=Hbosignature
-#EXTINF:-1 group-title="馬來西亞 Malaysia",HBO Hits
-https://guot55.serv00.net/Smatrv.php?id=Hbohits
-#EXTINF:-1 group-title="馬來西亞 Malaysia",NatGeo Wild HD
-https://guot55.serv00.net/Smatrv.php?id=Natgeowild
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Cartoon Network
-https://guot55.serv00.net/Smatrv.php?id=Cn
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Nickelodeon
-https://guot55.serv00.net/Smatrv.php?id=Nickelodeon
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Nick Jr
-https://guot55.serv00.net/Smatrv.php?id=Nickjr
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Citra
-https://guot55.serv00.net/Smatrv.php?id=Citra
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Sensasi
-https://guot55.serv00.net/Smatrv.php?id=Sensasi
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Aura
-https://guot55.serv00.net/Smatrv.php?id=Aura
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Rania
-https://guot55.serv00.net/Smatrv.php?id=Rania
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Boo
-https://guot55.serv00.net/Smatrv.php?id=Boo
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Awesome TV
-https://guot55.serv00.net/Smatrv.php?id=Awesome月光宝盒mega
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Sony HD
-https://guot55.serv00.net/Smatrv.php?id=SetOne
-#EXTINF:-1 group-title="馬來西亞 Malaysia",KBS World
-https://guot55.serv00.net/Smatrv.php?id=KBS
-#EXTINF:-1 group-title="馬來西亞 Malaysia",TvN
-https://guot55.serv00.net/Smatrv.php?id=TVN
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Astro Premier
-https://guot55.serv00.net/Smatrv.php?id=Astropremier
-#EXTINF:-1 group-title="馬來西亞 Malaysia",AEC
-https://guot55.serv00.net/Smatrv.php?id=AEC
-#EXTINF:-1 group-title="馬來西亞 Malaysia",華麗台 HD
-https://guot55.serv00.net/Smatrv.php?id=Wlt
-#EXTINF:-1 group-title="馬來西亞 Malaysia",歡喜台 HD
-https://guot55.serv00.net/Smatrv.php?id=Huahee
-#EXTINF:-1 group-title="馬來西亞 Malaysia",歡喜台(備用)
-https://guot55.serv00.net/Smatrv.php?id=Huahee月光宝盒backup
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Astro QJ
-https://guot55.serv00.net/Smatrv.php?id=Quanjia
-#EXTINF:-1 group-title="馬來西亞 Malaysia",TVB Jade
-https://guot55.serv00.net/Smatrv.php?id=Tvbjade
-#EXTINF:-1 group-title="馬來西亞 Malaysia",TVBS Asia
-https://guot55.serv00.net/Smatrv.php?id=Tvbasia
-#EXTINF:-1 group-title="馬來西亞 Malaysia",TVB Entertainment
-https://guot55.serv00.net/Smatrv.php?id=Tvbentertainment
-#EXTINF:-1 group-title="馬來西亞 Malaysia",TVB Classic
-https://guot55.serv00.net/Smatrv.php?id=Tvbclassic
-#EXTINF:-1 group-title="馬來西亞 Malaysia",AOD
-https://guot55.serv00.net/Smatrv.php?id=AodHD
-#EXTINF:-1 group-title="馬來西亞 Malaysia",One
-https://guot55.serv00.net/Smatrv.php?id=One月光宝盒mega
-#EXTINF:-1 group-title="馬來西亞 Malaysia",TVB 星河台
-https://guot55.serv00.net/Smatrv.php?id=Xinhe
-#EXTINF:-1 group-title="馬來西亞 Malaysia",愛奇藝
-https://guot55.serv00.net/Smatrv.php?id=Qiyi
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Animal Planet (Eng)
-https://guot55.serv00.net/Smatrv.php?id=AnimalPlanet
-#EXTINF:-1 group-title="馬來西亞 Malaysia",tvN Movie
-https://guot55.serv00.net/Smatrv.php?id=Tvnmovie
-#EXTINF:-1 group-title="馬來西亞 Malaysia",CNN(備用)
-https://guot55.serv00.net/Smatrv.php?id=cnn月光宝盒twn
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Celestial Classic
-https://guot55.serv00.net/Smatrv.php?id=Celestial2
-#EXTINF:-1 group-title="馬來西亞 Malaysia",CNBC
-https://guot55.serv00.net/Smatrv.php?id=cnbc月光宝盒twn
-#EXTINF:-1 group-title="馬來西亞 Malaysia",RTM Sports HD
-https://guot55.serv00.net/Smatrv.php?id=Rtmsport
-#EXTINF:-1 group-title="馬來西亞 Malaysia",TLC
-https://guot55.serv00.net/Smatrv.php?id=Tlc
-#EXTINF:-1 group-title="馬來西亞 Malaysia",CNA
-https://guot55.serv00.net/Smatrv.php?id=cna
-#EXTINF:-1 group-title="馬來西亞 Malaysia",AFC 亞洲旅遊台
-https://guot55.serv00.net/Smatrv.php?id=asiatravel月光宝盒twn
-#EXTINF:-1 group-title="馬來西亞 Malaysia",BBC World News
-https://guot55.serv00.net/Smatrv.php?id=bbcnews月光宝盒twn
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Foodnetwork Hd
-https://guot55.serv00.net/Smatrv.php?id=Foodnetwork月光宝盒mega
-#EXTINF:-1 group-title="馬來西亞 Malaysia",HGTV
-https://guot55.serv00.net/Smatrv.php?id=HGTV
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Arena
-https://guot55.serv00.net/Smatrv.php?id=Arena
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Goshop
-https://guot55.serv00.net/Smatrv.php?id=Goshop
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Celestial Movies HD
-https://guot55.serv00.net/Smatrv.php?id=Celestial月光宝盒mega
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Arena 2
-https://guot55.serv00.net/Smatrv.php?id=Arena2
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Axn HD
-https://guot55.serv00.net/Smatrv.php?id=Axn
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Paramount Network
-https://guot55.serv00.net/Smatrv.php?id=Paramountnetwork
-#EXTINF:-1 group-title="馬來西亞 Malaysia",BolaArena 1
-https://guot55.serv00.net/Smatrv.php?id=Bolaarena1
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Astrol Kplus
-https://guot55.serv00.net/Smatrv.php?id=Kplus
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Rock Actions
-https://guot55.serv00.net/Smatrv.php?id=Rockaction
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Bloomberg News
-https://guot55.serv00.net/Smatrv.php?id=bloomberg月光宝盒twn
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Al-Jazeera
-https://guot55.serv00.net/Smatrv.php?id=aljazeera月光宝盒twn
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Rock Entertainment
-https://guot55.serv00.net/Smatrv.php?id=Rockentertain
-#EXTINF:-1 group-title="馬來西亞 Malaysia",Showcase
-https://guot55.serv00.net/Smatrv.php?id=Showcase月光宝盒mega
-#EXTINF:-1 group-title="馬來西亞 Malaysia",BolaArena 2
-https://guot55.serv00.net/Smatrv.php?id=Bolaarena2
-#EXTINF:-1 group-title="新加坡 Singapore",Channel 5
-https://guot55.serv00.net/Smatrv.php?id=Channel5HD
-#EXTINF:-1 group-title="新加坡 Singapore",Channel 5(備用)
-https://guot55.serv00.net/Smatrv.php?id=Ch5月光宝盒mega
-#EXTINF:-1 group-title="新加坡 Singapore",Channel 8
-https://guot55.serv00.net/Smatrv.php?id=Channel8HD
-#EXTINF:-1 group-title="新加坡 Singapore",Channel 8(備用)
-https://guot55.serv00.net/Smatrv.php?id=Ch8月光宝盒mega
-#EXTINF:-1 group-title="新加坡 Singapore",Suria
-https://guot55.serv00.net/Smatrv.php?id=Suria
-#EXTINF:-1 group-title="新加坡 Singapore",Suria(備用)
-https://guot55.serv00.net/Smatrv.php?id=Suria月光宝盒backup
-#EXTINF:-1 group-title="新加坡 Singapore",Channel U
-https://guot55.serv00.net/Smatrv.php?id=ChannelU
-#EXTINF:-1 group-title="新加坡 Singapore",Channel U(備用)
-https://guot55.serv00.net/Smatrv.php?id=ChU月光宝盒mega
-#EXTINF:-1 group-title="新加坡 Singapore",Vasantham
-https://guot55.serv00.net/Smatrv.php?id=Vasantham
-#EXTINF:-1 group-title="新加坡 Singapore",Vasantham(備用)
-https://guot55.serv00.net/Smatrv.php?id=Vasantham月光宝盒mega
-#EXTINF:-1 group-title="新加坡 Singapore",CNA
-https://guot55.serv00.net/Smatrv.php?id=cna
-#EXTINF:-1 group-title="新加坡 Singapore",CNA(備用)
-https://guot55.serv00.net/Smatrv.php?id=cna月光宝盒twn
-#EXTINF:-1 group-title="印尼 Indonesia",TVRI National
-https://guot55.serv00.net/Smatrv.php?id=TVRI
-#EXTINF:-1 group-title="印尼 Indonesia",RCTI
-https://guot55.serv00.net/Smatrv.php?id=Rcti
-#EXTINF:-1 group-title="印尼 Indonesia",Kompass TV
-https://guot55.serv00.net/Smatrv.php?id=Kompass
-#EXTINF:-1 group-title="印尼 Indonesia",Berita Satu
-https://guot55.serv00.net/Smatrv.php?id=BeritaSatu月光宝盒eko
-#EXTINF:-1 group-title="印尼 Indonesia",Indosiar HD
-https://guot55.serv00.net/Smatrv.php?id=Indosiar
-#EXTINF:-1 group-title="印尼 Indonesia",AnTV
-https://guot55.serv00.net/Smatrv.php?id=Antv
-#EXTINF:-1 group-title="印尼 Indonesia",MNC TV
-https://guot55.serv00.net/Smatrv.php?id=Mnctv
-#EXTINF:-1 group-title="印尼 Indonesia",Trans 7
-https://guot55.serv00.net/Smatrv.php?id=Trans7月光宝盒eko
-#EXTINF:-1 group-title="印尼 Indonesia",Transtv
-https://guot55.serv00.net/Smatrv.php?id=Transtv
-#EXTINF:-1 group-title="印尼 Indonesia",JTV
-https://guot55.serv00.net/Smatrv.php?id=JTV月光宝盒eko
-#EXTINF:-1 group-title="印尼 Indonesia",Metro TV
-https://guot55.serv00.net/Smatrv.php?id=metrotv月光宝盒eko
-#EXTINF:-1 group-title="印尼 Indonesia",Cinemax
-https://guot55.serv00.net/Smatrv.php?id=Cinemax
-#EXTINF:-1 group-title="印尼 Indonesia",SCTV
-https://guot55.serv00.net/Smatrv.php?id=SCTV
-#EXTINF:-1 group-title="印尼 Indonesia",Tvone
-https://guot55.serv00.net/Smatrv.php?id=Tvone
-#EXTINF:-1 group-title="印尼 Indonesia",TVMU
-https://guot55.serv00.net/Smatrv.php?id=TVMU月光宝盒eko
-#EXTINF:-1 group-title="印尼 Indonesia",GTV
-https://guot55.serv00.net/Smatrv.php?id=Gtv
-#EXTINF:-1 group-title="印尼 Indonesia",RTV
-https://guot55.serv00.net/Smatrv.php?id=Rtv
-#EXTINF:-1 group-title="印尼 Indonesia",Jak TV
-https://guot55.serv00.net/Smatrv.php?id=JakTV
-#EXTINF:-1 group-title="印尼 Indonesia",iNews TV
-https://guot55.serv00.net/Smatrv.php?id=Inewstv
-#EXTINF:-1 group-title="印尼 Indonesia",Daai TV
-https://guot55.serv00.net/Smatrv.php?id=DaaiTV
-#EXTINF:-1 group-title="印尼 Indonesia",Net TV
-https://guot55.serv00.net/Smatrv.php?id=NetTV
-#EXTINF:-1 group-title="印尼 Indonesia",Animax
-https://guot55.serv00.net/Smatrv.php?id=Animax
-#EXTINF:-1 group-title="印尼 Indonesia",EWTN
-https://guot55.serv00.net/Smatrv.php?id=Ewtn
-#EXTINF:-1 group-title="印尼 Indonesia",AlQuran AlKareem
-https://guot55.serv00.net/Smatrv.php?id=AlQuran
-#EXTINF:-1 group-title="印尼 Indonesia",Tawaf TV
-https://guot55.serv00.net/Smatrv.php?id=TawafTV
-#EXTINF:-1 group-title="印尼 Indonesia",Vision Prime
-https://guot55.serv00.net/Smatrv.php?id=VisionPrime
-#EXTINF:-1 group-title="印尼 Indonesia",Muslim TV
-https://guot55.serv00.net/Smatrv.php?id=MuslimTV
-#EXTINF:-1 group-title="印尼 Indonesia",Music TV
-https://guot55.serv00.net/Smatrv.php?id=MusicTV
-#EXTINF:-1 group-title="印尼 Indonesia",Lifestyle&Fashion
-https://guot55.serv00.net/Smatrv.php?id=Lifestyle
-#EXTINF:-1 group-title="印尼 Indonesia",Entertain
-https://guot55.serv00.net/Smatrv.php?id=Entertain
-#EXTINF:-1 group-title="印尼 Indonesia",Hits
-https://guot55.serv00.net/Smatrv.php?id=Hits
-#EXTINF:-1 group-title="印尼 Indonesia",Warner TV
-https://guot55.serv00.net/Smatrv.php?id=WarnerTV
-#EXTINF:-1 group-title="印尼 Indonesia",SCM
-https://guot55.serv00.net/Smatrv.php?id=Weishimovie
-#EXTINF:-1 group-title="印尼 Indonesia",Thrill
-https://guot55.serv00.net/Smatrv.php?id=Thrill
-#EXTINF:-1 group-title="印尼 Indonesia",Fight Sports
-https://guot55.serv00.net/Smatrv.php?id=Fs
-#EXTINF:-1 group-title="印尼 Indonesia",Beinsports 2 HD
-https://guot55.serv00.net/Smatrv.php?id=Bein2hd
-#EXTINF:-1 group-title="印尼 Indonesia",Hits Movie
-https://guot55.serv00.net/Smatrv.php?id=Hitsmovie
-#EXTINF:-1 group-title="印尼 Indonesia",One
-https://guot55.serv00.net/Smatrv.php?id=One月光宝盒mega
-#EXTINF:-1 group-title="印尼 Indonesia",tvN Movie
-https://guot55.serv00.net/Smatrv.php?id=Tvnmovie
-#EXTINF:-1 group-title="印尼 Indonesia",Celestial Movies HD
-https://guot55.serv00.net/Smatrv.php?id=Celestialindo
-#EXTINF:-1 group-title="印尼 Indonesia",Rock Actions
-https://guot55.serv00.net/Smatrv.php?id=Rockaction
-#EXTINF:-1 group-title="印尼 Indonesia",Rock Entertainment
-https://guot55.serv00.net/Smatrv.php?id=Rockentertain
-#EXTINF:-1 group-title="香港 Hongkong",J2(備用)
-https://guot55.serv00.net/Smatrv.php?id=j2月光宝盒hkdavid
-#EXTINF:-1 group-title="香港 Hongkong",J2
-https://guot55.serv00.net/Smatrv.php?id=j2月光宝盒twn
-#EXTINF:-1 group-title="香港 Hongkong",RHK 31
-https://guot55.serv00.net/Smatrv.php?id=rhk31月光宝盒twn
-#EXTINF:-1 group-title="香港 Hongkong",RHK 32
-https://guot55.serv00.net/Smatrv.php?id=rhk32月光宝盒twn
-#EXTINF:-1 group-title="香港 Hongkong",TVB 星河
-https://guot55.serv00.net/Smatrv.php?id=tvbxinhe月光宝盒twn
-#EXTINF:-1 group-title="香港 Hongkong",VIUTV1
-https://guot55.serv00.net/Smatrv.php?id=viu1月光宝盒twn
-#EXTINF:-1 group-title="香港 Hongkong",Viu TV 69
-https://guot55.serv00.net/Smatrv.php?id=viutv69月光宝盒hkdavid
-#EXTINF:-1 group-title="香港 Hongkong",Viu6
-https://guot55.serv00.net/Smatrv.php?id=viusix月光宝盒twn
-#EXTINF:-1 group-title="香港 Hongkong",iNews 新聞台
-https://guot55.serv00.net/Smatrv.php?id=inews月光宝盒twn
-#EXTINF:-1 group-title="香港 Hongkong",無線財經資訊台
-https://guot55.serv00.net/Smatrv.php?id=tvbcaijing月光宝盒twn
-#EXTINF:-1 group-title="香港 Hongkong",珍珠台(備用)
-https://guot55.serv00.net/Smatrv.php?id=pearl月光宝盒hkdavid
-#EXTINF:-1 group-title="香港 Hongkong",珍珠台
-https://guot55.serv00.net/Smatrv.php?id=pearl月光宝盒twn
-#EXTINF:-1 group-title="香港 Hongkong",翡翠台(備用)
-https://guot55.serv00.net/Smatrv.php?id=jade月光宝盒mike
-#EXTINF:-1 group-title="香港 Hongkong",翡翠台
-https://guot55.serv00.net/Smatrv.php?id=jade月光宝盒twn
-#EXTINF:-1 group-title="香港 Hongkong",鳳凰衛視
-https://guot55.serv00.net/Smatrv.php?id=phoenixtv月光宝盒hd
-#EXTINF:-1 group-title="香港 Hongkong",鳳凰資訊
-https://guot55.serv00.net/Smatrv.php?id=phoenixinfo月光宝盒hd
-#EXTINF:-1 group-title="香港 Hongkong",鳳凰香港
-https://guot55.serv00.net/Smatrv.php?id=hkphoenix月光宝盒twn
-#EXTINF:-1 group-title="中國 China",CCTV-1
-https://guot55.serv00.net/Smatrv.php?id=cctv1
-#EXTINF:-1 group-title="中國 China",CCTV-2
-https://guot55.serv00.net/Smatrv.php?id=cctv2
-#EXTINF:-1 group-title="中國 China",CCTV-3
-https://guot55.serv00.net/Smatrv.php?id=cctv3
-#EXTINF:-1 group-title="中國 China",CCTV-4
-https://guot55.serv00.net/Smatrv.php?id=cctv4
-#EXTINF:-1 group-title="中國 China",CCTV-4
-https://guot55.serv00.net/Smatrv.php?id=Cctv4
-#EXTINF:-1 group-title="中國 China",CCTV-5
-https://guot55.serv00.net/Smatrv.php?id=cctv5
-#EXTINF:-1 group-title="中國 China",CCTV-5+
-https://guot55.serv00.net/Smatrv.php?id=cctv5plus
-#EXTINF:-1 group-title="中國 China",CCTV-6
-https://guot55.serv00.net/Smatrv.php?id=cctv6
-#EXTINF:-1 group-title="中國 China",CCTV-7
-https://guot55.serv00.net/Smatrv.php?id=cctv7
-#EXTINF:-1 group-title="中國 China",CCTV-8
-https://guot55.serv00.net/Smatrv.php?id=cctv8hd
-#EXTINF:-1 group-title="中國 China",CCTV-9
-https://guot55.serv00.net/Smatrv.php?id=cctv9hd
-#EXTINF:-1 group-title="中國 China",CCTV-10
-https://guot55.serv00.net/Smatrv.php?id=cctv10hd
-#EXTINF:-1 group-title="中國 China",CCTV-11
-https://guot55.serv00.net/Smatrv.php?id=cctv11
-#EXTINF:-1 group-title="中國 China",CCTV-12
-https://guot55.serv00.net/Smatrv.php?id=cctv12
-#EXTINF:-1 group-title="中國 China",CCTV-13
-https://guot55.serv00.net/Smatrv.php?id=cctv13
-#EXTINF:-1 group-title="中國 China",CCTV-14
-https://guot55.serv00.net/Smatrv.php?id=cctv14
-#EXTINF:-1 group-title="中國 China",CCTV-15
-https://guot55.serv00.net/Smatrv.php?id=cctv15
-#EXTINF:-1 group-title="中國 China",CCTV-16
-https://guot55.serv00.net/Smatrv.php?id=cctv16
-#EXTINF:-1 group-title="中國 China",CCTV-17
-https://guot55.serv00.net/Smatrv.php?id=cctv17
-#EXTINF:-1 group-title="中國 China",湖南衛視
-https://guot55.serv00.net/Smatrv.php?id=hunan月光宝盒twn
-#EXTINF:-1 group-title="中國 China",江蘇衛視
-https://guot55.serv00.net/Smatrv.php?id=jiangsu月光宝盒twn
-#EXTINF:-1 group-title="中國 China",深圳衛視
-https://guot55.serv00.net/Smatrv.php?id=shenzhen
-#EXTINF:-1 group-title="中國 China",大灣區衛視
-https://guot55.serv00.net/Smatrv.php?id=nanfang月光宝盒twn
-#EXTINF:-1 group-title="中國 China",廣東衛視
-https://guot55.serv00.net/Smatrv.php?id=guangdongweishi月光宝盒twn
-#EXTINF:-1 group-title="中國 China",北京衛視
-https://guot55.serv00.net/Smatrv.php?id=beijing
-#EXTINF:-1 group-title="中國 China",廣東珠江
-https://guot55.serv00.net/Smatrv.php?id=zhujiang
-#EXTINF:-1 group-title="中國 China",廣西衛視
-https://guot55.serv00.net/Smatrv.php?id=guangxi
-#EXTINF:-1 group-title="中國 China",湖北衛視
-https://guot55.serv00.net/Smatrv.php?id=hubei
-#EXTINF:-1 group-title="中國 China",四川衛視
-https://guot55.serv00.net/Smatrv.php?id=sichuan月光宝盒twn
-#EXTINF:-1 group-title="中國 China",鳳凰衛視
-https://guot55.serv00.net/Smatrv.php?id=phoenixtv月光宝盒hd
-#EXTINF:-1 group-title="中國 China",東方衛視
-https://guot55.serv00.net/Smatrv.php?id=dongfangweishi月光宝盒twn
-#EXTINF:-1 group-title="中國 China",CGTN
-https://guot55.serv00.net/Smatrv.php?id=CGTN
-#EXTINF:-1 group-title="中國 China",鳳凰資訊
-https://guot55.serv00.net/Smatrv.php?id=phoenixinfo月光宝盒hd
-#EXTINF:-1 group-title="體育 Sports",Supersports 1
-https://guot55.serv00.net/Smatrv.php?id=Assp1
-#EXTINF:-1 group-title="體育 Sports",Supersports 1(備用)
-https://guot55.serv00.net/Smatrv.php?id=go月光宝盒assp1
-#EXTINF:-1 group-title="體育 Sports",Supersportq 1(備用2)
-https://guot55.serv00.net/Smatrv.php?id=Assp1月光宝盒mega
-#EXTINF:-1 group-title="體育 Sports",Supersports 2
-https://guot55.serv00.net/Smatrv.php?id=Assp2
-#EXTINF:-1 group-title="體育 Sports",Supersports 2(備用)
-https://guot55.serv00.net/Smatrv.php?id=go月光宝盒assp2
-#EXTINF:-1 group-title="體育 Sports",Supersports 3
-https://guot55.serv00.net/Smatrv.php?id=Assp3
-#EXTINF:-1 group-title="體育 Sports",Supersports 3(備用)
-https://guot55.serv00.net/Smatrv.php?id=go月光宝盒assp3
-#EXTINF:-1 group-title="體育 Sports",Supersports 3(備用2)
-https://guot55.serv00.net/Smatrv.php?id=Assp3月光宝盒mega
-#EXTINF:-1 group-title="體育 Sports",Supersports 4
-https://guot55.serv00.net/Smatrv.php?id=Assp4月光宝盒mega
-#EXTINF:-1 group-title="體育 Sports",Supersports 4(備用)
-https://guot55.serv00.net/Smatrv.php?id=go月光宝盒assp4
-#EXTINF:-1 group-title="體育 Sports",Supersports 5
-https://guot55.serv00.net/Smatrv.php?id=go月光宝盒assp5
-#EXTINF:-1 group-title="體育 Sports",Bein 2HD
-https://guot55.serv00.net/Smatrv.php?id=Beinhd
-#EXTINF:-1 group-title="體育 Sports",Beinsports HD
-https://guot55.serv00.net/Smatrv.php?id=Besports
-#EXTINF:-1 group-title="體育 Sports",Champion 5 EPL
-https://guot55.serv00.net/Smatrv.php?id=Champion5epl
-#EXTINF:-1 group-title="體育 Sports",WWE
-https://guot55.serv00.net/Smatrv.php?id=Wwe
-#EXTINF:-1 group-title="體育 Sports",Champion 6 EPL
-https://guot55.serv00.net/Smatrv.php?id=Champion6epl
-#EXTINF:-1 group-title="體育 Sports",Fight Sports
-https://guot55.serv00.net/Smatrv.php?id=Fs
-#EXTINF:-1 group-title="體育 Sports",UFC Network
-https://guot55.serv00.net/Smatrv.php?id=ufc月光宝盒mega
-#EXTINF:-1 group-title="體育 Sports",NBA TV
-https://guot55.serv00.net/Smatrv.php?id=nbatv月光宝盒twn
-#EXTINF:-1 group-title="體育 Sports",Astro Cricket
-https://guot55.serv00.net/Smatrv.php?id=Acricket月光宝盒mega
-#EXTINF:-1 group-title="體育 Sports",Astro Golf
-https://guot55.serv00.net/Smatrv.php?id=Agolf
-#EXTINF:-1 group-title="體育 Sports",TNT Sports 1
-https://guot55.serv00.net/Smatrv.php?id=beeone
-#EXTINF:-1 group-title="體育 Sports",TNT Sports 2
-https://guot55.serv00.net/Smatrv.php?id=beetwo
-#EXTINF:-1 group-title="體育 Sports",TNT Sports 3
-https://guot55.serv00.net/Smatrv.php?id=beethree
-#EXTINF:-1 group-title="體育 Sports",TNT Sports 4
-https://guot55.serv00.net/Smatrv.php?id=beefour
-#EXTINF:-1 group-title="體育 Sports",Sony Ten 1
-https://guot55.serv00.net/Smatrv.php?id=ten1月光宝盒raj
-#EXTINF:-1 group-title="體育 Sports",Sony Ten 2
-https://guot55.serv00.net/Smatrv.php?id=ten2月光宝盒raj
-#EXTINF:-1 group-title="體育 Sports",Sony Ten 3
-https://guot55.serv00.net/Smatrv.php?id=ten3月光宝盒raj
-#EXTINF:-1 group-title="體育 Sports",SPOTV 1 HD
-https://guot55.serv00.net/Smatrv.php?id=go月光宝盒spotv
-#EXTINF:-1 group-title="體育 Sports",SPO TV 2
-https://guot55.serv00.net/Smatrv.php?id=go月光宝盒spotv2
-#EXTINF:-1 group-title="體育 Sports",Beinsports 2 HD
-https://guot55.serv00.net/Smatrv.php?id=Bein2hd
-#EXTINF:-1 group-title="體育 Sports",Skysports Arena
-https://guot55.serv00.net/Smatrv.php?id=tiankongarena
-#EXTINF:-1 group-title="體育 Sports",Skysports F1
-https://guot55.serv00.net/Smatrv.php?id=tiankongf1
-#EXTINF:-1 group-title="體育 Sports",Skysports Cricket
-https://guot55.serv00.net/Smatrv.php?id=tiankongcricket
-#EXTINF:-1 group-title="體育 Sports",Skysports EPL
-https://guot55.serv00.net/Smatrv.php?id=tiankongepl
-#EXTINF:-1 group-title="體育 Sports",Skysports Football
-https://guot55.serv00.net/Smatrv.php?id=tiankongfootball
-#EXTINF:-1 group-title="體育 Sports",Skysports Golf
-https://guot55.serv00.net/Smatrv.php?id=tiankonggolf
-#EXTINF:-1 group-title="體育 Sports",Skysports Main Event
-https://guot55.serv00.net/Smatrv.php?id=tiankongmain
-#EXTINF:-1 group-title="體育 Sports",Skysports News
-https://guot55.serv00.net/Smatrv.php?id=tiankongnews
-#EXTINF:-1 group-title="體育 Sports",Skysports NFL
-https://guot55.serv00.net/Smatrv.php?id=tiankongnfl
-#EXTINF:-1 group-title="體育 Sports",Skysports Racing
-https://guot55.serv00.net/Smatrv.php?id=tiankongracing
-#EXTINF:-1 group-title="體育 Sports",Skysports Mix
-https://guot55.serv00.net/Smatrv.php?id=tiankongmix
-#EXTINF:-1 group-title="體育 Sports",CCTV-5
-https://guot55.serv00.net/Smatrv.php?id=cctv5
-#EXTINF:-1 group-title="體育 Sports",CCTV-5+
-https://guot55.serv00.net/Smatrv.php?id=cctv5plus
-#EXTINF:-1 group-title="體育 Sports",愛爾達體育2台
-https://guot55.serv00.net/Smatrv.php?id=eltasport2月光宝盒twn
-#EXTINF:-1 group-title="體育 Sports",愛爾達體育3台
-https://guot55.serv00.net/Smatrv.php?id=eltasport3月光宝盒twn
-#EXTINF:-1 group-title="體育 Sports",RTM Sports HD
-https://guot55.serv00.net/Smatrv.php?id=Rtmsport
-#EXTINF:-1 group-title="體育 Sports",Arena
-https://guot55.serv00.net/Smatrv.php?id=Arena
-#EXTINF:-1 group-title="體育 Sports",Arena 2
-https://guot55.serv00.net/Smatrv.php?id=Arena2
-#EXTINF:-1 group-title="體育 Sports",BolaArena 1
-https://guot55.serv00.net/Smatrv.php?id=Bolaarena1
-#EXTINF:-1 group-title="體育 Sports",Bein 1 Sports
-https://guot55.serv00.net/Smatrv.php?id=bein1月光宝盒mega
-#EXTINF:-1 group-title="體育 Sports",Bein 2 Sports
-https://guot55.serv00.net/Smatrv.php?id=bein2月光宝盒mega
-#EXTINF:-1 group-title="體育 Sports",Bein 3 Sports
-https://guot55.serv00.net/Smatrv.php?id=bein3月光宝盒mega
-#EXTINF:-1 group-title="體育 Sports",Bein 4 Sports
-https://guot55.serv00.net/Smatrv.php?id=bein4月光宝盒mega
-#EXTINF:-1 group-title="體育 Sports",Bein 5 Sports
-https://guot55.serv00.net/Smatrv.php?id=bein5月光宝盒mega
-#EXTINF:-1 group-title="體育 Sports",Bein 6 Sports
-https://guot55.serv00.net/Smatrv.php?id=bein6月光宝盒mega
-#EXTINF:-1 group-title="體育 Sports",Bein 7 Sports
-https://guot55.serv00.net/Smatrv.php?id=bein7月光宝盒mega
-#EXTINF:-1 group-title="體育 Sports",Rugby Pass TV
-https://guot55.serv00.net/Smatrv.php?id=Rugbypasstv
-#EXTINF:-1 group-title="體育 Sports",BolaArena 2
-https://guot55.serv00.net/Smatrv.php?id=Bolaarena2
-#EXTINF:-1 group-title="印度 Indian",Sun TV HD
-https://guot55.serv00.net/Smatrv.php?id=Suntv
-#EXTINF:-1 group-title="印度 Indian",Star Vijay
-https://guot55.serv00.net/Smatrv.php?id=Starvijay
-#EXTINF:-1 group-title="印度 Indian",Colors Tamil
-https://guot55.serv00.net/Smatrv.php?id=Colorstam月光宝盒mega
-#EXTINF:-1 group-title="印度 Indian",Sun Music
-https://guot55.serv00.net/Smatrv.php?id=Sunmusic
-#EXTINF:-1 group-title="印度 Indian",Astro Sunlife
-https://guot55.serv00.net/Smatrv.php?id=Sunlife
-#EXTINF:-1 group-title="印度 Indian",Astro Vaanavil
-https://guot55.serv00.net/Smatrv.php?id=Vaanavil
-#EXTINF:-1 group-title="印度 Indian",Zee Tamil
-https://guot55.serv00.net/Smatrv.php?id=Zeetamil
-#EXTINF:-1 group-title="印度 Indian",Zee Business
-https://guot55.serv00.net/Smatrv.php?id=Zeebusiness
-#EXTINF:-1 group-title="印度 Indian",News 18 Tamil
-https://guot55.serv00.net/Smatrv.php?id=news18tamil月光宝盒raj
-#EXTINF:-1 group-title="印度 Indian",Adithya
-https://guot55.serv00.net/Smatrv.php?id=Adithya
-#EXTINF:-1 group-title="印度 Indian",Makkal TV
-https://guot55.serv00.net/Smatrv.php?id=Makkaltv
-#EXTINF:-1 group-title="印度 Indian",Zee Action
-https://guot55.serv00.net/Smatrv.php?id=Zeeaction
-#EXTINF:-1 group-title="印度 Indian",Astro KTV
-https://guot55.serv00.net/Smatrv.php?id=Astroktv
-#EXTINF:-1 group-title="印度 Indian",Zee TV HD
-https://guot55.serv00.net/Smatrv.php?id=Zeetvhd
-#EXTINF:-1 group-title="印度 Indian",Zee Cinema HD
-https://guot55.serv00.net/Smatrv.php?id=Zeecinemahd
-#EXTINF:-1 group-title="印度 Indian",Color HD
-https://guot55.serv00.net/Smatrv.php?id=Colorhd
-#EXTINF:-1 group-title="印度 Indian",Starplus HD
-https://guot55.serv00.net/Smatrv.php?id=Starplushd
-#EXTINF:-1 group-title="印度 Indian",Picture HD
-https://guot55.serv00.net/Smatrv.php?id=Npicture
-#EXTINF:-1 group-title="印度 Indian",Zee News
-https://guot55.serv00.net/Smatrv.php?id=Zeenews
-#EXTINF:-1 group-title="印度 Indian",Asianet
-https://guot55.serv00.net/Smatrv.php?id=asianet月光宝盒raj
-#EXTINF:-1 group-title="印度 Indian",Asianet News
-https://guot55.serv00.net/Smatrv.php?id=asianetnews月光宝盒raj
-#EXTINF:-1 group-title="印度 Indian",Times Now
-https://guot55.serv00.net/Smatrv.php?id=timesnow月光宝盒mega
-#EXTINF:-1 group-title="印度 Indian",BBC Earth Tamil
-https://guot55.serv00.net/Smatrv.php?id=bbcearthtam月光宝盒raj
-#EXTINF:-1 group-title="印度 Indian",Discovery World Tamil
-https://guot55.serv00.net/Smatrv.php?id=discoveryworldtam月光宝盒raj
-#EXTINF:-1 group-title="印度 Indian",History Tamil
-https://guot55.serv00.net/Smatrv.php?id=historytam月光宝盒raj
-#EXTINF:-1 group-title="印度 Indian",NatGeo Tamil
-https://guot55.serv00.net/Smatrv.php?id=natgeotamil月光宝盒raj
-#EXTINF:-1 group-title="印度 Indian",Natgeo Wild Tamil
-https://guot55.serv00.net/Smatrv.php?id=natgeowildtamil月光宝盒raj
-#EXTINF:-1 group-title="印度 Indian",Discovery Kids Tamil
-https://guot55.serv00.net/Smatrv.php?id=discoverykidtamil月光宝盒raj
-#EXTINF:-1 group-title="印度 Indian",Discovery Tamil
-https://guot55.serv00.net/Smatrv.php?id=discoverytamil月光宝盒raj
-#EXTINF:-1 group-title="印度 Indian",Sony Yay Tamil
-https://guot55.serv00.net/Smatrv.php?id=sonyyaytam月光宝盒raj
-#EXTINF:-1 group-title="印度 Indian",Sun TV India
-https://guot55.serv00.net/Smatrv.php?id=suntv月光宝盒raj
-#EXTINF:-1 group-title="印度 Indian",Starmaa HD
-https://guot55.serv00.net/Smatrv.php?id=starmaa月光宝盒raj
-#EXTINF:-1 group-title="印度 Indian",Starmaa Movies HD
-https://guot55.serv00.net/Smatrv.php?id=starmaamovies月光宝盒raj
-#EXTINF:-1 group-title="印度 Indian",Bollyone
-https://guot55.serv00.net/Smatrv.php?id=Bollyone
-#EXTINF:-1 group-title="印度 Indian",Astro Sunmusic
-https://guot55.serv00.net/Smatrv.php?id=Sunmusic
-#EXTINF:-1 group-title="印度 Indian",Sony Pix HD
-https://guot55.serv00.net/Smatrv.php?id=sonypix月光宝盒mega
-#EXTINF:-1 group-title="印度 Indian",Vijay Super
-https://guot55.serv00.net/Smatrv.php?id=vijaysuper月光宝盒raj
-#EXTINF:-1 group-title="電影 Movie",AXN
-https://guot55.serv00.net/Smatrv.php?id=axn月光宝盒twn
-#EXTINF:-1 group-title="電影 Movie",Animax
-https://guot55.serv00.net/Smatrv.php?id=Animax
-#EXTINF:-1 group-title="電影 Movie",Astrol Kplus
-https://guot55.serv00.net/Smatrv.php?id=Kplus
-#EXTINF:-1 group-title="電影 Movie",Axn HD
-https://guot55.serv00.net/Smatrv.php?id=Axn
-#EXTINF:-1 group-title="電影 Movie",CCTV-6
-https://guot55.serv00.net/Smatrv.php?id=cctv6
-#EXTINF:-1 group-title="電影 Movie",CINEMAX
-https://guot55.serv00.net/Smatrv.php?id=cinemax月光宝盒twn
-#EXTINF:-1 group-title="電影 Movie",Celestial Classic
-https://guot55.serv00.net/Smatrv.php?id=Celestial2
-#EXTINF:-1 group-title="電影 Movie",Celestial Movies HD
-https://guot55.serv00.net/Smatrv.php?id=Celestialindo
-#EXTINF:-1 group-title="電影 Movie",Cinemax
-https://guot55.serv00.net/Smatrv.php?id=Cinemax
-#EXTINF:-1 group-title="電影 Movie",HBO Family
-https://guot55.serv00.net/Smatrv.php?id=Hbofamily
-#EXTINF:-1 group-title="電影 Movie",HBO HD
-https://guot55.serv00.net/Smatrv.php?id=Hbo
-#EXTINF:-1 group-title="電影 Movie",HBO Hits
-https://guot55.serv00.net/Smatrv.php?id=Hbohits
-#EXTINF:-1 group-title="電影 Movie",HBO Signature
-https://guot55.serv00.net/Smatrv.php?id=Hbosignature
-#EXTINF:-1 group-title="電影 Movie",HBO月光宝盒HD
-https://guot55.serv00.net/Smatrv.php?id=hbohd月光宝盒twn
-#EXTINF:-1 group-title="電影 Movie",HBO月光宝盒HITS
-https://guot55.serv00.net/Smatrv.php?id=hbohits月光宝盒twn
-#EXTINF:-1 group-title="電影 Movie",Hits Movie
-https://guot55.serv00.net/Smatrv.php?id=Hitsmovie
-#EXTINF:-1 group-title="電影 Movie",Hits
-https://guot55.serv00.net/Smatrv.php?id=Hits
-#EXTINF:-1 group-title="電影 Movie",Hollywood Movies
-https://guot55.serv00.net/Smatrv.php?id=hollywoodmovies月光宝盒twn
-#EXTINF:-1 group-title="電影 Movie",Movies Now HD
-https://guot55.serv00.net/Smatrv.php?id=moviesnow月光宝盒raj
-#EXTINF:-1 group-title="電影 Movie",One
-https://guot55.serv00.net/Smatrv.php?id=One月光宝盒mega
-#EXTINF:-1 group-title="電影 Movie",Paramount Network
-https://guot55.serv00.net/Smatrv.php?id=Paramountnetwork
-#EXTINF:-1 group-title="電影 Movie",Rock Actions
-https://guot55.serv00.net/Smatrv.php?id=Rockaction
-#EXTINF:-1 group-title="電影 Movie",Rock Entertainment
-https://guot55.serv00.net/Smatrv.php?id=Rockentertain
-#EXTINF:-1 group-title="電影 Movie",SCM
-https://guot55.serv00.net/Smatrv.php?id=Weishimovie
-#EXTINF:-1 group-title="電影 Movie",Sony Pix HD
-https://guot55.serv00.net/Smatrv.php?id=sonypix月光宝盒mega
-#EXTINF:-1 group-title="電影 Movie",Star Movies HD
-https://guot55.serv00.net/Smatrv.php?id=starmovies月光宝盒raj
-#EXTINF:-1 group-title="電影 Movie",Thrill
-https://guot55.serv00.net/Smatrv.php?id=Thrill
-#EXTINF:-1 group-title="電影 Movie",Warner TV
-https://guot55.serv00.net/Smatrv.php?id=WarnerTV
-#EXTINF:-1 group-title="電影 Movie",tvN Movie
-https://guot55.serv00.net/Smatrv.php?id=Tvnmovie
-#EXTINF:-1 group-title="電影 Movie",大愛2台
-https://guot55.serv00.net/Smatrv.php?id=catchplay月光宝盒twn
-#EXTINF:-1 group-title="電影 Movie",龍華電影
-https://guot55.serv00.net/Smatrv.php?id=xingwei月光宝盒movie
-#EXTINF:-1 group-title="電影 Movie",東森洋片
-https://guot55.serv00.net/Smatrv.php?id=ettvwestern
-#EXTINF:-1 group-title="電影 Movie",東森電影
-https://guot55.serv00.net/Smatrv.php?id=ettvmovie
-#EXTINF:-1 group-title="電影 Movie",美亞電影
-https://guot55.serv00.net/Smatrv.php?id=meiyamovie月光宝盒twn
-#EXTINF:-1 group-title="電影 Movie",龍華洋片
-https://guot55.serv00.net/Smatrv.php?id=lunghuawestern月光宝盒twn
-#EXTINF:-1 group-title="電影 Movie",龍祥时代
-https://guot55.serv00.net/Smatrv.php?id=lungxiangtime月光宝盒twn
-#EXTINF:-1 group-title="紀錄 Documentary",AFC 亞洲旅遊台
-https://guot55.serv00.net/Smatrv.php?id=asiatravel月光宝盒twn
-#EXTINF:-1 group-title="紀錄 Documentary",Animal Planet (Eng)
-https://guot55.serv00.net/Smatrv.php?id=AnimalPlanet
-#EXTINF:-1 group-title="紀錄 Documentary",Animal月光宝盒Planet
-https://guot55.serv00.net/Smatrv.php?id=animalplanet月光宝盒twn
-#EXTINF:-1 group-title="紀錄 Documentary",Asia Travel
-https://guot55.serv00.net/Smatrv.php?id=asiatravel月光宝盒twn
-#EXTINF:-1 group-title="紀錄 Documentary",BBC Earth HD
-https://guot55.serv00.net/Smatrv.php?id=bbcearth月光宝盒twn
-#EXTINF:-1 group-title="紀錄 Documentary",BBC Earth Lifestyle
-https://guot55.serv00.net/Smatrv.php?id=bbclifestyle月光宝盒twn
-#EXTINF:-1 group-title="紀錄 Documentary",CI
-https://guot55.serv00.net/Smatrv.php?id=ci月光宝盒twn
-#EXTINF:-1 group-title="紀錄 Documentary",Discovery Asia
-https://guot55.serv00.net/Smatrv.php?id=discoverytwn月光宝盒twn
-#EXTINF:-1 group-title="紀錄 Documentary",Discovery HD
-https://guot55.serv00.net/Smatrv.php?id=discoveryhd月光宝盒twn
-#EXTINF:-1 group-title="紀錄 Documentary",Fashion TV
-https://guot55.serv00.net/Smatrv.php?id=fashiontv月光宝盒twn
-#EXTINF:-1 group-title="紀錄 Documentary",Foodnetwork Hd
-https://guot55.serv00.net/Smatrv.php?id=Foodnetwork月光宝盒mega
-#EXTINF:-1 group-title="紀錄 Documentary",HGTV
-https://guot55.serv00.net/Smatrv.php?id=HGTV
-#EXTINF:-1 group-title="紀錄 Documentary",History
-https://guot55.serv00.net/Smatrv.php?id=History
-#EXTINF:-1 group-title="紀錄 Documentary",MTV Live
-https://guot55.serv00.net/Smatrv.php?id=mtvhd月光宝盒twn
-#EXTINF:-1 group-title="紀錄 Documentary",NatGeo HD
-https://guot55.serv00.net/Smatrv.php?id=Natgeo
-#EXTINF:-1 group-title="紀錄 Documentary",NatGeo Wild HD
-https://guot55.serv00.net/Smatrv.php?id=Natgeowild
-#EXTINF:-1 group-title="紀錄 Documentary",NatGeo月光宝盒Wild HD
-https://guot55.serv00.net/Smatrv.php?id=natgeowild月光宝盒twn
-#EXTINF:-1 group-title="紀錄 Documentary",Natgeo月光宝盒HD
-https://guot55.serv00.net/Smatrv.php?id=natgeohd月光宝盒twn
-#EXTINF:-1 group-title="紀錄 Documentary",TLC
-https://guot55.serv00.net/Smatrv.php?id=Tlc
-#EXTINF:-1 group-title="紀錄 Documentary",TLC Asia
-https://guot55.serv00.net/Smatrv.php?id=tlc月光宝盒twn
-#EXTINF:-1 group-title="紀錄 Documentary",亞洲美食
-https://guot55.serv00.net/Smatrv.php?id=afc月光宝盒twn
-#EXTINF:-1 group-title="紀錄 Documentary",美食星球
-https://guot55.serv00.net/Smatrv.php?id=foodplanet月光宝盒twn
-#EXTINF:-1 group-title="新聞 News",ABC News
-https://guot55.serv00.net/Smatrv.php?id=abcnews月光宝盒glo
-#EXTINF:-1 group-title="新聞 News",Al-Jazeera
-https://guot55.serv00.net/Smatrv.php?id=aljazeera月光宝盒twn
-#EXTINF:-1 group-title="新聞 News",BBC World News
-https://guot55.serv00.net/Smatrv.php?id=Bbcnews
-#EXTINF:-1 group-title="新聞 News",BBC World News
-https://guot55.serv00.net/Smatrv.php?id=bbcnews月光宝盒twn
-#EXTINF:-1 group-title="新聞 News",Bloomberg News
-https://guot55.serv00.net/Smatrv.php?id=bloomberg月光宝盒twn
-#EXTINF:-1 group-title="新聞 News",CBS HD
-https://guot55.serv00.net/Smatrv.php?id=cbshd月光宝盒glo
-#EXTINF:-1 group-title="新聞 News",CBSN HD
-https://guot55.serv00.net/Smatrv.php?id=cbsn月光宝盒glo
-#EXTINF:-1 group-title="新聞 News",CGTN
-https://guot55.serv00.net/Smatrv.php?id=CGTN
-#EXTINF:-1 group-title="新聞 News",CNA
-https://guot55.serv00.net/Smatrv.php?id=cna
-#EXTINF:-1 group-title="新聞 News",CNBC
-https://guot55.serv00.net/Smatrv.php?id=cnbc月光宝盒twn
-#EXTINF:-1 group-title="新聞 News",CNN International
-https://guot55.serv00.net/Smatrv.php?id=Cnn
-#EXTINF:-1 group-title="新聞 News",CNN(備用)
-https://guot55.serv00.net/Smatrv.php?id=cnn月光宝盒twn
-#EXTINF:-1 group-title="新聞 News",DW (Deutsch)
-https://guot55.serv00.net/Smatrv.php?id=dw月光宝盒twn
-#EXTINF:-1 group-title="新聞 News",Fox News
-https://guot55.serv00.net/Smatrv.php?id=foxnews月光宝盒twn
-#EXTINF:-1 group-title="新聞 News",France 24
-https://guot55.serv00.net/Smatrv.php?id=france24月光宝盒twn
-#EXTINF:-1 group-title="新聞 News",NHK World
-https://guot55.serv00.net/Smatrv.php?id=nhkworld月光宝盒japan
-#EXTINF:-1 group-title="新聞 News",Skynews
-https://guot55.serv00.net/Smatrv.php?id=skynews月光宝盒antik
-#EXTINF:-1 group-title="新聞 News",東森財經新聞
-https://guot55.serv00.net/Smatrv.php?id=ettvcaijing月光宝盒twn
-#EXTINF:-1 group-title="兒童 Kids",Animax
-https://guot55.serv00.net/Smatrv.php?id=Animax
-#EXTINF:-1 group-title="兒童 Kids",Baby TV Eng
-https://guot55.serv00.net/Smatrv.php?id=Babytv
-#EXTINF:-1 group-title="兒童 Kids",Baby TV
-https://guot55.serv00.net/Smatrv.php?id=babytv月光宝盒twn
-#EXTINF:-1 group-title="兒童 Kids",Boomerang Taiwan
-https://guot55.serv00.net/Smatrv.php?id=boomerang月光宝盒twn
-#EXTINF:-1 group-title="兒童 Kids",Boomerang
-https://guot55.serv00.net/Smatrv.php?id=Boomerang
-#EXTINF:-1 group-title="兒童 Kids",CBeebies
-https://guot55.serv00.net/Smatrv.php?id=Cbeebies
-#EXTINF:-1 group-title="兒童 Kids",Cartoon Network
-https://guot55.serv00.net/Smatrv.php?id=Cn
-#EXTINF:-1 group-title="兒童 Kids",Disney Taiwan
-https://guot55.serv00.net/Smatrv.php?id=disneytwn月光宝盒twn
-#EXTINF:-1 group-title="兒童 Kids",Kids TV
-https://guot55.serv00.net/Smatrv.php?id=KidsTV
-#EXTINF:-1 group-title="兒童 Kids",MiaoMi
-https://guot55.serv00.net/Smatrv.php?id=MiaoMi
-#EXTINF:-1 group-title="兒童 Kids",Momo TV
-https://guot55.serv00.net/Smatrv.php?id=momo1月光宝盒twn
-#EXTINF:-1 group-title="兒童 Kids",Nick Jr
-https://guot55.serv00.net/Smatrv.php?id=Nickjr
-#EXTINF:-1 group-title="兒童 Kids",Nickelodeon
-https://guot55.serv00.net/Smatrv.php?id=Nickelodeon
-#EXTINF:-1 group-title="兒童 Kids",東森幼幼 Yoyo TV
-https://guot55.serv00.net/Smatrv.php?id=yoyo月光宝盒twn
-#EXTINF:-1 group-title="兒童 Kids",靖天卡通台
-https://guot55.serv00.net/Smatrv.php?id=jingtiancartoon月光宝盒twn
-#EXTINF:-1 group-title="泰國 Thailand",Amarin
-https://guot55.serv00.net/Smatrv.php?id=amarin月光宝盒pat
-#EXTINF:-1 group-title="泰國 Thailand",Ch 8
-https://guot55.serv00.net/Smatrv.php?id=ch8月光宝盒pat
-#EXTINF:-1 group-title="泰國 Thailand",Channel 3 Thailand
-https://guot55.serv00.net/Smatrv.php?id=ch3月光宝盒pat
-#EXTINF:-1 group-title="泰國 Thailand",Channel 5 Thailand
-https://guot55.serv00.net/Smatrv.php?id=ch5月光宝盒pat
-#EXTINF:-1 group-title="泰國 Thailand",Channel 7 Thailand
-https://guot55.serv00.net/Smatrv.php?id=ch7月光宝盒pat
-#EXTINF:-1 group-title="泰國 Thailand",Gmm Channel
-https://guot55.serv00.net/Smatrv.php?id=gmmchannel月光宝盒pat
-#EXTINF:-1 group-title="泰國 Thailand",GmmOne
-https://guot55.serv00.net/Smatrv.php?id=gmmone月光宝盒pat
-#EXTINF:-1 group-title="泰國 Thailand",MCOT HD Thailand-1
-https://guot55.serv00.net/Smatrv.php?id=mcot月光宝盒pat
-#EXTINF:-1 group-title="泰國 Thailand",Mono
-https://guot55.serv00.net/Smatrv.php?id=mono月光宝盒pat
-#EXTINF:-1 group-title="泰國 Thailand",Nation
-https://guot55.serv00.net/Smatrv.php?id=nation月光宝盒pat
-#EXTINF:-1 group-title="泰國 Thailand",Nbt
-https://guot55.serv00.net/Smatrv.php?id=nbt月光宝盒pat
-#EXTINF:-1 group-title="泰國 Thailand",New
-https://guot55.serv00.net/Smatrv.php?id=new月光宝盒pat
-#EXTINF:-1 group-title="泰國 Thailand",PPTV Thailand1
-https://guot55.serv00.net/Smatrv.php?id=pptv月光宝盒pat
-#EXTINF:-1 group-title="泰國 Thailand",TPTV
-https://guot55.serv00.net/Smatrv.php?id=tptv月光宝盒pat
-#EXTINF:-1 group-title="泰國 Thailand",Thai Thai
-https://guot55.serv00.net/Smatrv.php?id=thaithai月光宝盒pat
-#EXTINF:-1 group-title="泰國 Thailand",Thairath
-https://guot55.serv00.net/Smatrv.php?id=thairath月光宝盒pat
-#EXTINF:-1 group-title="泰國 Thailand",Tnn24
-https://guot55.serv00.net/Smatrv.php?id=tnn24月光宝盒pat
-#EXTINF:-1 group-title="泰國 Thailand",Workpoint
-https://guot55.serv00.net/Smatrv.php?id=workpoint月光宝盒pat
-#EXTINF:-1 group-title="泰國 Thailand",tpbs
-https://guot55.serv00.net/Smatrv.php?id=tpbs月光宝盒pat
-#EXTINF:-1 group-title="英國 United Kingdom",Al-Jazeera
-https://guot55.serv00.net/Smatrv.php?id=aljazeera月光宝盒twn
-#EXTINF:-1 group-title="英國 United Kingdom",Animal Planet (Eng)
-https://guot55.serv00.net/Smatrv.php?id=AnimalPlanet
-#EXTINF:-1 group-title="英國 United Kingdom",Axn HD
-https://guot55.serv00.net/Smatrv.php?id=Axn
-#EXTINF:-1 group-title="英國 United Kingdom",BBC 1
-https://guot55.serv00.net/Smatrv.php?id=bbc1月光宝盒antik
-#EXTINF:-1 group-title="英國 United Kingdom",BBC 2
-https://guot55.serv00.net/Smatrv.php?id=bbc2月光宝盒antik
-#EXTINF:-1 group-title="英國 United Kingdom",BBC Earth HD
-https://guot55.serv00.net/Smatrv.php?id=bbcearth月光宝盒twn
-#EXTINF:-1 group-title="英國 United Kingdom",BBC Earth Lifestyle
-https://guot55.serv00.net/Smatrv.php?id=bbclifestyle月光宝盒twn
-#EXTINF:-1 group-title="英國 United Kingdom",BBC World News
-https://guot55.serv00.net/Smatrv.php?id=bbcworldnews月光宝盒antik
-#EXTINF:-1 group-title="英國 United Kingdom",Bloomberg News
-https://guot55.serv00.net/Smatrv.php?id=bloomberg月光宝盒twn
-#EXTINF:-1 group-title="英國 United Kingdom",Boomerang
-https://guot55.serv00.net/Smatrv.php?id=Boomerang
-#EXTINF:-1 group-title="英國 United Kingdom",CBBC
-https://guot55.serv00.net/Smatrv.php?id=cbbc月光宝盒antik
-#EXTINF:-1 group-title="英國 United Kingdom",CBeebies
-https://guot55.serv00.net/Smatrv.php?id=Cbeebies
-#EXTINF:-1 group-title="英國 United Kingdom",CGTN
-https://guot55.serv00.net/Smatrv.php?id=CGTN
-#EXTINF:-1 group-title="英國 United Kingdom",CNBC
-https://guot55.serv00.net/Smatrv.php?id=cnbc月光宝盒twn
-#EXTINF:-1 group-title="英國 United Kingdom",Channel 4
-https://guot55.serv00.net/Smatrv.php?id=channel4月光宝盒antik
-#EXTINF:-1 group-title="英國 United Kingdom",DW (Deutsch)
-https://guot55.serv00.net/Smatrv.php?id=dw月光宝盒twn
-#EXTINF:-1 group-title="英國 United Kingdom",Euronews
-https://guot55.serv00.net/Smatrv.php?id=euronews月光宝盒antik
-#EXTINF:-1 group-title="英國 United Kingdom",France 24
-https://guot55.serv00.net/Smatrv.php?id=france24月光宝盒twn
-#EXTINF:-1 group-title="英國 United Kingdom",Freesports
-https://guot55.serv00.net/Smatrv.php?id=freesports月光宝盒antik
-#EXTINF:-1 group-title="英國 United Kingdom",HBO HD
-https://guot55.serv00.net/Smatrv.php?id=Hbo
-#EXTINF:-1 group-title="英國 United Kingdom",HGTV
-https://guot55.serv00.net/Smatrv.php?id=HGTV
-#EXTINF:-1 group-title="英國 United Kingdom",History
-https://guot55.serv00.net/Smatrv.php?id=History
-#EXTINF:-1 group-title="英國 United Kingdom",Hits Movie
-https://guot55.serv00.net/Smatrv.php?id=Hitsmovie
-#EXTINF:-1 group-title="英國 United Kingdom",Kids TV
-https://guot55.serv00.net/Smatrv.php?id=KidsTV
-#EXTINF:-1 group-title="英國 United Kingdom",MTV Live
-https://guot55.serv00.net/Smatrv.php?id=mtvhd月光宝盒twn
-#EXTINF:-1 group-title="英國 United Kingdom",More4
-https://guot55.serv00.net/Smatrv.php?id=more4月光宝盒antik
-#EXTINF:-1 group-title="英國 United Kingdom",NHK World
-https://guot55.serv00.net/Smatrv.php?id=nhkworld月光宝盒japan
-#EXTINF:-1 group-title="英國 United Kingdom",NatGeo HD
-https://guot55.serv00.net/Smatrv.php?id=Natgeo
-#EXTINF:-1 group-title="英國 United Kingdom",NatGeo Wild HD
-https://guot55.serv00.net/Smatrv.php?id=Natgeowild
-#EXTINF:-1 group-title="英國 United Kingdom",Nick Jr
-https://guot55.serv00.net/Smatrv.php?id=Nickjr
-#EXTINF:-1 group-title="英國 United Kingdom",Nickelodeon
-https://guot55.serv00.net/Smatrv.php?id=Nickelodeon
-#EXTINF:-1 group-title="英國 United Kingdom",Pick TV
-https://guot55.serv00.net/Smatrv.php?id=picktv月光宝盒antik
-#EXTINF:-1 group-title="英國 United Kingdom",Skynews
-https://guot55.serv00.net/Smatrv.php?id=skynews月光宝盒antik
-#EXTINF:-1 group-title="英國 United Kingdom",Skysports Arena
-https://guot55.serv00.net/Smatrv.php?id=tiankongarena
-#EXTINF:-1 group-title="英國 United Kingdom",Skysports Cricket
-https://guot55.serv00.net/Smatrv.php?id=tiankongcricket
-#EXTINF:-1 group-title="英國 United Kingdom",Skysports EPL
-https://guot55.serv00.net/Smatrv.php?id=tiankongepl
-#EXTINF:-1 group-title="英國 United Kingdom",Skysports F1
-https://guot55.serv00.net/Smatrv.php?id=tiankongf1
-#EXTINF:-1 group-title="英國 United Kingdom",Skysports Football
-https://guot55.serv00.net/Smatrv.php?id=tiankongfootball
-#EXTINF:-1 group-title="英國 United Kingdom",Skysports Golf
-https://guot55.serv00.net/Smatrv.php?id=tiankonggolf
-#EXTINF:-1 group-title="英國 United Kingdom",Skysports Main Event
-https://guot55.serv00.net/Smatrv.php?id=tiankongmain
-#EXTINF:-1 group-title="英國 United Kingdom",Skysports News
-https://guot55.serv00.net/Smatrv.php?id=tiankongnews
-#EXTINF:-1 group-title="英國 United Kingdom",Star Movies HD
-https://guot55.serv00.net/Smatrv.php?id=starmovies月光宝盒raj
-#EXTINF:-1 group-title="英國 United Kingdom",TLC
-https://guot55.serv00.net/Smatrv.php?id=Tlc
-#EXTINF:-1 group-title="英國 United Kingdom",Thrill
-https://guot55.serv00.net/Smatrv.php?id=Thrill
-#EXTINF:-1 group-title="英國 United Kingdom",Warner TV
-https://guot55.serv00.net/Smatrv.php?id=WarnerTV
-#EXTINF:-1 group-title="英國 United Kingdom",itv 1
-https://guot55.serv00.net/Smatrv.php?id=itv1月光宝盒antik
-#EXTINF:-1 group-title="英國 United Kingdom",itv 2
-https://guot55.serv00.net/Smatrv.php?id=itv2月光宝盒antik
-#EXTINF:-1 group-title="越南 Vietnam",ANTV
-https://guot55.serv00.net/Smatrv.php?id=viet月光宝盒antv
-#EXTINF:-1 group-title="越南 Vietnam",BPTV 2
-https://guot55.serv00.net/Smatrv.php?id=viet月光宝盒bptv2
-#EXTINF:-1 group-title="越南 Vietnam",BRT HD
-https://guot55.serv00.net/Smatrv.php?id=viet月光宝盒brt
-#EXTINF:-1 group-title="越南 Vietnam",Ca Mau TV
-https://guot55.serv00.net/Smatrv.php?id=viet月光宝盒camautv
-#EXTINF:-1 group-title="越南 Vietnam",Danang TV1 HD
-https://guot55.serv00.net/Smatrv.php?id=viet月光宝盒danangtv1
-#EXTINF:-1 group-title="越南 Vietnam",Danang TV2 HD
-https://guot55.serv00.net/Smatrv.php?id=viet月光宝盒danangtv2
-#EXTINF:-1 group-title="越南 Vietnam",HBTV HD
-https://guot55.serv00.net/Smatrv.php?id=viet月光宝盒hbtv
-#EXTINF:-1 group-title="越南 Vietnam",HTV 7
-https://guot55.serv00.net/Smatrv.php?id=viet月光宝盒htv7
-#EXTINF:-1 group-title="越南 Vietnam",HTV 9
-https://guot55.serv00.net/Smatrv.php?id=viet月光宝盒htv9
-#EXTINF:-1 group-title="越南 Vietnam",PTTH 1
-https://guot55.serv00.net/Smatrv.php?id=viet月光宝盒ptth1
-#EXTINF:-1 group-title="越南 Vietnam",VTV 1
-https://guot55.serv00.net/Smatrv.php?id=viet月光宝盒vtv1
-#EXTINF:-1 group-title="越南 Vietnam",VTV 7
-https://guot55.serv00.net/Smatrv.php?id=viet月光宝盒vtv7
-#EXTINF:-1 group-title="韓國 Korea",All the Kpop
-https://guot55.serv00.net/Smatrv.php?id=allthekpop月光宝盒korea
-#EXTINF:-1 group-title="韓國 Korea",Apps TV
-https://guot55.serv00.net/Smatrv.php?id=appongoogle月光宝盒korea
-#EXTINF:-1 group-title="韓國 Korea",Arirang HD
-https://guot55.serv00.net/Smatrv.php?id=arirang月光宝盒korea
-#EXTINF:-1 group-title="韓國 Korea",CBS
-https://guot55.serv00.net/Smatrv.php?id=cbs月光宝盒korea
-#EXTINF:-1 group-title="韓國 Korea",CGNTV
-https://guot55.serv00.net/Smatrv.php?id=cgntv月光宝盒korea
-#EXTINF:-1 group-title="韓國 Korea",EBS 1
-https://guot55.serv00.net/Smatrv.php?id=ebs1月光宝盒korea
-#EXTINF:-1 group-title="韓國 Korea",EBS Kids
-https://guot55.serv00.net/Smatrv.php?id=ebskids月光宝盒korea
-#EXTINF:-1 group-title="韓國 Korea",EBS Plus2
-https://guot55.serv00.net/Smatrv.php?id=ebsplus2月光宝盒korea
-#EXTINF:-1 group-title="韓國 Korea",EBS2
-https://guot55.serv00.net/Smatrv.php?id=ebs2月光宝盒korea
-#EXTINF:-1 group-title="韓國 Korea",J the Kpop
-https://guot55.serv00.net/Smatrv.php?id=jthekpop月光宝盒korea
-#EXTINF:-1 group-title="韓國 Korea",KBS World 24
-https://guot55.serv00.net/Smatrv.php?id=kbsworld24月光宝盒korea
-#EXTINF:-1 group-title="韓國 Korea",SBS Plus
-https://guot55.serv00.net/Smatrv.php?id=sbsplus月光宝盒korea
-#EXTINF:-1 group-title="韓國 Korea",YTN DMB
-https://guot55.serv00.net/Smatrv.php?id=ytndmb月光宝盒korea
-#EXTINF:-1 group-title="韓國 Korea",YTN Korean
-https://guot55.serv00.net/Smatrv.php?id=ytnkorean月光宝盒korea
-#EXTINF:-1 group-title="韓國 Korea",YTN Science
-https://guot55.serv00.net/Smatrv.php?id=ytnscience月光宝盒korea
-#EXTINF:-1 group-title="韓國 Korea",YTN
-https://guot55.serv00.net/Smatrv.php?id=ytn月光宝盒korea
-#EXTINF:-1 group-title="韓國 Korea",Yonhap News
-https://guot55.serv00.net/Smatrv.php?id=yonhapnews月光宝盒korea
-#EXTINF:-1 group-title="日本 Japan",BS-TBS
-https://guot55.serv00.net/Smatrv.php?id=bstbs月光宝盒japan
-#EXTINF:-1 group-title="日本 Japan",BSジャパン 181
-https://guot55.serv00.net/Smatrv.php?id=bs181月光宝盒japan
-#EXTINF:-1 group-title="日本 Japan",BSフジ BS Fuji
-https://guot55.serv00.net/Smatrv.php?id=bsfuji月光宝盒japan
-#EXTINF:-1 group-title="日本 Japan",CNA Japan
-https://guot55.serv00.net/Smatrv.php?id=cna月光宝盒japan
-#EXTINF:-1 group-title="日本 Japan",JET 綜合
-https://guot55.serv00.net/Smatrv.php?id=jettv月光宝盒japan
-#EXTINF:-1 group-title="日本 Japan",NHK Oaska
-https://guot55.serv00.net/Smatrv.php?id=nhkosaka月光宝盒japan
-#EXTINF:-1 group-title="日本 Japan",NHK World
-https://guot55.serv00.net/Smatrv.php?id=nhkworld月光宝盒japan
-#EXTINF:-1 group-title="日本 Japan",NHK-E
-https://guot55.serv00.net/Smatrv.php?id=nhke月光宝盒japan
-#EXTINF:-1 group-title="日本 Japan",NHK-総合-2
-https://guot55.serv00.net/Smatrv.php?id=nhkg月光宝盒japan
-#EXTINF:-1 group-title="日本 Japan",NHKBS1
-https://guot55.serv00.net/Smatrv.php?id=nhkbs1月光宝盒japan
-#EXTINF:-1 group-title="日本 Japan",NHKBSプレミア Premium
-https://guot55.serv00.net/Smatrv.php?id=nhkpremium月光宝盒japan
-#EXTINF:-1 group-title="日本 Japan",TOKYOMX
-https://guot55.serv00.net/Smatrv.php?id=tokyomx月光宝盒japan
-#EXTINF:-1 group-title="日本 Japan",テレビ朝日 Asahi TV
-https://guot55.serv00.net/Smatrv.php?id=asahitv月光宝盒japan
-#EXTINF:-1 group-title="日本 Japan",テレビ東京 Tokyo TV
-https://guot55.serv00.net/Smatrv.php?id=tokyotv月光宝盒japan
+
+
+
+"spider":"./jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
+
+"lives":[
+    
+ {
+      "name": "直播",
+      "type": 0,
+      "playerType": 1,
+      "url": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/zb.txt",
+      "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "live",
+          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+          "urls": [
+            "proxy://do=live&type=txt&ext=https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/zb.txt"
+          ]
+        }
+      ]
+    }],
+"sites":[
+{
+            "key": "js豆瓣1",
+            "name": "🌈公众号【宝盒没宝】",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./lib/douban.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },{"key":"畅梦","name":"🌙宝盒|秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"}, {
+      "key": "csp月光宝盒圣城",
+      "name": "🌙圣城|影视",
+      "type": 3,
+      "api": "csp月光宝盒XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/圣城影视.json","jar": "./jar/4k.jar"
+    },{"key": "csp月光宝盒XBPQ月光宝盒6V",
+  "name": "🌙6V|影视",
+  "type": 3,
+  "api": "csp月光宝盒XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar" : "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/jar/bh.jar",
+  "ext":"https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/h/bh.json"},{ "key": "Ikanbot", "name": "🌙爱看|机器人", "type": 3, "api": "csp月光宝盒Ikanbot", "searchable": 1, "quickSearch": 1, "filterable": 1, "changeable": 1 , "ext":"https://v.aikanbot.com$$$proxy","jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/pg.jar"},
+    {
+      "key": "jqq",
+      "name": "🌙剧圈圈｜影视",
+      "type": 3,
+      "api": "csp月光宝盒XBPQ",
+      "jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ.jar",
+      "ext": {
+        "分类url":"https://www.jqqzx.cc/vodshow/id/{cateId}/page/{catePg}.html",
+        "分类": "电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman" 
+      }
+    },{
+      "key": "csp月光宝盒LiteApple",
+      "name": "🌙苹果┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp月光宝盒LiteApple",
+	  "jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/ap.jar",	
+    "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },{"key":"js兄弟影视","name":"🌙兄弟|影视","type":3,"api":"https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","ext":"https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/xdys.js"},{"key":"南瓜影视","name":"🌙南瓜┃影视","type":3,"api":"csp月光宝盒WexNgys","searchable":1,"quickSearch":1,"filterable":0 ,"jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
+{"key":"快看影视","name":"🌙快看┃影视","type":3,"api":"csp月光宝盒Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
+{"key":"酷看影视","name":"🌙酷看┃影视","type":3,"api":"csp月光宝盒Wexkukantv","searchable":1,"changeable":1,"jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
+{"key":"明日影视","name":"🌙明日┃影视","type":3,"api":"csp月光宝盒WexMingriys","searchable":1,"changeable":1,"jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
+{"key":"腐剧视频","name":"🌙腐剧┃影视","type":3,"api":"csp月光宝盒WexFujutv","searchable":1,"changeable":1,"jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
+{"key":"看看影视","name":"🌙看看┃影视","type":3,"api":"csp月光宝盒WebIV","searchable":1,"quickSearch":1,"filterable":0,"jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
+{"key":"视频库","name":"🌙视频┃影视","type":3,"api":"csp月光宝盒WebVidHub","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://vidhub1.cc","jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
+{"key":"天天影视","name":"🌙天天┃影视","type":3,"api":"csp月光宝盒AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
+{"key":"热播影视","name":"🌙热播┃影视","type":3,"api":"csp月光宝盒AppRB","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
+{"key":"兄弟影视","name":"🌙兄弟┃影视","type":3,"api":"csp月光宝盒Wexxiongdiys","searchable":1,"changeable":1,"jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
+{"key":"农民影视","name":"🌙农民┃影视","type":3,"api":"csp月光宝盒WexNmys","searchable":1,"changeable":1,"jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
+{"key":"利播影视","name":"🌙利播┃影视","type":3,"api":"csp月光宝盒Wexlibhd","searchable":1,"changeable":1,"jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
+{"key":"纯享影视","name":"🌙纯享┃影视","type":3,"api":"csp月光宝盒WexF4kvm","searchable":1,"changeable":1,"jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
+{"key":"两个磁力","name":"🌙两个┃影视","type":3,"api":"csp月光宝盒Wexbttwo","searchable":1,"changeable":1,"jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
+{"key":"机器人","name":"🌙机器┃影视","type":3,"api":"csp月光宝盒Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.aikanbot.com","jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
+{"key":"素白白","name":"🌙素白┃影视","type":3,"api":"csp月光宝盒Subaibai","searchable":1,"changeable":1,"jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
+{"key":"圣城影视","name":"🌙圣城┃影视","type":3,"api":"csp月光宝盒AppNK","searchable":1,"changeable":1,"ext":"mDw3UhvpqIkZ5UdXklz/4Il9zM5cNjB0mlRRZ9AJtWoDBppZXY/MdmoGXv//uRgRP2GmDU4DQ0dtJ3TOynvDwm+Yb2YXjCzfj0qmrCIfLeBniWNTsTxzfA32PGyymnWql5B8DHQxKbHgDEgJ6j4L4w==","jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
+{"key":"骚火影视","name":"🌙骚火┃影视","type":3,"api":"csp月光宝盒Wexsaohuo","searchable":1,"changeable":1,"jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},
+{"key":"在线之家","name":"🌙在线┃之家","type":3,"api":"csp月光宝盒Wexzxzj","searchable":1,"changeable":1,"jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar"},   {"key":"drpy月光宝盒js月光宝盒yt","name":"🌙宝盒|速播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/yt.js"}, {
+      "key": "csp月光宝盒黑狐",
+      "name": "🌙黑狐|影视",
+      "type": 3,
+      "api": "csp月光宝盒XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/黑狐影视.json"
+    }, {
+			"key": "NanGua",
+			"name": "🌙南瓜|弹幕",
+			"type": 3,
+			"api": "csp月光宝盒NanGua",
+			"searchable": 1,
+			"changeable": 1,
+			"ext": "null$$$1","jar": "./pg.jar"
+		}, {
+      "key": "鑫鑫影视",
+      "name": "🌙鑫鑫|影视",
+      "type": 3,
+      "api": "csp月光宝盒AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://yingszj.xn--654a.cc/api.php/app/"
+    }, {
+      "key": "csp月光宝盒七新",
+      "name": "🌙七新|影视",
+      "type": 3,
+      "api": "csp月光宝盒XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/七新影视.json"
+    },
+ {"key": "csp月光宝盒XBPQ月光宝盒6V",
+  "name": "🌙宝盒|4K",
+  "type": 3,
+  "api": "csp月光宝盒XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar" : "./jar/bh.jar",
+  "ext":"./h/bh.json"}, {
+      "key": "蚂蚁",
+      "name": "🌙蚂蚁┃资源",
+      "type": 3,
+      "api": "csp月光宝盒AppYsV2",
+      "ext": "http://122.228.84.103:5822/api.php/app/"
+    },{
+      "key": "saohuo",
+      "name": "🌙骚火┃电影",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp月光宝盒XBPQ",
+      "ext": {
+        "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
+        "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
+        "分类": "电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4",
+        "数组二次截取": "class=\"v月光宝盒list\">&&</ul>",
+        "数组": "\"v月光宝盒img\"&&/div>",
+        "标题": "title=\"&&\"",
+        "副标题": "v月光宝盒note\"&&</div",
+        "跳转播放链接": "<iframe*src=\"&&\"",
+        "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
+        "三次跳转播放链接": "\"url\"*\"&&\""
+      }
+    },{"key":"Xinshijue","name":"🌙视觉|网盘","type":3,"api":"csp月光宝盒Xinshijue","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./lib/wogg.json","jar": "./pg.jar"},
+		   {
+            "key": "达达龟",
+            "name": "🌙达龟|影视",
+            "type": 3,
+            "api": "./lib/drpy.min.js",
+            "ext": "./lib/ddg.js"
+        },
+       {
+    "key":"csp月光宝盒XBPQ月光宝盒subai",
+    "name":"🌙素白|影视",
+    "type":3,
+    "api":"csp月光宝盒XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"{
+    \"免嗅\":\"0\",
+     \"主演\":\"主演:&&</div>\",
+    \"播放数组\":\"class=\\\"paly月光宝盒list月光宝盒btn&&</div>\",
+    \"副标题\":\"class=\\\"jidi\\\">&&</span>\",
+    \"简介\":\"class=\\\"yp月光宝盒context\\\"*<p>&&</div>\",
+    \"分类\":\"电影$new-movie#电视剧$tv-drama#国产剧$domestic-drama#香港经典电影$hongkong-movie\",
+    \"分类url\":\"https://www.subaibaiys.com/{cateId}/page/{catePg}\"}"},
+    //
+   
+		{
+			"key": "天天",
+			"name": "🌙天天|影视",
+			"type": 3,
+			"api": "csp月光宝盒TTian",
+			"playerType": 1,
+			"ext": "http://op.ysdqjs.cn$$$null$$$1","jar": "./pg.jar"
+		},
+        {"key":"csp月光宝盒Kuaikan","name":"🌙快看|影视","type":3,"api":"csp月光宝盒Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/7.jar"},
+       {
+      "key": "49zy",
+      "name": "🌙思玖|1080P",
+      "type": 1,
+      "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产剧",
+        "纪录片",
+        "欧美剧",
+        "香港剧",
+        "动作片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "喜剧片",
+        "动画片",
+        "犯罪片",
+        "韩国剧",
+        "动漫",
+        "电影",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "台湾剧",
+        "国产动漫",
+        "日本动漫",
+        "欧美动漫",
+        "泰国剧",
+        "日剧",
+        "电影解说",
+        "奇幻片",
+        "灾难片",
+        "悬疑片",
+        "其他片",
+        "体育赛事",
+        "海外剧"
+      ]
+    },  
+  {
+      "key": "csp月光宝盒Mp4Mov",
+      "name": "🌙Mp4|电影",
+      "type": 3,
+      "api": "csp月光宝盒Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,"jar": "./jar/XYQ1.jar"
+    },
+    {
+      "key": "csp月光宝盒New6v",
+      "name": "🌙6V|磁力",
+      "type": 3,
+      "api": "csp月光宝盒New6v",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.xb6v.com","jar": "./jar/XYQ1.jar"
+    },
+    {
+      "key": "csp月光宝盒xBPQ月光宝盒玖八",
+      "name": "🌙玖八|影视",
+      "type": 3,
+      "api": "csp月光宝盒XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/98影视.json"
+    },
+    {
+      "key": "csp月光宝盒蛋蛋",
+      "name": "🌙蛋蛋|影视",
+      "type": 3,
+      "api": "csp月光宝盒XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/蛋蛋影视.json"
+    },
+    {
+      "key": "csp月光宝盒TVB",
+      "name": "🌙TVB|云播",
+      "type": 3,
+      "api": "csp月光宝盒XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/TVB云播.json"
+    },
+    {
+      "key": "csp月光宝盒爱看",
+      "name": "🌙爱看|影视",
+      "type": 3,
+      "api": "csp月光宝盒XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/爱看影视.json"
+    },
+   
+    {
+      "key": "csp月光宝盒超前",
+      "name": "🌙超前|点播",
+      "type": 3,
+      "api": "csp月光宝盒XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/超前B站.json","jar": "./jar/4k.jar"
+    },
+    {
+      "key": "csp月光宝盒玖摇",
+      "name": "🌙玖摇|影视",
+      "type": 3,
+      "api": "csp月光宝盒XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/91影视.json","jar": "./jar/4k.jar"
+    },
+    {
+      "key": "csp月光宝盒午舞",
+      "name": "🌙午舞|影视",
+      "type": 3,
+      "api": "csp月光宝盒XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/五五影视.json"
+    },
+    {
+      "key": "csp月光宝盒好戏",
+      "name": "🌙好戏|开场",
+      "type": 3,
+      "api": "csp月光宝盒XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/好戏影视.json","jar": "./jar/4k.jar"
+    },
+    {
+      "key": "csp月光宝盒七月",
+      "name": "🌙七月|影视",
+      "type": 3,
+      "api": "csp月光宝盒XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/七月影视.json","jar": "./jar/4k.jar"
+    },
+    {
+      "key": "csp月光宝盒佳能",
+      "name": "🌙佳能|影视",
+      "type": 3,
+      "api": "csp月光宝盒XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/348影视.json","jar": "./jar/4k.jar"
+    },
+    {
+      "key": "csp月光宝盒低端",
+      "name": "🌙低端|影视",
+      "type": 3,
+      "api": "csp月光宝盒XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/低端影视.json","jar": "./jar/4k.jar"
+    },
+    {
+      "key": "csp月光宝盒非凡",
+      "name": "🌙非凡|资源",
+      "type": 3,
+      "api": "csp月光宝盒XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/非凡资源网.json"
+    },
+    {
+      "key": "csp月光宝盒量子",
+      "name": "🌙量子|资源",
+      "type": 3,
+      "api": "csp月光宝盒XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/量子资源网.json"
+    },{
+			"key":"bili",
+			"name":"B站 | Bili",
+			"type":3,
+			"api": "csp月光宝盒Bili",
+			"searchable": 1,
+			"quickSearch": 0,
+			"changeable": 0,
+			"ext":{
+				"type":"演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
+				"cookie":""
+			},"jar": "./pg.jar"
+		},
+    {
+      "key": "央视经典",
+      "name": "📺央视｜经典",
+      "type": 3,
+      "api": "csp月光宝盒Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/哔哩经典.json"
+    },
+    {
+      "key": "mtv月光宝盒xp月光宝盒动漫巴士",
+      "name": "🐼动漫丨巴士",
+      "type": 3,
+      "api": "csp月光宝盒XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./a/动漫巴士.json"
+    },
+    {
+      "key": "mtv月光宝盒xp月光宝盒维奇动漫",
+      "name": "🐼维奇丨动漫",
+      "type": 3,
+      "api": "csp月光宝盒XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./a/维奇动漫.json"
+    },
+    {
+      "key": "csp月光宝盒短剧",
+      "name": "🎧刷刷｜短剧",
+      "type": 3,
+      "api": "csp月光宝盒XBPQ",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "./a/短剧网.json"
+    },
+    {
+      "key": "哔哩音乐",
+      "name": "🎧哔哩｜音乐",
+      "type": 3,
+      "api": "csp月光宝盒Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/哔哩音乐.json"
+    },
+    {
+      "key": "小灯塔科学",
+      "name": "🌏小灯塔科学",
+      "type": 3,
+      "api": "csp月光宝盒Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/小灯塔科学.json"
+    },
+    {
+      "key": "小灯塔地理",
+      "name": "🌏小灯塔地理",
+      "type": 3,
+      "api": "csp月光宝盒Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/小灯塔地理.json"
+    },
+    {
+      "key": "小灯塔百科",
+      "name": "🌏小灯塔百科",
+      "type": 3,
+      "api": "csp月光宝盒Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/小灯塔百科.json"
+    },
+    {
+      "key": "小灯塔国学",
+      "name": "🌏小灯塔国学",
+      "type": 3,
+      "api": "csp月光宝盒Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/小灯塔国学.json"
+    },
+    {
+      "key": "幼儿教育",
+      "name": "🅱幼小衔接",
+      "type": 3,
+      "api": "csp月光宝盒Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/哔哩幼小.json"
+    },
+    {
+      "key": "哔哩小学",
+      "name": "🅱小学教育",
+      "type": 3,
+      "api": "csp月光宝盒Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/哔哩小学.json"
+    },
+    {
+      "key": "哔哩初中",
+      "name": "🅱初中教育",
+      "type": 3,
+      "api": "csp月光宝盒Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/哔哩初中.json"
+    },
+    {
+      "key": "哔哩高中",
+      "name": "🅱高中教育",
+      "type": 3,
+      "api": "csp月光宝盒Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/哔哩高中.json"
+    },
+    {
+      "key": "兴趣健身",
+      "name": "🅱兴趣健身",
+      "type": 3,
+      "api": "csp月光宝盒Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/哔哩健身.json"
+    },
+    {
+      "key": "相声小品",
+      "name": "🅱相声小品",
+      "type": 3,
+      "api": "csp月光宝盒Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/哔哩相声.json"
+    },
+    {
+      "key": "天下美食",
+      "name": "🅱天下美食",
+      "type": 3,
+      "api": "csp月光宝盒Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/哔哩美食.json"
+    },
+    {
+      "key": "戏曲杂苑",
+      "name": "🅱戏曲杂苑",
+      "type": 3,
+      "api": "csp月光宝盒Bili",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/哔哩戏曲.json"
+    },
+{
+    "key":"csp月光宝盒XBPQ月光宝盒duoju",
+    "name":"🌙多剧|影院",
+    "type":3,
+    "api":"csp月光宝盒XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"{
+    \"免嗅\":\"1\",
+    \"演员\":\"主演：&&</div>\",
+    \"简介\":\"class=\\\"module-info-introduction-content show-desc\\\"*<p>&&</div>\",
+    \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
+    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
+    \"线路标题\":\"<span>&&</small>\",
+    \"播放数组\":\"class=\\\"module-play-list&&</div>\",
+    \"分类\":\"电影$1#电视剧$2#国产剧$13#港剧$34#综艺$3#动漫$4\",
+    \"分类url\":\"https://duoju.vip/vodshow/{cateId}--------{catePg}---.html\"}"},
+    //
+
+  {
+    "key":"csp月光宝盒XBPQ月光宝盒六度",
+    "name":"🌙六度|影视",
+    "type":3,
+    "api":"csp月光宝盒XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"{
+    \"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",
+    \"线路数组\":\"data-toggle&&</li>\",
+    \"线路标题\":\">&&/a>\",
+    \"播放链接\":\"href=\\\'&&\\\'\",
+    \"播放标题\":\">&&\",
+    \"播放数组\":\"class=\\\"stui-content月光宝盒月光宝盒playlist clearfix&&</ul>\",
+    \"分类\":\"电影$1#电视剧$2#综艺$4#动漫$3\",
+    \"分类url\":\"https://6d.zzdacou.com/whole/{cateId}月光宝盒月光宝盒月光宝盒月光宝盒月光宝盒月光宝盒月光宝盒0月光宝盒addtime月光宝盒{catePg}.html\"}"},
+    //
+
+{
+    "key":"csp月光宝盒XBPQ月光宝盒aikan",
+    "name":"🌙爱看|影院",
+    "type":3,
+    "api":"csp月光宝盒XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"{
+    \"主演\":\"主演：&&</div>\",
+    \"简介\":\"class=\\\"module-info-introduction-content show-desc\\\"*<p>&&</div>\",
+    \"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",
+    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
+    \"线路标题\":\"<span>&&</small>\",
+    \"播放数组\":\"class=\\\"module-play-list&&</div>\",
+    \"分类\":\"电影$1#电视剧$2#国产剧$42#港剧$49#综艺$3#动漫$4\",
+    \"分类url\":\"https://www.3wyy.com/vodshow/{cateId}--------{catePg}---.html\"}"},
+{
+    "key":"csp月光宝盒XBPQ月光宝盒dudu30",
+    "name":"🌙嘟嘟|影视",
+    "type":3,
+    "api":"csp月光宝盒XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"{
+    \"请求头\":\"手机\",
+    \"简介\":\"介绍：&&</span>\",
+    \"副标题\":\"class=\\\"other\\\">&&</p>\",
+    \"线路数组\":\"playerico ico-Azhan&&/li>\",
+    \"线路标题\":\"</i>&&<\",
+   
+    \"分类\":\"电影$1#电视剧$2#国产剧$12#港剧$21#综艺$31#动漫$26\",
+    \"分类url\":\"http://www.dudu30.com/?m=vod-type-id-{cateId}-pg-{catePg}.html\"}"},
+    //
+{
+            "key": "ZYJK", 
+            "name": "🌙宝盒|极速", 
+            "type": 1, 
+            "api": "http://film.benmx.com/api.php/tvbox", 
+            "searchable": 1, 
+            "quickSearch": 1, 
+            "filterable": 1
+        },
+ {
+    "key":"csp月光宝盒XBPQ月光宝盒xinshijue",
+    "name":"🌙视觉|影视",
+    "type":3,
+    "api":"csp月光宝盒XBPQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"{
+    \"免嗅\":\"1\",
+    \"主演\":\"主演：&&</div>\",
+    \"简介\":\"class=\\\"video-info-item video-info-content vod月光宝盒content\\\"&&</div>\",
+    \"数组\":\"class=\\\"module-item-pic&&</div>\",
+    \"副标题\":\"class=\\\"module-item-text\\\">&&</div>\",
+    \"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",
+    \"线路标题\":\"<span>&&</small>\",
+    \"播放数组\":\"class=\\\"scroll-content&&</div>\",
+    \"分类\":\"电影$1#电视剧$2#国产剧$42#港台剧$49#综艺$3#动漫$4\",
+    \"分类url\":\"https://www.6080yy3.com/vodshow/{cateId}--------{catePg}---.html\"}"},
+    //
+
+        {"key":"csp月光宝盒Ddys","name":"🌙低端|影视","type":3,"api":"csp月光宝盒Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar": "./jar/83.jar"},
+     
+          {
+      "key": "csp月光宝盒SeedHub",
+      "name": "🌙Seed|Hub",
+      "type": 3,
+      "api": "csp月光宝盒SeedHub",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,"jar": "./jar/XYQ1.jar"
+    },
+    {
+      "key": "csp月光宝盒KubaCL",
+      "name": "🌙酷吧|电影",
+      "type": 3,
+      "api": "csp月光宝盒KubaCL",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,"jar": "./jar/XYQ1.jar"
+    },
+    {
+      "key": "csp月光宝盒MeijuTT",
+      "name": "🌙美剧|天堂",
+      "type": 3,
+      "api": "csp月光宝盒MeijuTT",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,"jar": "./jar/XYQ1.jar"
+    },
+    {
+      "key": "csp月光宝盒MeijuMi",
+      "name": "🌙美剧|剧集",
+      "type": 3,
+      "api": "csp月光宝盒MeijuMi",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,"jar": "./jar/XYQ1.jar"
+    },
+    {
+      "key": "csp月光宝盒BLSGod",
+      "name": "🌙80S|影视",
+      "type": 3,
+      "api": "csp月光宝盒BLSGod",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,"jar": "./jar/XYQ1.jar"
+    },
+    {
+      "key": "csp月光宝盒Xunlei8",
+      "name": "🌙迅雷|磁力",
+      "type": 3,
+      "api": "csp月光宝盒Xunlei8",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,"jar": "./jar/XYQ1.jar"
+    },
+    {
+      "key": "csp月光宝盒XYQHiker月光宝盒高清MP4",
+      "name": "🌙高清|MP4",
+      "type": 3,
+      "api": "csp月光宝盒XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./h/高清MP4.json","jar": "./jar/XYQ1.jar"
+    },
+   	 
+{
+      "key": "cjzy月光宝盒快看",
+      "name": "🌙快看|影视",
+      "type": 1,
+      "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
+      "playUrl": "",
+      "changeable": 1,
+      "playerType": 2,
+      "categories": [
+        "国产剧",
+        "港台剧",
+        "国产动漫",
+        "日韩剧",
+        "欧美剧",
+        "海外剧",
+        "动作片",
+        "爱情片",
+        "剧情片",
+        "科幻片",
+        "奇幻片",
+        "战争片",
+        "犯罪片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "冒险片"
+      ]
+    },   
+{
+      "key": "量子",
+      "name": "🌙量子|影视",
+      "type": 0,
+      "api": "https://cj.lziapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "国产剧",
+        "韩国剧",
+        "日本剧",
+        "电影片",
+        "连续剧",
+        "综艺片",
+        "动漫片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "记录片",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫",
+        "体育",
+        "足球",
+        "篮球",
+        "网球",
+        "斯诺克"
+      ]
+    },
+    {
+      "key": "非凡",
+      "name": "🌙非凡|影视",
+      "type": 0,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "国产动漫",
+        "日韩动漫",
+        "国产剧",
+        "韩国剧",
+        "日本剧",
+        "电影片",
+        "连续剧",
+        "综艺片",
+        "动漫片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "香港剧",
+        "欧美剧",
+        "记录片",
+        "台湾剧",
+        "海外剧",
+        "泰国剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫"
+      ]
+    },
+{
+			"key": "酷狗",
+			"name": "🎵酷狗|音乐",
+			"type": 3,
+			"api": "csp月光宝盒Kugou",
+			"searchable": 1,
+			"changeable": 0,"jar": "./jar/pg.jar"
+		},{
+      "key": "Yinyuetai",
+      "name": "🎵音悦台┃音乐",
+      "type": 3,
+      "api": "csp月光宝盒Yinyuetai",
+      "searchable": 1,
+      "changeable": 0,"jar": "./jar/ktv.jar"
+    },{
+      "key": "Iktv",
+      "name": "🎵KTV┃（切换音轨开启K歌）",
+      "type": 3,
+      "api": "csp月光宝盒Iktv",
+      "searchable": 1,
+      "changeable": 0,"jar": "./jar/ktv.jar"
+    },
+
+{      "key": "csp月光宝盒Dm84",      "name": "🚌动漫|巴士",      "type": 3,      "api": "csp月光宝盒Dm84",      "searchable": 1,      "quickSearch": 1,      "filterable": 1    },   
+    {"key":"22","name":"接口仅供测试，请勿贩售","type":0,"api":""},
+    {"key":"18","name":"请勿相信视频中的任何广告","type":0,"api":""}
+
+
+
+],
+
+
+"parses":[
+    {
+      "name": "超嗅探",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "解析1",
+      "type": 1,
+      "url": "http://119.91.123.253:2345/Api/yun.php?url="
+    },
+    {
+      "name": "蚂蚁1",
+      "type": 0,
+      "url": "https://p.orangek.org/player/ec.php?code=qw&if=1&url=",
+      "ext": {
+        "flag": [
+          "NBY"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "蚂蚁2",
+      "type": 0,
+      "url": "http://103.233.255.142:1133/?url=",
+      "ext": {
+        "flag": [
+          "NBY"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+        {
+            "name": "宝盒",
+            "type": 1,
+            "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "tucheng",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "yzm",
+                    "aliyun",
+                    "RJuMao",
+                    "bilibili",
+                    "1905",
+                    "xinvip",
+                    "XAL",
+                    "qiqi",
+                    "XALS",
+                    "YuMi-vip"
+                ]
+            }
+        }, {
+      "name": "宝盒2",
+      "type": 1,
+      "url": "http://119.91.123.253:2345/Api/yun.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "企鹅",
+          "IQiYi",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "YouKu",
+          "优酷",
+          "sohu",
+          "SoHu",
+          "搜狐",
+          "letv",
+          "LeShi",
+          "乐视",
+          "imgo",
+          "mgtv",
+          "MangGuo",
+          "芒果",
+          "SLYS4k",
+          "BYGA",
+          "luanzi",
+          "AliS",
+          "dxzy",
+          "bilibili",
+          "QEYSS",
+          "xigua",
+          "西瓜视频",
+          "腾讯视频",
+          "奇艺视频",
+          "优酷视频",
+          "芒果视频",
+          "乐视视频"
+        ],
+        "header": {
+          "User-Agent": "Dart/2.18 (dart:io)"
+        }
+      }
+    },
+    {
+      "name": "解析1",
+      "type": 1,
+      "url": "https://cache.json.icu/8520.php?url="
+    },
+    {
+      "name": "解析2",
+      "type": 1,
+      "url": "http://119.91.123.253:2345/Api/yun.php?url="
+    },
+    {
+      "name": "赛文",
+      "type": 1,
+      "url": "http://xiutan.shiyifacai.com/json/qingfeng.php?url=",
+      "ext": {
+        "flag": [
+          "seven"
+        ],
+        "header": {
+          "User-Agent": "Lavf/58.12.100"
+        }
+      }
+    },
+    {
+      "name": "西瓜1",
+      "type": 0,
+      "url": "https://t1.qlplayer.cyou/player/analysis.php?v="
+    },
+    {
+      "name": "西瓜2",
+      "type": 0,
+      "url": "https://t1.qlplayer.cyou/player/?url="
+    },
+    {
+      "name": "初恋1",
+      "type": 0,
+      "url": "https://ys.zf520.cn/addons/dp/player/index.php?key=0&url="
+    },
+    {
+      "name": "初恋2",
+      "type": 0,
+      "url": "https://ys.zf520.cn/addons/dp/player/dp.php?key=0&from=&id=&api=&url="
+    },
+    {
+      "name": "嗅探1",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "嗅探2",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "嗅探3",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+      
+ {
+      "name": "观音解析",
+      "type": 1,
+      "url": "http://61.147.93.21:8090/index.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "企鹅",
+          "IQiYi",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "YouKu",
+          "优酷",
+          "sohu",
+          "SoHu",
+          "搜狐",
+          "letv",
+          "LeShi",
+          "乐视",
+          "imgo",
+          "mgtv",
+          "MangGuo",
+          "芒果",
+          "SLYS4k",
+          "BYGA",
+          "luanzi",
+          "AliS",
+          "dxzy",
+          "bilibili",
+          "QEYSS",
+          "xigua",
+          "西瓜视频",
+          "腾讯视频",
+          "奇艺视频",
+          "优酷视频",
+          "芒果视频",
+          "乐视视频"
+        ]
+      }
+    },
+    {
+      "name": "茶杯解析",
+      "type": 1,
+      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "企鹅",
+          "IQiYi",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "YouKu",
+          "优酷",
+          "sohu",
+          "SoHu",
+          "搜狐",
+          "letv",
+          "LeShi",
+          "乐视",
+          "imgo",
+          "mgtv",
+          "MangGuo",
+          "芒果",
+          "SLYS4k",
+          "BYGA",
+          "luanzi",
+          "AliS",
+          "dxzy",
+          "bilibili",
+          "QEYSS",
+          "xigua",
+          "西瓜视频",
+          "腾讯视频",
+          "奇艺视频",
+          "优酷视频",
+          "芒果视频",
+          "乐视视频"
+        ]
+      }
+    },
+    {
+      "name": "盖碗解析",
+      "type": 1,
+      "url": "http://119.91.123.253:1234/Api/cs.php?url=2449&my=acfgikquvzFGJRW459&url=",
+      "ext": {
+        "flag": [
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "xigua",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name": "白茶嗅探",
+      "url": "https://jx.bozrc.com:4433/player/?url=",
+      "showType": 1
+    },
+    {
+      "name": "滇红嗅探",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "毛尖嗅探",
+      "type": 0,
+      "url": "https://jx.bozrc.com:4433/player/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        },
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "leshi",
+          "LS",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
+    },
+    {
+      "name": "青柑嗅探",
+      "type": 0,
+      "url": "http://www.miaoys.cc/vip/?url="
+    },
+    {
+      "name": "岩茶嗅探",
+      "type": 0,
+      "url": "https://jx.ppjbk.cn/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },
+    {
+      "name": "小种嗅探",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
+    {
+      "name": "普洱嗅探",
+      "url": "https://jx.bozrc.com:4433/player/?url=",
+      "type": 0,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ],
+        "header": {
+          "User-Agent": "Mozilla/5.0"
+        }
+      }
+    },
+    {
+      "name": "红茶嗅探",
+      "type": 0,
+      "url": "https://jx.4kdv.com/?url=",
+      "ext": {
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        },
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "leshi",
+          "LS",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ]
+      }
+    }
+],
+
+
+
+
+"rules": [
+    {
+      "name": "量子",
+      "hosts": [
+        "vip.lz",
+        "hd.lz"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "非凡",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "火山",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item月光宝盒id="
+      ]
+    },
+    {
+      "name": "抖音",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is月光宝盒play月光宝盒url="
+      ]
+    }
+  ],
+ 
+  "flags": [
+    "youku",
+    "优酷",
+    "优 酷",
+    "优酷视频",
+    "qq",
+    "腾讯",
+    "腾 讯",
+    "腾讯视频",
+    "iqiyi",
+    "qiyi",
+    "奇艺",
+    "爱奇艺",
+    "爱 奇 艺",
+    "m1905",
+    "xigua",
+    "letv",
+    "leshi",
+    "乐视",
+    "乐 视",
+    "sohu",
+    "搜狐",
+    "搜 狐",
+    "搜狐视频",
+    "tudou",
+    "pptv",
+    "mgtv",
+    "芒果",
+    "imgo",
+    "芒果TV",
+    "芒 果 T V",
+    "bilibili",
+    "哔 哩",
+    "哔 哩 哔 哩"
+  ],
+"wallpaper":"https://picsum.photos/1080/","warningText":"月光宝盒完全免费，切勿付费购买。",
+  "ads": [
+    "wan.51img1.com",
+    "iqiyi.hbuioo.com",
+    "vip.ffzyad.com",
+    "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
+  ]
+}
 综合,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
