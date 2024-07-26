@@ -398,3 +398,22 @@ https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.m
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PhnVS3vNi7M2d2/hNtSPVw", "kid":"mXADjvbFSOOXaPOh/29QgQ" } ], "type":"temporary" }
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 #################### TEST ####################
+#################### SE: PARIS 2024 OLYMPICS ####################
+#EXTINF:-1 tvg-chno="711" tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-1.png",RTM PARIS 2024 OLYMPICS 1
+#EXTGRP:[*] SE: PARIS 2024 OLYMPICS
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/index.m3u8
+#EXTINF:-1 tvg-chno="712" tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-2.png",RTM PARIS 2024 OLYMPICS 2
+#EXTGRP:[*] SE: PARIS 2024 OLYMPICS
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/index.m3u8
+#EXTINF:-1 tvg-chno="713" tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-3.png",RTM PARIS 2024 OLYMPICS 3
+#EXTGRP:[*] SE: PARIS 2024 OLYMPICS
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/index.m3u8
+#EXTINF:-1 tvg-chno="714" tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-4.png",RTM PARIS 2024 OLYMPICS 4
+#EXTGRP:[*] SE: PARIS 2024 OLYMPICS
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/index.m3u8
+#EXTINF:-1 tvg-chno="715" tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-5.png",RTM PARIS 2024 OLYMPICS 5
+#EXTGRP:[*] SE: PARIS 2024 OLYMPICS
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/index.m3u8
+#EXTINF:-1 tvg-chno="716" tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/channel-6.png",RTM PARIS 2024 OLYMPICS 6
+#EXTGRP:[*] SE: PARIS 2024 OLYMPICS
+https://d30aylox5wvifh.cloudfront.net/event/smil:event1/index.m3u8
