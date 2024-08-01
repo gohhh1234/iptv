@@ -77,7 +77,7 @@ https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 #EXTINF:-1 tvg-chno="124" tvg-id="TVS.my" tvg-name="TVS.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/TVS.png",TVS
 #EXTGRP:Family/Kids
 #EXTVLCOPT:network-caching=1000
-https://stream.smg.my/live/tvs.m3u8
+https://stream2.smg.my/live/tvs.m3u8
 #EXTINF:-1 tvg-chno="125" tvg-id="SelangorTV.my" tvg-name="SelangorTV.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/SelangorTV.png",Selangor TV
 #EXTGRP:Variety
 #EXTVLCOPT:network-caching=1000
