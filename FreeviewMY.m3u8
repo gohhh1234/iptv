@@ -56,7 +56,7 @@ https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b
 #EXTINF:-1 tvg-chno="120" tvg-id="AwesomeTV.my" tvg-name="AwesomeTV.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/AwesomeTV.png",Awesome TV
 #EXTGRP:Family/Kids
 #EXTVLCOPT:network-caching=1000
-https://222861.global.ssl.fastly.net/6698cc14fa04165068a80345/live_e5f0c8504d8b11efbacf2feeebc6c76f/index.m3u8
+https://222861.global.ssl.fastly.net/6698cc14fa04165068a80345/live_e5f0c8504d8b11efbacf2feeebc6c76f/index.fmp4.m3u8
 #EXTINF:-1 tvg-chno="121" tvg-id="BERNAMA.my" tvg-name="BERNAMA.my" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/BernamaTV.png",BERNAMA
 #EXTGRP:News/World
 #EXTVLCOPT:network-caching=1000
