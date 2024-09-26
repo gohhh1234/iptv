@@ -121,8 +121,9 @@ Star Chinese Movies HD (星卫HD电影台) (720p),http://50.7.220.74:8278/xingwe
 立法院IVOD直播經濟委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
 立法院IVOD直播財政委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
 立法院IVOD直播院會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
-1111
-综合,#genre#
+<!DOCTYPE html><html><head><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="referrer" content="always"><meta name="renderer" content="webkit"><meta name="force-rendering" content="webkit"><meta charset="utf-8"><meta name="keyword" content="CSDN登录"><meta name="description" content="CSDN桌面端登录"><meta name="google" value="notranslate"><meta name="report" content='{"spm":"1031.2352"}'><link type="image/x-icon" href="https://g.csdnimg.cn/static/logo/favicon32.ico" rel="SHORTCUT ICON"><title>CSDN-专业IT技术社区-登录</title><!--[if lte IE 9]>
+       <script>window.location.href="https://g.csdnimg.cn/browser月光宝盒upgrade/1.0.2/index.html";</script>
+    <![endif]--><link href="https://csdnimg.cn/release/passport月光宝盒fe/assets/css/loginv3.f564a2223cfde48b6edc5e34c4e90b16.css" rel="stylesheet"></head><body><div id="app"></div><script type="text/javascript" src="https://csdnimg.cn/release/passport月光宝盒fe/assets/js/manifest.9ac8549a8fdd300a4d93.js"></script><script type="text/javascript" src="https://csdnimg.cn/release/passport月光宝盒fe/assets/js/vendor.f24ff8c53bb58c05b518.js"></script><script type="text/javascript" src="https://csdnimg.cn/release/passport月光宝盒fe/assets/js/loginv3.06bc3b3092481a89c79e.js"></script></body></html>综合,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 
 小地方,#genre#
